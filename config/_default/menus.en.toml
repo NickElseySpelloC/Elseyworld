@@ -1,0 +1,26 @@
+[[main]]
+  name = "Travel Blog"
+  pageRef = "blog"
+  weight = 10
+[[main]]
+  name = "Lynn's Articles"
+  pageRef = "articles"
+  weight = 20
+[[main]]
+  name = "Gallery"
+  pageRef = "gallery"
+  weight = 30
+[[main]]
+  name = "Resources"
+  pageRef = "resources"
+  weight = 40
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 50
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+    icon = "search"
