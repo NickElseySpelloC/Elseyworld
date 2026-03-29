@@ -19,6 +19,12 @@
   pageRef = "about"
   weight = 50
 [[main]]
+  identifier = "appearance"
+  weight = 98
+  [main.params]
+    action = "appearance"
+    icon = "sun"  
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
