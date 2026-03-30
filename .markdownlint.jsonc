@@ -1,0 +1,5 @@
+// A common markdownlint configuration file that disables the rule for inline HTML (MD033).
+// See https://github.com/DavidAnson/markdownlint 
+{
+  "MD033": false
+}

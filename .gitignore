@@ -1,0 +1,14 @@
+# General
+.DS_Store
+*/.DS_Store
+
+# Hugo build artifacts
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Node (if you ever use npm/tailwind processing)
+node_modules/
+
+# Editor
+.vscode/
