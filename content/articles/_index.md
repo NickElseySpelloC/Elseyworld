@@ -6,7 +6,7 @@ title = 'Articles'
 [cascade]
   showAuthor = true
   authorName = "Lynn Elsey"
-  authorImage = "img/people/lynn_elsey.jpg"
+  authorImage = "img/people/lynn_elsey_author.jpg"
   authorBio = "I'm skilled at creating effective and engaging communications, targeted to maximise impact."
 +++
 
