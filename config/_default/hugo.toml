@@ -3,9 +3,8 @@ theme = "congo"
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-# TO DO: Chanhe baseURL back to production domain once fully tested
-# baseURL = "https://elseyworld.com/"
-baseURL = "https://elseyworks.com/"
+# Production domain (update when DNS is pointed)
+baseURL = "https://nickelseyspelloc.github.io/Elseyworld/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
