@@ -1,0 +1,239 @@
+/*
+ * ElseyWorld – Custom CSS
+ * Hugo / Congo theme
+ *
+ * Drop this file at:  <hugo-root>/assets/css/custom.css
+ * Congo picks it up automatically (no config change needed).
+ *
+ * ─────────────────────────────────────────────────────────
+ * GRID SYSTEM
+ * ─────────────────────────────────────────────────────────
+ * Usage:
+ *
+ *   <div class="ew-grid">          <!-- default: 7 columns, 1rem gap -->
+ *     <div class="ew-col-span-5 ew-col-start-2"> … </div>
+ *   </div>
+ *
+ *   <!-- Override column count inline: -->
+ *   <div class="ew-grid" style="--ew-cols: 4;">
+ *     <div class="ew-col-span-2"> … </div>
+ *   </div>
+ *
+ *   <!-- Override gap: -->
+ *   <div class="ew-grid" style="--ew-gap: 2rem;">
+ *
+ * Responsive: below "md" breakpoint the grid collapses to a
+ * single column so all divs stack naturally on mobile.
+ * ─────────────────────────────────────────────────────────
+ */
+
+ /* ── Image floats ─────────────────────────────────────── */
+figure.float-left  {
+    float: left !important;
+    margin: 0 1.5rem 1rem 0 !important;
+    max-width: 45%; 
+}
+
+figure.float-right { 
+    float: right !important; 
+    margin: 0 0 1rem 1.5rem !important; 
+    max-width: 45%; 
+}
+
+img.float-left  { 
+    float: left !important;  
+    margin: 0 1.5rem 1rem 0 !important; 
+    max-width: 45%; 
+}
+
+img.float-right { 
+    float: right !important; 
+    margin: 0 0 1rem 1.5rem !important; 
+    max-width: 45%; 
+}
+
+
+/* ── Grid container ─────────────────────────────────────── */
+
+.ew-grid {
+  --ew-cols: 7;       /* override per-grid via inline style  */
+  --ew-gap:  1rem;    /* override per-grid via inline style  */
+
+  display: grid;
+  grid-template-columns: repeat(var(--ew-cols), 1fr);
+  gap: var(--ew-gap);
+  width: 100%;
+}
+
+/* Collapse to single column on small screens */
+@media (max-width: 767px) {
+  .ew-grid {
+    grid-template-columns: 1fr;
+  }
+  /* Reset all placement on mobile – everything stacks */
+  [class*="ew-col-"] {
+    grid-column: 1 / -1 !important;
+  }
+}
+
+/* ── Column SPAN  (how wide the div is) ─────────────────── */
+/* Use grid-column-end (not the grid-column shorthand) so    */
+/* these don't override grid-column-start when both are set. */
+
+.ew-col-span-1 { grid-column-end: span 1; }
+.ew-col-span-2 { grid-column-end: span 2; }
+.ew-col-span-3 { grid-column-end: span 3; }
+.ew-col-span-4 { grid-column-end: span 4; }
+.ew-col-span-5 { grid-column-end: span 5; }
+.ew-col-span-6 { grid-column-end: span 6; }
+.ew-col-span-7 { grid-column-end: span 7; }
+
+/* Full width shorthand */
+.ew-col-full   { grid-column: 1 / -1; }
+
+/* ── Column START position ───────────────────────────────── */
+/*    Use together with a span class, e.g.:                  */
+/*    class="ew-col-start-2 ew-col-span-5"                   */
+
+.ew-col-start-1 { grid-column-start: 1; }
+.ew-col-start-2 { grid-column-start: 2; }
+.ew-col-start-3 { grid-column-start: 3; }
+.ew-col-start-4 { grid-column-start: 4; }
+.ew-col-start-5 { grid-column-start: 5; }
+.ew-col-start-6 { grid-column-start: 6; }
+.ew-col-start-7 { grid-column-start: 7; }
+
+/* ── Alignment helpers ───────────────────────────────────── */
+
+.ew-items-start   { align-items: start; }
+.ew-items-center  { align-items: center; }
+.ew-items-end     { align-items: end; }
+.ew-items-stretch { align-items: stretch; }  /* default */
+
+/* Self-alignment (override per cell) */
+.ew-self-start   { align-self: start; }
+.ew-self-center  { align-self: center; }
+.ew-self-end     { align-self: end; }
+
+/* ── Gutters / spacing ───────────────────────────────────── */
+
+.ew-gap-sm  { --ew-gap: 0.5rem; }
+.ew-gap-md  { --ew-gap: 1rem;   }   /* default */
+.ew-gap-lg  { --ew-gap: 2rem;   }
+.ew-gap-xl  { --ew-gap: 3rem;   }
+.ew-gap-0   { --ew-gap: 0;      }
+
+/*
+ * ─────────────────────────────────────────────────────────
+ * CARD COMPONENT
+ * ─────────────────────────────────────────────────────────
+ * A simple content card used on the home page.
+ * Congo's own card styles may suffice; keep or remove this.
+ */
+
+.ew-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1.25rem;
+  border-radius: 0.5rem;
+  background: var(--tw-prose-bg, #fff);
+  box-shadow: 0 1px 4px rgba(0,0,0,.08);
+  transition: box-shadow 0.2s ease;
+}
+
+.ew-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,.14);
+}
+
+.ew-card img {
+  width: 100%;
+  /* height: 200px; */
+  object-fit: cover;
+  border-radius: 0.35rem;
+}
+
+.ew-card-title {
+  font-weight: 700;
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-primary, #2563eb);
+}
+
+.ew-card-body {
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+/*
+ * ─────────────────────────────────────────────────────────
+ * AUTHOR BIO COMPONENT
+ * Used on the home page author pair section.
+ */
+
+.ew-author {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.5rem;
+}
+
+.ew-author img {
+  width: 300px !important;
+  height: 300px !important;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.ew-author-namerow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.ew-author-name {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.ew-author-links {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.ew-author-links img {
+  width: 34px !important;
+  height: 34px !important;
+}
+
+
+/*
+ * ─────────────────────────────────────────────────────────
+ * SECTION SPACING
+ */
+
+.ew-section {
+  margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+
+/* Suppress Congo's prose link-hover background highlight
+   within home-page sections – links here wrap images/cards,
+   not inline text, so the coloured block looks wrong.      */
+.ew-section a:hover {
+  background-color: transparent !important;
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.ew-section-title {
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 1.0rem;
+  text-align: center;
+}
