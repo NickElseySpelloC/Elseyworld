@@ -4,7 +4,34 @@ draft = false
 title = "Nick's Travel Blog"
 layout = "list"
 groupByYear = false
-showAuthor = true
+
+[cascade]
+  showAuthor = true
 +++
 
-This is the home page of Nick's travel posts.
+<div class="ew-section">
+  <div class="ew-grid" style="--ew-cols: 2;">
+
+    <div class="ew-col-span-1">
+      <a href="/categories/south-pacific-1997/" class="ew-card" style="text-decoration:none; color:inherit;">
+        <img src="/blog/portland-la/lax.jpg" alt="South Pacific 1997" />
+        <div class="ew-card-title">South Pacific 1997</div>
+        <div class="ew-card-body">
+          Our first big adventure — Portland to Fiji, New Zealand, and beyond.
+        </div>
+      </a>
+    </div>
+
+    <div class="ew-col-span-1">
+      <a href="/categories/australia-2002-trip-2/" class="ew-card" style="text-decoration:none; color:inherit;">
+        <img src="/blog/sydney-and-getting-there/image1.jpg" alt="Australia 2002" />
+        <div class="ew-card-title">Australia 2002</div>
+        <div class="ew-card-body">
+          Our second trip down under — Sydney and surrounds.
+        </div>
+      </a>
+    </div>
+
+  </div>
+</div>
+

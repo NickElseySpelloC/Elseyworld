@@ -20,7 +20,7 @@ collections:
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Author", name: "author", widget: "string", default: "Nick Elsey" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
-      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Thumbnail Image", name: "thumbnail", widget: "image", required: false }
       - { label: "Categories", name: "categories", widget: "list", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "articles"
@@ -36,6 +36,6 @@ collections:
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Author", name: "author", widget: "string", default: "Lynn Elsey" }
       - { label: "Draft", name: "draft", widget: "boolean", default: false }
-      - { label: "Cover Image", name: "cover", widget: "image", required: false }
+      - { label: "Thumbnail Image", name: "thumbnail", widget: "image", required: false }
       - { label: "Categories", name: "categories", widget: "list", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
