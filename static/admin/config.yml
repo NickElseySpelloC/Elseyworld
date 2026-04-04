@@ -11,9 +11,10 @@ collections:
     label: "Nick's Travel Blog"
     folder: "content/blog"
     create: true
-    media_folder: "static/img/blog"
-    public_folder: "/img/blog"
+    media_folder: ""
+    public_folder: ""
     slug: "{{slug}}"
+    path: "{{slug}}/index"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
@@ -26,9 +27,10 @@ collections:
     label: "Lynn's Articles"
     folder: "content/articles"
     create: true
-    media_folder: "static/img/articles"
-    public_folder: "/img/articles"
+    media_folder: ""
+    public_folder: ""
     slug: "{{slug}}"
+    path: "{{slug}}/index"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
