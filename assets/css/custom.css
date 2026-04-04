@@ -131,13 +131,21 @@ img.float-right {
  * Congo's own card styles may suffice; keep or remove this.
  */
 
+/* Ensure card grid cells pass their full height to the card inside */
+.ew-grid .ew-col-span-1:has(> .ew-card),
+.ew-grid .ew-col-span-1:has(> a > .ew-card) {
+  display: flex;
+  flex-direction: column;
+}
+
 .ew-card {
   display: flex;
   flex-direction: column;
+  height: 100%;
   gap: 0.75rem;
   padding: 1.25rem;
   border-radius: 0.5rem;
-  background: var(--tw-prose-bg, #fff);
+  /* background: var(--tw-prose-bg, #fff); */
   box-shadow: 0 1px 4px rgba(0,0,0,.08);
   transition: box-shadow 0.2s ease;
 }
@@ -164,6 +172,7 @@ img.float-right {
 .ew-card-body {
   font-size: 0.9rem;
   line-height: 1.55;
+  flex-grow: 1;
 }
 
 /*
