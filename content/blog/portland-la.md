@@ -4,6 +4,7 @@ date: 1908-11-14T17:40:00.000+10:00
 author: Nick Elsey
 showAuthor: true
 draft: true
+cover: /img/blog/lax.jpg
 categories:
   - South Pacific 1997
 ---
