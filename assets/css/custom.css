@@ -246,3 +246,26 @@ img.float-right {
   margin-bottom: 1.0rem;
   text-align: center;
 }
+
+/*
+ * ─────────────────────────────────────────────────────────
+ * CONTENT WIDTH
+ * Congo's default max-w-prose (~65ch) constrains article and
+ * list page content to a narrow reading column. Override to
+ * fill the full available column (still bounded by the outer
+ * max-w-7xl page container in baseof.html).
+ *
+ * Targets:
+ *   1. Article page header & footer  (single.html)
+ *   2. Content body wrapper          (single.html, list.html, term.html)
+ *   3. Article cards in listing pages (article-link.html)
+ * ─────────────────────────────────────────────────────────
+ */
+
+article > header.max-w-prose,
+article > footer.max-w-prose,
+/* Remove this to restore the narrow content column on list pages */
+/* div.min-h-0.min-w-0.max-w-prose.grow,  */
+article.mt-6.max-w-prose {
+  max-width: 100% !important;
+}

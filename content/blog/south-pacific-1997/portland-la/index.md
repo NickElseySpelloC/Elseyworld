@@ -1,7 +1,6 @@
 ---
 title: Portland & LA
 description: "Leaving on a jet plane..."
-showSummary: true
 date: 1997-02-01T18:39:00.000+10:00
 author: Nick Elsey
 draft: true

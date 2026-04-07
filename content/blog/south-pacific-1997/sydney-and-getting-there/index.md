@@ -3,6 +3,7 @@ title: Sydney, and getting there
 date: 2002-04-10T00:00:00.000+10:00
 draft: true
 thumbnail: image1.jpg
+description: "This is the page description."
 categories:
   - Australia 2002 trip 2
   - Nick
