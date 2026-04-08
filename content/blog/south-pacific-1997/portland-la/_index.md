@@ -3,7 +3,7 @@ title: Portland & LA
 description: "Leaving on a jet plane..."
 date: 1997-02-01T18:39:00.000+10:00
 author: Nick Elsey
-draft: true
+draft: false
 thumbnail: lax.jpg
 categories:
   - South Pacific 1997
