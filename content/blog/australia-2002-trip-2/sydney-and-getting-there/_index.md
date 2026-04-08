@@ -1,6 +1,7 @@
 ---
 title: Sydney, and getting there
 date: 2002-04-10T00:00:00.000+10:00
+author: Nick Elsey
 draft: false
 thumbnail: sydney-again-010.jpg
 description: "For a little bit of exotic excitement, Lynn and I start off this vacation approximately 2,000 miles apart. No really - Lynn decided to use our flight from Portland to Los Angeles as an excuse to go a day early and detour via San Diego to visit her parents. I stay home and pack instead."

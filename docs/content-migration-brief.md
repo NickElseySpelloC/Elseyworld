@@ -12,10 +12,12 @@ original files and saved to the local file system. These files will be used duri
 
 The migration will be done in 2 phases:
 
-1. **Image Fingerprinting**: Generate MD5 hash fingerprints of all downloaded media files.
+1. **Media Fingerprinting**: Generate MD5 hash fingerprints of all downloaded media files.
 2. **HTML Migration**: Copy blog content to the local repo and copy related media files from the local cache.
 
 After phase 1 is complete, please stop and ask me to review before proceeding to phase 2.
+
+During phase 2, please migrate one blog post or article for each Category 2 and then stop and ask me for review.
 
 ## Available Resources
 
@@ -27,9 +29,9 @@ The following resources are available to you for this migration.
 | Originals of the media used in web site | `~/dev/elseyworld-static/media/` |
 | Hugo project content output folder | `~/dev/Elseyworld/content/` |
 
-# Phase 1: Image Fingerprinting
+# Phase 1: media Fingerprinting
 
-During the migration of ElseyWorld content from WIX to Hugo Markdown, all image references need to be resolved from 
+During the migration of ElseyWorld content from WIX to Hugo Markdown, all media references need to be resolved from
 WIX CDN URLs to local image files. This section describes the image resolution strategy.
 
 ## The Problem
@@ -58,13 +60,13 @@ includes a link to a PDF document:
 The downloaded original of this file is here:
 `~/dev/elseyworld-static/media/doc/the-wild-west-decanter-magazine.pdf`
 
-## Image Resolution Strategy
+## Media Resolution Strategy
 
 Use MD5 hash fingerprinting to match WIX CDN images to local originals. This works because
 WIX stores byte-identical copies of the originally uploaded files on its CDN.
 
 Before processing any HTML content (phase 2 below), scan all media files under `~/dev/elseyworld-static/media/`
-recursively and compute an MD5 hash for each image file. Store results in a lookup dictionary:
+recursively and compute an MD5 hash for each file. Store results in a lookup dictionary:
 
 ```python
 {
@@ -86,7 +88,7 @@ In this phase, we will migrate all the html "blog" pages linked from the _all po
 | --- | --- | --- | --- | --- |
 | Asia 2009 | elseyworld.com/blog/categories/asia-2009 | Nick | Asia 2009 | content/blog/asia-2009/<page-slug>/ |
 | Australia 2002 Trip 1 | elseyworld.com/blog/categories/australia-2002-trip-1 | Nick | Australia 2002 Trip 1 | content/blog/australia-2002-trip-1/<page-slug>/ |
-| Australia 2002 Trip 1 | elseyworld.com/blog/categories/australia-2002-trip-2 | Nick | Australia 2002 Trip 1 | content/blog/australia-2002-trip-2/<page-slug>/ |
+| Australia 2002 Trip 1 | elseyworld.com/blog/categories/australia-2002-trip-2 | Nick | Australia 2002 Trip 2 | content/blog/australia-2002-trip-2/<page-slug>/ |
 | Australia 2009 | elseyworld.com/blog/categories/australia-2009 | Nick | Australia 2009 | content/blog/australia-2009/<page-slug>/ |
 | Lynn-Business | elseyworld.com/blog/categories/lynn-business | Lynn | business | content/articles/business/<page-slug>/ |
 | Lynn-Careers | elseyworld.com/blog/categories/lynn-careers | Lynn | careers | content/articles/careers/<page-slug>/ |
@@ -143,7 +145,7 @@ Other points to note when generating the markdown file from the WIX html:
 * Ignore crazy levels of nested <div> tags in the original. Try and keep the markdown file as simple as possible.
 * See below for details on image treatment.
 
-## Step 2: For Each WIX Image URL Found in HTML
+## Step 2: For Each WIX media URL Found in HTML
 
 1. **Strip the WIX transform parameters** from the URL to get the base CDN URL:
    - Remove everything from `/v1/` onwards
