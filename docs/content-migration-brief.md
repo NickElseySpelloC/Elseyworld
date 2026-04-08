@@ -1,8 +1,3 @@
-# TO DO
-
-  * Setup two examples for Nick and Lynn.
-  * Setup all category folders - /content and /content/categories
-
 # Elseyworld Content Migration Brief
 
 This document describes the procedure to migrate the contents of the elseyworld.com website to Hugo and the Congo theme.
@@ -101,6 +96,8 @@ In this phase, we will migrate all the html "blog" pages linked from the _all po
 | Moving to DC | elseyworld.com/blog/categories/moving-to-dc | Nick | Moving to DC | content/blog/moving-to-dc/<page-slug>/ |
 | South Pacific 1997 | elseyworld.com/blog/categories/south-pacific-1997 | Nick | South Pacific 1997 | content/blog/south-pacific-1997/<page-slug>/ |
 
+All the target partent folders under content/blog and content/articles have been created already.
+
 ## Step 1: Extract content
 
 Build a list of all the posts listed on the _all posts_ page. Beware that WIX paginates this listing page - you will need to scroll down to get all the items (there are approximately 86 in total).
@@ -142,6 +139,7 @@ categories:
 Other points to note when generating the markdown file from the WIX html:
 
 * Carry over the basic text formatting (headings, bold, italics, underline, hyperlinks)
+* If the original WIX page has links to other pages in the elseyworld site, recreate these but also generate a log file so that I can review these later.
 * Ignore crazy levels of nested <div> tags in the original. Try and keep the markdown file as simple as possible.
 * See below for details on image treatment.
 
@@ -236,3 +234,11 @@ This log allows manual review of any unmatched or problematic images after the m
 - **Thumb images for Congo CMS**: If a post has a designated cover/hero image, copy it into the
   page bundle as `thumb.jpg` in addition to its regular copy, so Congo's listing page picks it up
   automatically
+
+## Final Point
+
+I have created a couple of example pages as illustration:
+
+  content/blog/australia-2002-trip-2/sydney-and-getting-there
+  content/blog/south-pacific-1997/portland-la
+
