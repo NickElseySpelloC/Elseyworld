@@ -6,7 +6,7 @@ author: Lynn Elsey
 draft: false
 thumbnail: portland-city-guide-landscape.jpg
 categories:
-  - Food & Travel
+  - Food Travel
   - Lynn
 ---
 

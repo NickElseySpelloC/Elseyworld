@@ -4,9 +4,9 @@ description: "Whether your interests lie in art, architecture, history, food, fo
 date: 2017-10-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
-thumbnail: rome-city-guide-landscale.jpg
+thumbnail: rome-city-guide-landscape.jpg
 categories:
-  - Food & Travel
+  - Food Travel
   - Lynn
 ---
 

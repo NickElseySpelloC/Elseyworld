@@ -1,6 +1,6 @@
 ---
 title: How to get meaningful work in an ideas economy
-description: "How graduates and higher education students secure meaningful work in an ideas economy. Starting work in a rapidly changing world..."
+description: "How graduates and higher education students secure meaningful work in an ideas economy."
 date: 2016-12-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -10,7 +10,9 @@ categories:
   - Lynn
 ---
 
-*How graduates and higher education students secure meaningful work in an ideas economy.*
+{{< lead >}}
+How graduates and higher education students secure meaningful work in an ideas economy.
+{{< /lead >}}
 
 **Starting work in a rapidly changing world involves having the right set of skills and attributes and a practical strategy.**
 
@@ -24,10 +26,6 @@ This white paper outlines key issues impacting graduates and higher education st
 - Offers particular insights for graduates in key equity groups who face labour market disadvantage, and
 - Provides a blueprint for graduates and higher education students to secure meaningful work.
 
-**I was the editor for this white paper. Download the full document below.**
-
-
+**I was the editor for this white paper.**
 
 ![how-to-get-meaningful-work.jpg](how-to-get-meaningful-work.jpg)
-
-

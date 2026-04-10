@@ -6,7 +6,7 @@ author: Lynn Elsey
 draft: false
 thumbnail: salishan-cover.jpg
 categories:
-  - Food & Travel
+  - Food Travel
   - Lynn
 ---
 

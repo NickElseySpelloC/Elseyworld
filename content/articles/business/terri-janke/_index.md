@@ -10,7 +10,9 @@ categories:
   - Lynn
 ---
 
-*Terri Janke’s passion for protecting the rights of Indigenous artists helped her develop a thriving law career, writes LYNN ELSEY.*
+{{< lead >}}
+Terri Janke’s passion for protecting the rights of Indigenous artists helped her develop a thriving law career, writes LYNN ELSEY.
+{{< /lead >}}
 
 Copyright and passion are two words seldom encountered in the same sentence. But for Terri Janke, using copyright and intellectual property (IP) law to further the case of Indigenous social justice has been the raison d’être for a passionate legal career.
 
@@ -30,7 +32,7 @@ She became passionate about the inability of copyright law to protect Indigenous
 
 "I realised I could use the power I had to turn bad into good. It fascinated me. I returned to uni and did an arts/law degree, now having a strong connection I didn't have before. The rights to knowledge were so integral and so important and nobody else was doing it," Janke says.
 
-**Second time around**
+### Second time around
 
 With passion on her side. studying law was easier and Janke excelled. She was offered a summer clerkship at Phillips Fox, where she was exposed to life in a large law firm.
 
@@ -38,7 +40,7 @@ Phillips Fox offered her a graduate position, bur she turned it down. instead jo
 
 Janke spent the next few years working on and authoring the landmark report *Our Culture, Our Future*. The report was influential in the development of legal recognition and protection for Indigenous cultural and IP rights.
 
-**Using business for change**
+### Using business for change
 
 Writing the report inspired Janke to focus on Indigenous copyright and IP issues. She realised she wanted to provide legal services to Indigenous clients, helping empower them to be creative and to prosper in business. So, she set out on her own.
 
@@ -62,7 +64,7 @@ Janke has created a series of cultural protocols for Indigenous projects, which 
 
 She and her team have worked with museums, libraries and other organisations such as Screen Australia, helping them explain and apply these protocols. For example, when the Musée du Quai Branly in Paris wanted to incorporate Indigenous arts into the façade of its building, it used Janke’s protocols as a framework.
 
-**Making a difference**
+### Making a difference
 
 Janke’s skill, passion and expertise haven’t gone unnoticed. In 2012, the Commonwealth Attorney-General named her Indigenous Legal Professional of the Year. She was named one of the Australian Financial Review and Westpac’s 100 Women of Influence in 2013. In 2015, she was a finalist in the Telstra Business Women’s Awards.
 
@@ -78,12 +80,9 @@ She’s proud of her firm.
 
 But she’s still here – her passion and focus helping her build a successful practice.
 
- 
+----
 
-**Originally published in the July 2017 edition of the** [**NSW Law Society Journal**](https://lawsociety.cld.bz/e/LSJ-July-2017/24)**.**
-
-
+**Originally published in the July 2017 edition of the [NSW Law Society Journal](https://lawsociety.cld.bz/e/LSJ-July-2017/24).**
 
 {{< img-caption src="the-art-of-justice.jpg" caption="NSW Law Society Journal, July 2017" alt="" >}}
-
 

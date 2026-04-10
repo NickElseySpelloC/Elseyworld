@@ -1,6 +1,6 @@
 ---
 title: Are juries up to the job?
-description: "As society and the world evolves, are juries keeping up with the times? LYNN ELSEY investigates. The jury trial system has attracted its..."
+description: "As society and the world evolves, are juries keeping up with the times?"
 date: 2017-11-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -10,11 +10,13 @@ categories:
   - Lynn
 ---
 
-*As society and the world evolves, are juries keeping up with the times? LYNN ELSEY investigates.*
+{{< lead >}}
+As society and the world evolves, are juries keeping up with the times? LYNN ELSEY investigates.
+{{< /lead >}}
 
 The jury trial system has attracted its fair share of scrutiny and criticism throughout the centuries. But an increased volume of complex cases and use of experts, lengthier trials and the ease of access to external information in recent years have led to growing concerns about the capacity of jurors to truly understand and undertake their duties. In short, is the jury system still working or does it need fixing?
 
-**Setting the scene**
+### Setting the scene
 
 The NSW jury trial system, which is based on Section 80 of the Constitution (which, in turn, is based on the US Constitution) states that the “trial on indictment of any offence against any law of the Commonwealth shall be by jury” and that any person charged with a serious offence is entitled to have his or her innocence or guilt determined by their peers.
 
@@ -22,7 +24,7 @@ The 12 ordinary citizens who comprise a normal jury are deemed to be representat
 
 Research has found that judges who regularly hear criminal prosecutions without juries become “case-hardened” and are biased towards prosecution (Graham Fricke QC, “Trial by Jury”, Parliamentary Research Paper 1996-97).
 
-**Jury selection**
+### Jury selection
 
 Juror anonymity is a feature of NSW criminal trial process, in stark contrast to other jurisdictions, such as the US, where attorneys receive information on prospective jurors and are allowed to question them about their values and beliefs. In the US, jury selection in high-profile cases often involves jury consultants who undertake an array of methods to try to uncover details about the prospective jurors.
 
@@ -34,15 +36,10 @@ Following concerns that juries were mainly comprised of students, housewives and
 
 Recent statistics from the NSW Sheriff back his observations. From February 2016 to February 2017, 81 per cent of jurors were employed, with ages fairly evenly spread across groups:
 
-
-
 ![jury-1.jpg](jury-1.jpg)
 
-
-
- 
-
-**REPUTATION MATTERS**
+{{< callout >}}
+### REPUTATION MATTERS
 
 *In the US, the jury selection process for a recent securities and wire transfer fraud trial became an elaborate and at times humourous ordeal due to the reputation of the accused, Martin Shkreli.*
 
@@ -58,9 +55,9 @@ Recent statistics from the NSW Sheriff back his observations. From February 2016
 - *He is as guilty as they come*
 - *The only thing I’d be impartial about is what prison this guy goes to.*
 
- 
+{{< /callout >}}
 
-**Trial length**
+### Trial length
 
 Trials are getting longer, which means jurors are required to hear and retain more information and have a longer time between hearing evidence and deliberating. This trend also affects the number of potential jurors and their ability to commit to a lengthier trial.
 
@@ -80,14 +77,16 @@ Barrister David Staehli SC, who was the Crown Prosecutor in the Oliver Curtis in
 
 “Among a lot of young people, there seems to be a sense of entitlement and a feeling that ‘I’ve done my few days, I’ve formed my opinions and now I want to get back to my life’.”
 
-***“The longer the trial, the more likely jurors will become frustrated with the inconvenience or fall our with each other.”***
+{{< img-caption-float src="david-staehli.jpg" side="left" caption="David Staehli SC">}}
+> The longer the trial, the more likely jurors will become frustrated with the inconvenience or fall our with each other.
 
-DAVID STAEHLI SC
+<br>
+<br>
 
-***“If you make an application for a judge-only trial, it is certainly a gamble. With a jury, the prosecution has to persuade 12 jurors ‘beyond reasonable doubt’; with a judge, only one mind has to be convinced.”***
-MANNY CONDITSIS
+{{< img-caption-float src="manny-conditsis.jpg" side="right" caption="Manny Conditsis">}}
+> If you make an application for a judge-only trial, it is certainly a gamble. With a jury, the prosecution has to persuade 12 jurors ‘beyond reasonable doubt’; with a judge, only one mind has to be convinced.”
 
-**Challenges of complexity**
+### Challenges of complexity
 
 The capacity of juries to adequately fulfil their duties due to a growing complexity in cases, from use of DNA evidence to details on insider trading, is another area of concern. “It is true, in general, that trials are becoming longer and more detailed,” says Cowdery. “For example, fraud trials, and cases with medical and psychiatric issues often turn into a contest between experts.
 
@@ -117,23 +116,23 @@ Others, such as Chief Justice Peter McLellan, have suggested it would be easier 
 
 “For all the faults of the jury system, in the main, it gets it right,” says Conditsis. “If I was faced with doing away either judge- only or jury-only, I’d do away with the judge-only option. Luckily, we now have the option of both.”
 
- 
+{{< callout >}}
 
-*A Brisbane Supreme Court judge ruled that a $10 million defamation case against broadcaster Alan Jones will be conducted as a judge-only trial due to the case being too complex for a jury.*
+{{< img-float src="alan-jones.jpg" side="left" >}}A Brisbane Supreme Court judge ruled that a $10 million defamation case against broadcaster Alan Jones will be conducted as a judge-only trial due to the case being too complex for a jury.
 
-*Jones, Harbour Radio, 4BC and Nick Cater, a columnist for The Australian, are being sued by members of a Toowoomba family who claim they were defamed in commentary about their quarry’s role in the 2011 Lockyer Valley floods.*
+Jones, Harbour Radio, 4BC and Nick Cater, a columnist for The Australian, are being sued by members of a Toowoomba family who claim they were defamed in commentary about their quarry’s role in the 2011 Lockyer Valley floods.
 
-*The Wagner family applied for a judge-only trial, claiming that due to the complexity of the case, which includes 32 broadcasts, highly technical hydrological studies and evidence from experts, would be too much of a burden for a jury.*
+The Wagner family applied for a judge-only trial, claiming that due to the complexity of the case, which includes 32 broadcasts, highly technical hydrological studies and evidence from experts, would be too much of a burden for a jury.
 
-*Jones’s QC, Rob Anderson, argued against this, saying that proper case management and jury directions could have addressed some of the complexity.*
+Jones’s QC, Rob Anderson, argued against this, saying that proper case management and jury directions could have addressed some of the complexity.
 
-*However, on 10 October, Judge Peter Applegarth ruled in favour of the Wagner family.*
+However, on 10 October, Judge Peter Applegarth ruled in favour of the Wagner family.
 
-*“The size and complexity of the jury’s enormous task presents an unacceptably high risk that it will be unable to perform its tasks,” he noted in his judgment.*
+“The size and complexity of the jury’s enormous task presents an unacceptably high risk that it will be unable to perform its tasks,” he noted in his judgment.
 
- 
+{{< /callout >}}
 
-**Jury direction**
+### Jury direction
 
 One of the consequences of complex cases is more detailed jury direction, in order to provide jurors with an adequate understanding of the law and the issues of the case.
 
@@ -152,23 +151,19 @@ Efforts to provide juries with more information, however, might result in less, 
 
 Research from the UK found wide inconsistencies in jurors’ capacities to understand judicial direction and low levels of understanding of what they actually meant. This included only 31 per cent of jurors actually understanding the directions. Comprehension did increase to 48 per cent when the directions were written, rather than verbal (“Are juries fair”, Ministry of Justice Research Series, Feb 2010, UK).
 
-**Impact of social media**
+### Impact of social media
 
 No one questions the explosion of external information now available at the fingertips of jurors 24/7, but the general response is, as jurors are instructed not to access these channels, it shouldn’t be an issue and isn’t a good reason to do away with juries.
 
 “We can only say, ‘Don’t do it’. It’s a criminal offence. You just have to rely on the good faith of the jury. I think the vast majority take it seriously,” says Cowdery.
 
-
-
 ![jury-6.jpg](jury-6.jpg)
-
-
 
 One study, with Victoria’s Department of Justice, found that jurors considering a rape case only comprehended 40 per cent of the case. He also found jurors often made their decisions based on external anecdotal information, such as comparing the accused with someone they knew and assuming the two were similar, and that they spent very little time actually discussing the law – as little as 90 seconds – during two hours of deliberation.
 
 Ogloff also discovered that Australian jurors had problems separating what they had seen on television with real cases and used terms such as “Miranda warnings” during discussions, although this had no relation to Australian law.
 
-**Judge-only trials**
+### Judge-only trials
 
 In NSW, an accused person or the prosecutor in criminal proceedings in the District or Supreme Court may apply for a judge-alone trial. If the prosecution doesn’t agree, the case may still proceed if the court considers it in the interest of justice.
 
@@ -190,49 +185,44 @@ On the other hand, some legal practitioners and experts are keen to see more tri
 
 However, some legal professionals, such as Ogloff and Barns, feel the temptations can be difficult to ignore. In the UK study, three-quarters of jurors serving on high- profile cases admitted to being aware of media about the case during a trial, 26 per cent admitted to reading about the case online during the case, and 20 per cent found it difficult to put what they had seen or read in the media out of their mind, even though they were instructed by the judge not to do so.
 
-**For what it’s worth ...**
+### For what it’s worth...
 
 Does the jury system needs fine-tuning, a bigger adjustment or no changes at all? The majority of legal experts and practitioners I spoke to for this article supported the jury system but also said that if they were innocent, they would opt for a judge-only trial; if guilty, a jury. So it looks as if the jury is still out.
 
- 
+{{< callout >}}
 
-***DID YOU KNOW?***
+### DID YOU KNOW?
 
-*Unsurprisingly, requirements for serving on a jury have changed over the centuries.*
+_Unsurprisingly, requirements for serving on a jury have changed over the centuries._
 
-*For example:*
+For example:
 
 - *In the 14th century, British UK jurors had to reside in the locality of the dispute and be knowledgeable about the subject matter, so either be a witness to the event or personally acquainted with one of the litigants*
 - *Until 1947, jurors in NSW were required to own property*
 - *Women in Victoria were automatically exempt from jury duty until 1975*
 
- 
 
-***EXCUSE ME***
+### EXCUSE ME
 
-*Top reasons for being excused from NSW juries:*
+Top reasons for being excused from NSW juries:
 
-- *Illness, disability or injury*
-- *Financial hardship, conflict of interest*
-- *Employment*
-- *Carer for someone else*
+1. Illness, disability or injury
+2. Financial hardship, conflict of interest
+3. Employment
+4. Carer for someone else
 
-***5 unusual excuses:***
+5 unusual excuses:
 
-- *I am allergic to air-conditioning*
-- *I need to look after my cat*
-- *I have a public transport phobia and have no one to drive me to court*
-- *The planets are not presently aligned and it’s not a good fit for me*
-- *I will fall asleep during the trial and my snoring will be a distraction*
+1. I am allergic to air-conditioning
+2. I need to look after my cat
+3. I have a public transport phobia and have no one to drive me to court
+4. The planets are not presently aligned and it’s not a good fit for me
+5. I will fall asleep during the trial and my snoring will be a distraction
 
-** According to the NSW Sheriff’s office*
+*According to the NSW Sheriff’s office
 
- 
+{{< /callout >}}
 
 **Originally published in the November 2017 edition of the** [**NSW Law Society Journal**](https://lawsociety.cld.bz/e/November-2017/32)**.**
 
-
-
 {{< img-caption src="are-juries.jpg" caption="NSW Law Society Journal, November 2017" alt="" >}}
-
-

@@ -1,6 +1,6 @@
 ---
 title: "Age Discrimination at Work: An Age-Old Issue"
-description: "One of the most common but least talked about forms of discrimination has enormous costs for society as well as the targeted individuals,..."
+description: "One of the most common but least talked about forms of discrimination has enormous costs for society as well as the targeted individuals."
 date: 2018-04-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -10,19 +10,21 @@ categories:
   - Lynn
 ---
 
-*One of the most common but least talked about forms of discrimination has enormous costs for society as well as the targeted individuals, LYNN ELSEY finds.*
+{{< lead >}}
+One of the most common but least talked about forms of discrimination has enormous costs for society as well as the targeted individuals, LYNN ELSEY finds.
+{{< /lead >}}
 
 Global job recruitment site glassdoor.com paints a disheartening picture about the fate of workers over 50, illustrated by the following comments from workers facing what has been
 
 called “the last acceptable form of discrimination”.
 
-*“I met with a recruiter this week. After getting through the look of disappointment when she saw how old I am she told me that many of their requests are for ‘a recent college graduate because they haven’t developed bad habits yet’.”*
+> I met with a recruiter this week. After getting through the look of disappointment when she saw how old I am she told me that many of their requests are for ‘a recent college graduate because they haven’t developed bad habits yet’.
 
-*“If I am willing to work for entry-level wages, why wouldn’t you want my years of experience?”*
+> If I am willing to work for entry-level wages, why wouldn’t you want my years of experience?
 
-*“I am sick of hearing older workers haven’t kept up with technology. I have been through MS-DOS, the many variations of Windows ... Word, Excel, and on and on. Eachtime I have had to learn and adapt. Give me a break.”*
+> I am sick of hearing older workers haven’t kept up with technology. I have been through MS-DOS, the many variations of Windows ... Word, Excel, and on and on. Eachtime I have had to learn and adapt. Give me a break.
 
-*“Trying to prove age discrimination from a legal perspective is virtually impossible unless a hiring person blurts it out – ‘you’re too old, and because of that we’re not hiring you’.”*
+> Trying to prove age discrimination from a legal perspective is virtually impossible unless a hiring person blurts it out – ‘you’re too old, and because of that we’re not hiring you’.
 
 No wonder mature job seekers have learned to remove all dates from their resumés, limit their job history to roles from the past 10 years and do their best to appear “youthful”, making every effort to appeal to potential employers when faced with the situations similar to those noted above.
 
@@ -40,7 +42,7 @@ Along with offering proven skills and knowledge, mature workers are frequently n
 
 Instead of hiring and retaining more seasoned workers, studies show that employers are pushing aside older workers – or at least shutting them out. And when it comes to the all-important diversity quotas, people over the age of 45 rarely get a mention.
 
-**Quantifying the problem**
+### Quantifying the problem
 
 A 2017 study by the University of South Australia, Work Well, Retire Well, found that people over the age of 55 have more trouble getting a job, taking an average of 68 weeks compared to those aged 25 to 54 (49 weeks) and those aged 15 to 24 (30 weeks).
 
@@ -54,11 +56,13 @@ From an economic perspective, discriminating against workers over the age of 50 
 
 staggering waste of money. According to the Willing to Work report, a 7 per cent increase in participation among the mature-age labour force would increase Australia’s 2022 gross domestic product by about $25 billion.
 
-**What about the law?**
+### What about the law?
 
 The 2016 Urbis National Profile of Solicitors report shows the average age of solicitors has been moving slowly upwards to its current 42.4 years, up from 41.8 in 2011. Solicitors aged 65 and older have been the fastest growing group – a 23 per cent increase since 2011 – and now represent one in 12 solicitors.
 
-*"People are making decisions based on wrong assumptions. Law firms should be having honest conversations around this." -- PETER BUTLER*
+> People are making decisions based on wrong assumptions. Law firms should be having honest conversations around this.
+
+-- PETER BUTLER
 
 However, although lawyers are trending older, promotions and partnerships appear to be heading in the other direction.
 
@@ -72,7 +76,7 @@ Peter Butler AM, a partner and former managing partner at Herbert Smith Freehill
 
 Danielle Kelly, HSF’s Head of Diversity and Inclusion, agrees: “Age isn’t a conversation we’ve had enough of.”
 
-**Countering misconceptions**
+### Countering misconceptions
 
 Including and supporting more seasoned workers can give employers access to crucial experience, skills and knowledge. It’s an opportunity BMW discovered firsthand.
 
@@ -88,7 +92,7 @@ A new study from the College of Law adds further evidence to the misconception t
 
 “Many of these aspiring lawyers come from industries that have already experienced wide-ranging disruption, such as the banking and health sectors,” says Ann-Maree David, Executive Director of the College. “Many will be choosing to leave their existing field of expertise and enter the legal profession because they know there will be opportunities whenever an industry is disrupted.”
 
-**Uncovering discrimination**
+### Uncovering discrimination
 
 A common justification for not recruiting older workers is that they aren’t interested in taking on a more junior role or they only want to work part-time. With this in mind, a team of researchers at the Federal Reserve Bank of San Francisco decided to see if there was any justification for these assumptions, and created an experiment to rule out factors other than age that could explain hiring practices.
 
@@ -126,13 +130,13 @@ According to Australian Age Discrimination Commissioner Kay Patterson, the wave 
 
 “They are healthier, living longer and have enlightened business understanding, which means they are aware of the advantages that older people can have in the workplace,” she says. “They recognise that it doesn’t make sense to ignore them.”
 
-**Fighting back**
+### Fighting back
 
 Google is currently facing a US-based class action lawsuit regarding age discrimination. The case started with one plaintiff in 2015 and at the end of 2017 included 270 people aged 40 and above, who claimed the tech company actively discriminated against job applicants. (The US Age Discrimination in Employment Act bars employers from discriminating against applicants and workers who are aged 40 and over.) The tech industry’s reputation for favouring youth over experience, regardless of the legality, is no secret. According to US marketing firm Statista, in 2016 the average age at Google was 30 – and it was 28 at Facebook; 29 at LinkedIn; and 31 at Apple, Amazon and Yahoo.
 
 But these complaints and lawsuits related to ageing aren’t restricted to the tech industry. Another disgruntled American job seeker recently launched a lawsuit against PwC, claiming the global accounting giant has a policy of only recruiting millennials from college campuses to fill its entry-level jobs. According to Reuters and PwC, the average age of PwC workers is 27, and two-thirds of workers are in their 20s and 30s, although the median age of accountants and auditors overall is 43. Reuters also notes that Facebook settled an age discrimination case in 2013, in relation to job ads that specifically sought recent college graduates.
 
-**Finding solutions**
+### Finding solutions
 
 According to Kay Patterson, education is key to addressing many age discrimination issues in the workplace.
 
@@ -156,12 +160,8 @@ Providing an environment where mature workers can participate and thrive in the 
 
 The ARC Centre of Excellence in Population Ageing Research and the Centre for Research on Ageing Health and Wellbeing recently conducted a study (Australasian Journal on Ageing, Oct 2017, Gong and Kendig) involving people aged 45 to 64. The research found that: “Workforce transitions at mature ages are complex and particularly important because mature age workforce participation will have a major bearing on Australia’s productivity and fiscal sustainability, as well as personal wellbeing and financial capacities.”
 
- 
+----
 
 **Originally published in the April 2018 edition of the** [**NSW Law Society Journal**](https://lawsociety.cld.bz/LSJ-April-2018/30/)**.**
 
-
-
 {{< img-caption src="age-discrimination-cover.jpg" caption="NSW Law Society Journal, April 2018" alt="" >}}
-
-

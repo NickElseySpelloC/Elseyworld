@@ -6,7 +6,7 @@ author: Lynn Elsey
 draft: false
 thumbnail: f14443_07dd231f37f3432ebfc2c901b109dfed.jpg
 categories:
-  - Food & Travel
+  - Food Travel
   - Lynn
 ---
 

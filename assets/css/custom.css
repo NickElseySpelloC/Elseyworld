@@ -269,3 +269,76 @@ article > footer.max-w-prose,
 article.mt-6.max-w-prose {
   max-width: 100% !important;
 }
+
+/* Make the text-content div grow to fill the full row width.
+   The thumbnail wrapper has flex-none; the text wrapper has no
+   flex class, so it stays at its natural width by default. */
+article.mt-6 > div:not(.flex-none) {
+  flex: 1;
+  min-width: 0;
+}
+
+/* The description div inside listing entries uses the .prose typography
+   class, which also sets max-width: 65ch. Override that here so the
+   description text also fills the full available width. */
+article.mt-6 .prose {
+  max-width: 100%;
+}
+
+/*
+ * ─────────────────────────────────────────────────────────
+ * CALLOUT PANEL
+ * Inline:
+ *   {{< callout >}}...{{< /callout >}}
+ * Float:
+ *   {{< callout-float side="left" width="70%" >}}...{{< /callout-float >}}
+ * ─────────────────────────────────────────────────────────
+ */
+
+.ew-callout {
+  padding: 20px;
+  margin: 1.5rem 0;
+  width: 100%;
+  border: 2px solid rgb(var(--color-neutral-300));
+  border-radius: 8px;
+  background-color: rgb(var(--color-neutral-50));
+  color: inherit;
+  box-sizing: border-box;
+}
+
+.ew-callout > *:first-child {
+  margin-top: 0;
+}
+
+.ew-callout > *:last-child {
+  margin-bottom: 0;
+}
+
+.ew-callout-float {
+  width: var(--ew-callout-width, 65%);
+  max-width: 100%;
+}
+
+.ew-callout-float-left {
+  float: left;
+  margin: 0.35rem 1.5rem 1rem 0;
+}
+
+.ew-callout-float-right {
+  float: right;
+  margin: 0.35rem 0 1rem 1.5rem;
+}
+
+html.dark .ew-callout {
+  border-color: rgb(var(--color-neutral-600));
+  background-color: rgb(var(--color-neutral-700));
+}
+
+@media (max-width: 767px) {
+  .ew-callout-float {
+    float: none;
+    width: 100%;
+    margin: 1.25rem 0;
+  }
+}
+
