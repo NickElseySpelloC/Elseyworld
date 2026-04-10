@@ -10,56 +10,41 @@ categories:
   - Lynn
 ---
 
-*Whether your interests lie in art, architecture, history, food, fountains or shopping, Rome pretty much tops the scales as a place to visit, as LYNN ELSEY explains. The only downside is having to leave*.
+{{< lead >}}
+Whether your interests lie in art, architecture, history, food, fountains or shopping, Rome pretty much tops the scales as a place to visit, as LYNN ELSEY explains. The only downside is having to leave.
+{{< /lead >}}
 
-## **Stay**
+### Stay
 
-
-
-{{< img-caption src="villa-spalletti-trivelli-2.jpg" caption="Villa Spalletti Trivelli" alt="" >}}
-
-
-
+{{< img-caption-float src="villa-spalletti-trivelli-2.jpg" side="left" caption="Villa Spalletti Trivelli" alt="" >}}
 The best way to experience Rome is to be a part of it. And there is no better way than living, albeit temporarily, in a historic villa. **Villa Spalletti Trivelli**, a sublime, atmospheric, family-owned hotel ticks all the boxes. It is close to the major sights but hidden away in a surprisingly peaceful location.
 
 The understated elegance and low key ambiance allows guests to experience regal life in a five-star retreat. From having coffee and biscotti in the tapestry-lined drawing rooms to relaxing in the private outdoor garden, the hospitality extends to free minibars in the spacious rooms and complimentary drinks in the evenings.
 
-
-
-{{< img-caption src="villa-spalletti-trivelli-1.jpg" caption="Villa Spalletti Trivelli" alt="" >}}
-
-
+{{< img-caption-float src="villa-spalletti-trivelli-1.jpg" side="right" caption="Villa Spalletti Trivelli" alt="" >}}
 
 The hotel also offers two garden suites with private courtyards and a range of personalised services, including having meals created by private chef and wine tasting at the family’s vineyard. With service as splendid as the surroundings, you won’t want to leave. Better yet, marry into the family.
 
-- slh.com
-- villaspallettitrivelli.com
+- [slh.com](slh.com)
+- [villaspallettitrivelli.com](villaspallettitrivelli.com)
 
-## **Drink**
+### Drink
 
 Bars are second homes to Italians. More than just a place to get a beer, Italians come here to for coffee, croissants, a quick lunch or an aperitivo as well as for a glass of wine or beer.
 
-
-
-{{< img-caption src="stravinskij-bar.jpg" caption="Stravinskij Bar" alt="" >}}
-
-
+{{< img-caption-float src="stravinskij-bar.jpg" side="left" caption="Stravinskij Bar" alt="" >}}
 
 If you are looking for an exceptionally stylish, peaceful and only-in-Rome experience, spend an hour or two at the **Stravinskij Bar** at the Hotel de Russie. The hotel, which is located in the famed Via Condotti shopping district, is a well- known haven for fashionistas so it comes as no surprise that sitting in the bar’s lovely outdoor piazza feels like stepping into a page of Vogue magazine; Versace to your right, Prada to your left and leggy blondes all around.
 
-
-
-{{< img-caption src="salotto42.jpg" caption="Salotto42" alt="" >}}
-
-
+{{< img-caption-float src="salotto42.jpg" side="right" caption="Salotto42" alt="" >}}
 
 The drinks are as dramatic as the clientele and come with Sydney- like prices, but you also get an array of delicious appetizers and no one will mind if you nurse one drink for hours.
 
 If you are looking for something that feels more like a trendy Euro bar, **Salotto42**, in Piazza di Pietra, will probably fit the bill.
 
-- roccofortehotels.com
+- [roccofortehotels.com](roccofortehotels.com)
 
-## **Eat**
+### Eat
 
 Rome, like most of Italy, has an enviable and seemingly endless supply of great local cuisine; Australians will take extra delight at the more than reasonable prices. Serious foodies will undoubtedly embark on some detailed sleuthing before arriving to create their own shortlist of places to eat, which might include Heinz Beck’s famed **La Pergola**.
 
@@ -73,12 +58,12 @@ Although word is getting out, the Monti area, a vibrant dining and shopping area
 
 One of the city’s hippest and most popular food and drink emporiums, Roscioli, should come with a warning notice to anyone who loves food. The gourmet deli, wine shop, bakery and restaurant is one of those places you stop by for just a minute and emerge hours later.
 
-- armandoalpantheon.it
-- tavernadeimonti.info
-- aitrescalini.org
-- salumeriaroscioli.com
+- [armandoalpantheon.it](armandoalpantheon.it)
+- [tavernadeimonti.info](tavernadeimonti.info)
+- [aitrescalini.org](aitrescalini.org)
+- [salumeriaroscioli.com](salumeriaroscioli.com)
 
-## **Explore**
+### Explore
 
 As they say, Rome wasn’t built in a day. Trying to see it all in one visit is, well, impossibile. Attempting to experience even a tenth of Rome’s treats in a few days will result in exhaustion and frustration – there is too much ground to cover and not enough time to let the beauty and amazement sink in. Consider breaking up visits to the big ticket places – **the Vatican Museums**, **St Peter’s**, **Colosseum**, **Forum**, **Pantheon** – with unscheduled and unstructured time. Spend an hour or two wandering around the backstreets without a map, stick your nose into a random church, you’ll often find a stunning display of art hidden behind a nondescript interior, with no tourists in sight.
 
@@ -86,7 +71,7 @@ Plan on visiting some of your other ‘must do’s, including the **Trevi Founta
 
 If you are visiting Rome in peak season, buying tickets ahead of time or even booking a private tour for some of the main attractions is worth the effort; it will save time in queues.
 
-## **Escape**
+### Escape
 
 When you have had your fill of fountains and gold-flecked frescoes, start getting blasé about Michelangelo and tire of winding you way through crowds of gelato- eating tourists, it’s time for a break.
 
@@ -100,29 +85,19 @@ a welcome respite from the city’s noise, heat and tourists. A short walk from 
 
 It also houses the fabulous Villa Borghese, a superb collection of art from the 16th to the 18th century, including masterpieces by artists Raphael, Titian and Caravaggio. Runner take note, the gardens are one of the best places to go for a run in the city.
 
-- infopointappia.it
+- [infopointappia.it](infopointappia.it)
 
-## **Out of Town**
+### Out of Town
 
-
-
-{{< img-caption src="villa-deste.jpg" caption="Villa d’Este" alt="" >}}
-
-
+{{< img-caption-float src="villa-deste.jpg" side="right" caption="Villa d’Este" alt="" >}}
 
 If time allows, Tivoli, a short train or car trip from the centre of Rome, offers two enticing UNESCO World Heritage Sites. **Villa d’Este** a 16th- century villa is a showpiece of Italian Renaissance culture, gardening and innovation. Its terraced gardens are filled with grottoes, music, statues and truly amazing water fountains.
 
 In its heyday, as the imperial residence of the Roman emperor Hadrian, **Hadrian’s Villa** (Villa Adriana), spread over an area twice the size of Pompeii with more than 30 buildings including full-scale reproductions of the emperor’s favourite Greek and Egyptian building. Today the remains of the complex demonstrate Hadrian’s power along with remarkable Roman architecture and building in the 2nd century in a peaceful setting.
 
-- www.villadestetivoli.info
-- villaadriana.beniculturali.it
+- [www.villadestetivoli.info](www.villadestetivoli.info)
+- [villaadriana.beniculturali.it](villaadriana.beniculturali.it)
 
- 
-
-**Originally published in the October 2017 edition of the** [**NSW Law Society Journal**](https://lawsociety.cld.bz/e/LSJ-October-2017/58).
-
-
+**Originally published in the October 2017 edition of the [NSW Law Society Journal](https://lawsociety.cld.bz/e/LSJ-October-2017/58).**
 
 {{< img-caption src="rome-city-guide.jpg" caption="Law Society Journal, October 2017" alt="" >}}
-
-
