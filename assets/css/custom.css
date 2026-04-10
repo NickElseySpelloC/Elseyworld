@@ -287,6 +287,78 @@ article.mt-6 .prose {
 
 /*
  * ─────────────────────────────────────────────────────────
+ * TERM SORT TOGGLE
+ */
+
+.ew-sort-toggle {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.ew-sort-toggle-label {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: rgb(var(--color-neutral-700));
+}
+
+.ew-sort-toggle-buttons {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.ew-sort-toggle-button {
+  appearance: none;
+  border: 1px solid rgb(var(--color-neutral-300));
+  border-radius: 9999px;
+  background-color: rgb(var(--color-neutral-50));
+  color: rgb(var(--color-neutral-700));
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 500;
+  line-height: 1.2;
+  padding: 0.55rem 1rem;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.ew-sort-toggle-button:hover {
+  border-color: rgb(var(--color-primary-400));
+  color: rgb(var(--color-primary-700));
+}
+
+.ew-sort-toggle-button.is-active {
+  border-color: rgb(var(--color-primary-500));
+  background-color: rgb(var(--color-primary-500));
+  color: white;
+}
+
+html.dark .ew-sort-toggle-label {
+  color: rgb(var(--color-neutral-200));
+}
+
+html.dark .ew-sort-toggle-button {
+  border-color: rgb(var(--color-neutral-600));
+  background-color: rgb(var(--color-neutral-800));
+  color: rgb(var(--color-neutral-200));
+}
+
+html.dark .ew-sort-toggle-button:hover {
+  border-color: rgb(var(--color-primary-400));
+  color: rgb(var(--color-primary-300));
+}
+
+html.dark .ew-sort-toggle-button.is-active {
+  border-color: rgb(var(--color-primary-400));
+  background-color: rgb(var(--color-primary-400));
+  color: rgb(var(--color-neutral-950));
+}
+
+/*
+ * ─────────────────────────────────────────────────────────
  * CALLOUT PANEL
  * Inline:
  *   {{< callout >}}...{{< /callout >}}

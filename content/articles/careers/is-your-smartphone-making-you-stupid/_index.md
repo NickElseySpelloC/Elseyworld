@@ -10,13 +10,11 @@ categories:
   - Lynn
 ---
 
-*A new study finds that just thinking about your mobile causes a drop in mental ability, as Lynn Elsey discovers.*
-
-
+{{< lead >}}
+A new study finds that just thinking about your mobile causes a drop in mental ability, as Lynn Elsey discovers.
+{{< /lead >}}
 
 ![is-your-smart-phone.jpg](is-your-smart-phone.jpg)
-
-
 
 Perhaps Steven Jobs is having a last laugh.
 
@@ -28,20 +26,18 @@ The research, which was recently [published](http://www.journals.uchicago.edu/do
 
 They surmise that the mere presence of a phone may overwhelm limited-capacity cognitive resources, “thereby leaving fewer resources available for other tasks and undercutting cognitive performance.” It could be that the presence of a smartphone channels brain activity away from tasks at hand and towards focusing on avoiding picking up or using the phone.
 
-**“Out of sight, out of mind”**
+### “Out of sight, out of mind”
 
 “Your conscious mind isn’t thinking about your smartphone, but that process – the process of requiring yourself not to think about something – uses up some of your limited resources,” said Adrian Ward, an assistant professor of marketing and the leader author on the study.
 
 The results weren’t affected by the phone being turned on or off, indicating that simply having a phone within sight or easy reach reduces the ability to perform tasks and to focus.
 
-**Smart stuff**
+### Smart stuff
 
 The researchers conclude that because smartphones transcend the normal realm of how new innovations impact consumers’ lives, “they have become “constant companions, offering unprecedented connection to information, entertainment and each other,” and therefore have an enormous potential to influence consumers.
 
 The study authors suggest enacting “defined and protected periods of separation”, including using apps to track, filter and limit smartphone use.
 
 The research adds to an increasing level of research about the negative impact of digital devices on concentration levels, including a [study](http://www.dmu.ac.uk/about-dmu/news/2015/august/heavy-internet-users-more-likely-to-make-mistakes-in-daily-life,-dmu-research-shows.aspx) by De Montfort University (UK) that found a link between the time someone spent on a mobile phone or the internet and cognitive failures. Anyone looking to compound their concerns about smartphones should read psychology professor Jean Twenge’s recently published article in [The Atlantic](https://www.theatlantic.com/magazine/archive/2017/09/has-the-smartphone-destroyed-a-generation/534198/).
-
- 
 
 **This article was originally published in the online journal of the Law Society of NSW.**
