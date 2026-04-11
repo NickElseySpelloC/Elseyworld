@@ -15,13 +15,13 @@
         <img
           alt="{{ $.Params.featureAlt | default $.Params.thumbnailAlt | default "" }}"
           {{ if eq .MediaType.SubType "svg" }}
-            class="w-24 max-w-[6rem] max-h-[4.5rem] rounded-md sm:max-h-[7.5rem] sm:w-40
-            sm:max-w-[10rem]" src="{{ .Permalink }}"
+            class="w-32 max-w-[8rem] max-h-[6rem] rounded-md sm:max-h-[9rem] sm:w-52
+            sm:max-w-[13rem]" src="{{ .Permalink }}"
           {{ else }}
-            class="w-24 rounded-md sm:w-40" srcset="
-            {{- (.Fill "160x120 smart").Permalink }}
-            160w, {{- (.Fill "320x240 smart").Permalink }} 2x"
-            src="{{ (.Fill "160x120 smart").Permalink }}" width="160" height="120"
+            class="w-32 rounded-md sm:w-52" srcset="
+            {{- (.Fill "208x156 smart").Permalink }}
+            208w, {{- (.Fill "416x312 smart").Permalink }} 2x"
+            src="{{ (.Fill "208x156 smart").Permalink }}" width="208" height="156"
           {{ end }}
           {{ if $.Site.Params.enableImageLazyLoading | default true }}
             loading="lazy"
