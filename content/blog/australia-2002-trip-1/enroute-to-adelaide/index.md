@@ -1,6 +1,6 @@
 ---
 title: Enroute to Adelaide
-description: "8 Feb 2002 - Driving to Port Fairy Last night I spent ½ hour in voice-mail jail, trying for sign up for a Citylink pass, so that when we..."
+description: "Last night I spent ½ hour in voice-mail jail, trying for sign up for a Citylink pass, so that when we left Melbourne this morning we wouldn't 'cop another $100 for grievous use of a toll road. Unfortunately, my efforts were in vain since the road going south west from Melbourne (even though it had the same number as the one we came in on), wasn't actually a toll road. Blast!"
 date: 2002-02-08T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
@@ -9,22 +9,25 @@ categories:
   - Australia 2002 Trip 1
   - Nick
 ---
+
 ### 8 Feb 2002 - Driving to Port Fairy
 
-{{< img-caption src="south-coast-006.jpg" caption="Some of the &quot;twelve&quot; Apostles" alt="" >}}
+{{< img-caption src="south-coast-006.jpg" caption="Some of the \"twelve\" Apostles" alt="" >}}
 
 Last night I spent ½ hour in voice-mail jail, trying for sign up for a Citylink pass, so that when we left Melbourne this morning we wouldn't 'cop another $100 for grievous use of a toll road. Unfortunately, my efforts were in vain since the road going south west from Melbourne (even though it had the same number as the one we came in on), wasn't actually a toll road. Blast!
 
-{{< img-caption src="south-coast-015.jpg" caption="London Bridge...falling down" alt="" >}}
+{{< img-caption-float side="right" src="south-coast-015.jpg" caption="London Bridge...falling down" alt="" >}}
 
 The Victoria state coastline is supposed to be some of the most picturesque in the country so we're planning on taking the scenic (i.e. longer) route to **Adelaide**. Unfortunately, for the first part of the drive much of the scenery consists of dark, scudding clouds and intermittent rain storms. Still, the landscape is very beautiful
 
 The coastline is made of limestone, so there are lots of caves, coves and colorful rock formations to be seen along the way. One of the most popular sights are the [12 Apostles](http://www.australia.travelmall.com/travelmall/attraction/Great+Ocean+Road+%28VIC%29/The+12+Apostles), including (in true American style) an 'interpretive center'. The 12 Apostles are a series of rock formations carved out of the local coastline (see pictures on this page). In the past the locals have given them a number of different monikers, including the 'sow and piglets', but recently 'the 12 Apostles' we deemed to be more formal sounding. The thought that strikes Lynn and I is that it's awfully convenient that there are 12 or these rock formations, rather than 13 or 11. We secretly suspect that they blew up one or two to make the title fit!
 
-***Lynn writes...'Searching for Hedgehogs'***
-*One of Nick’s obsessions over here is not looking for kangaroos or koalas, but finding hedgehogs. Not the prickly things found running around your garden, but a sweet. The bars appear to be filled with layers of biscuit, caramel, chocolate and perhaps a hint of nougat. Nick has become quite finicky; some even get tossed aside after one bite. To date, the best was found in a small town somewhere between Melbourne and Port Fairy. But there are still loads of bakeries to explore.*
+{{< callout >}}
+### Lynn writes...'Searching for Hedgehogs'
+One of Nick’s obsessions over here is not looking for kangaroos or koalas, but finding hedgehogs. Not the prickly things found running around your garden, but a sweet. The bars appear to be filled with layers of biscuit, caramel, chocolate and perhaps a hint of nougat. Nick has become quite finicky; some even get tossed aside after one bite. To date, the best was found in a small town somewhere between Melbourne and Port Fairy. But there are still loads of bakeries to explore.
+{{< /callout >}}
 
-{{< img-caption src="southcoast18.jpg" caption="Picturesque Port Fairy" alt="" >}}
+{{< img-caption-float side="left" src="southcoast18.jpg" caption="Picturesque Port Fairy" alt="" >}}
 
 We spend the rest of the morning rock formation hopping along the coastline, taking in sights such as the **Loch Ard Gorge** (sight of the *Loch Ard* shipwreck, in case you were wondering), the **Blow Hole**, the **Thunder Cave** (which are presumably fairly self explanatory) and **London Bridge** (which is indeed falling down - one arch collapsed 10 years ago, stranding two hapless tourists).
 

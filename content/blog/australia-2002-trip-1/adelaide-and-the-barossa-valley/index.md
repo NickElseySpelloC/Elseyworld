@@ -1,6 +1,6 @@
 ---
 title: Adelaide and the Barossa Valley
-description: "10 Feb 2002 - Driving to Adelaide We wave a fond farewell to the Wongary Cottages and hit the road for Adelaide. We have approximately..."
+description: "We wave a fond farewell to the Wongary Cottages and hit the road for **Adelaide**. We have approximately 350 miles to get there, but at this point we can do this kind of mileage in our sleep."
 date: 2002-02-10T00:00:00.000+10:00
 author: Nick Elsey
 draft: false

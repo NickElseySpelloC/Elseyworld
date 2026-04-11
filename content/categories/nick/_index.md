@@ -1,10 +1,10 @@
 ---
 title: "Nick's Posts"
-description: "All posts by Nick."
+description: "All travel and blog posts by Nick Elsey."
 layout: term
 groupByYear: true
 sortControl: true
 defaultSortOrder: asc
 ---
 
-All the travel articles and blog posts written by Nick.
+All travel and blog posts by Nick Elsey.
