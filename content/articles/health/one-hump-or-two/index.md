@@ -1,6 +1,6 @@
 ---
 title: One hump or two?
-description: "Camel milk has played an important role in the diet of nomadic and pastoral cultures for centuries. Because it is highly transportable,..."
+description: "Camel milk has played an important role in the diet of nomadic and pastoral cultures for centuries. "
 date: 2012-06-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -18,11 +18,7 @@ The Food and Agriculture Organization of the UN (FAO) is a big fan. The organisa
 
 However, because camel milk has a different protein composition to cow milk, attempts to make cheese from it haven’t been successful.
 
-
-
-![one-hump-1.jpg](one-hump-1.jpg)
-
-
+{{< img-caption-float src="one-hump.jpg" side="right" >}}
 
 “Camel milk is very difficult to coagulate because of its low levels of k-casein, the protein that makes the milk coagulate,” said Rolando Saltini, a Chr Hansen product manager. Use of bovine, microbial or vegetable coagulants result in either weak curd formation or a complete absence of clotting.
 
@@ -40,12 +36,6 @@ Anne Bruntse, the director of Oleleshwa Enterprises, has reported that trial sam
 
 “If successful, this project could potentially improve the livelihood of thousands of rural inhabitants in Northern and Eastern Africa,” said Henriette Oellgaard, CSR Manager, Chr Hansen. She said that the project might also lead the way for future commercialisation of Far-M.
 
- 
+**This article was originally published in Food Australia Magazine, the journal of the [Australian Institute of Food Science and Technology](https://www.aifst.asn.au/).**
 
-This article was originally published in Food Australia Magazine, the journal of the [Australian Institute of Food Science and Technology](https://www.aifst.asn.au/). Click below for the original copy.
-
-
-
-{{< img-caption src="food-australia.jpg" caption="Food Australia Magazine" alt="" >}}
-
-
+{{< img-caption src="food-australia.jpg" href="one-hump-or-two-food-australia.pdf" caption="Food Australia Magazine. Click for the original copy." alt="" >}}

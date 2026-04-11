@@ -1,6 +1,6 @@
 ---
 title: Tracking disease with supramap
-description: "A new web-based program is providing an innovative tool to track the spread of infectious diseases across time, geography and humans...."
+description: "A new web-based program is providing an innovative tool to track the spread of infectious diseases across time, geography and humans."
 date: 2010-06-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -10,11 +10,7 @@ categories:
   - Lynn
 ---
 
-
-
 ![position-3.jpg](position-3.jpg)
-
-
 
 A new web-based program is providing an innovative tool to track the spread of infectious diseases across time, geography and humans. Supramap, a supercomputer powered system designed by scientists in biomedical informatics at The Ohio State University in the US uses GIS to calculate and project evolutionary information.
 
@@ -42,12 +38,6 @@ According to Janies, presenting data in Supramap’s visually attractive format 
 
 The team is currently completing the development of a web interface that will provide easy access to the application by other scientists and public health officials.
 
- 
+**This article was originally published in the June/July issue of [Position Magazine](https://www.spatialsource.com.au/magazine).**
 
-This article was originally published in the June/July issue of [Position Magazine](https://www.spatialsource.com.au/magazine). Click below for the original copy.
-
-
-
-{{< img-caption src="postion-magazine.jpg" caption="Position Magazine, June/July 2010" alt="" >}}
-
-
+{{< img-caption src="postion-magazine.jpg" href="position-magazine-excerpts.pdf" caption="Position Magazine, June/July 2010. Click for the original copy" alt="" >}}

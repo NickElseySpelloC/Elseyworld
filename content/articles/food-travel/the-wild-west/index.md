@@ -1,6 +1,6 @@
 ---
 title: The Wild West
-description: "The Pacific Northwest ranges from bustling city Seattle to wild, remote Walla Walla. LYNN ELSEY recommends the best places to visit,..."
+description: "The Pacific Northwest ranges from bustling city Seattle to wild, remote Walla Walla. LYNN ELSEY recommends the best places to visit, sleep and eat."
 date: 2003-06-07T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -10,7 +10,9 @@ categories:
   - Lynn
 ---
 
-*The Pacific Northwest ranges from bustling city Seattle to wild, remote Walla Walla. LYNN ELSEY recommends the best places to visit, sleep and eat.*
+{{< lead >}}
+The Pacific Northwest ranges from bustling city Seattle to wild, remote Walla Walla. LYNN ELSEY recommends the best places to visit, sleep and eat.
+{{< /lead >}}
 
 They do things differently out here. Nike, Microsoft, Starbucks and the odd volcanic eruption aside, the Pacific Northwest is America's capital of understatement.
 
@@ -22,7 +24,7 @@ Oregon caught the world's attention with sumptuous Pinot Noirs, these days her P
 
 Portland is big enough to offer first-class hotels, excellent restaurants and lots of antique stores without the less desirable trappings - traffic, noise, urban sprawl - of a large metropolis. Constant reminders of the surrounding natural beauty are on every corner: bronze bears frolic in fountains, traffic yields to the majestic elk statue smack in the middle of Main Street and the Willamette River babbles through the centre of the city. The snowy peak of stately Mount Hood frames Portland, on clear days the remnants of Mt St Helens and other, still intact, volcmoes add an extra touch of drama.
 
-**ON THE TOWN**
+## ON THE TOWN
 
 You don't need to leave town to sample many wine gems. Oregon Wines on Broadway, a congenial wine bar downtown, is a great source of Oregonian wines as well as those from neighbouring states. As expected, Willamette valley Pinot Noirs, from wineries like Domaine Serene and Beaux Frères, play a starring role.
 
@@ -32,67 +34,51 @@ To stay in Portland, both the Hotel Lucia and the Heathman Hotel provide mature 
 
 With Portland as your base, an hour's drive places you in the centre of the North Willamette Valley wine region. Function definitely takes precedence over style in the quiet valley. Wineries are usually small. It is rare to find anything other than wine to buy. Some are only open for tasting by appointment, othen, such as Beaux Frères, not at all.
 
-**OREGON GUIDE BOOK: Wineries**
+## OREGON GUIDE BOOK
 
-WILLAKENZIE ESTATE
+### Wineries
 
-**Tasting:** Daily in the summer, Fri-Sun in the winter and by appointment. Laughlin Road, Yamhill.
-
-Tel: + 1 503 662 3280
-
+WILLAKENZIE ESTATE<br>
+**Tasting:** Daily in the summer, Fri-Sun in the winter and by appointment. Laughlin Road, Yamhill.<br>
+Tel: + 1 503 662 3280<br>
 **Don't miss**: Emery and Aliette Pinot Noir, 2000 Pinot Gris.
 
-DOMAINE DROUHIN OREGON
-
-**Tasting**: Open by appointment Wed-Sat. Dundee
-
-Tel: + 1 503 864 2700
-
+DOMAINE DROUHIN OREGON<br>
+**Tasting**: Open by appointment Wed-Sat. Dundee<br>
+Tel: + 1 503 864 2700<br>
 **Don't miss**: Louise Drouhin Pinot Noir, Chardonnay Red Hills Estate
 
-ARCHERY SUMMIT WINERY
-
-**Tasting**: The-Sun: reservations are required. Archery Summit Road, Dayton
-
-Tel: + 1 503 864-4300
-
+ARCHERY SUMMIT WINERY<br>
+**Tasting**: The-Sun: reservations are required. Archery Summit Road, Dayton<br>
+Tel: + 1 503 864-4300<br>
 **Don't miss**: 1999 Archery Summit Estate; 2000 Vireton-Blanc de Collines Rouges
 
-BRICKHOUSE VINEYARDS
-
-**Tasting**: By appointment. Lewis Rogers Lane, Newberg
-
+BRICKHOUSE VINEYARDS<br>
+**Tasting**: By appointment. Lewis Rogers Lane, Newberg<br>
 Tel: +1 503 538-5136
 
-**OREGON GUIDE BOOK: Dining**
+### Dining
 
-HIGGINS. 1239 SW Broadway
-
-Tel: +1 503 222 9070
-
-PALEYS PLACE. 1204 NW 21st Ave
-
+HIGGINS. 1239 SW Broadway<br>
+Tel: +1 503 222 9070<br>
+PALEYS PLACE. 1204 NW 21st Ave<br>
 Tel: +1 503 243 2403
 
-OREGON WINES ON BROADWAY, 515 SW Broadway.
+OREGON WINES ON BROADWAY, 515 SW Broadway.<br>
+Tel: +1 503 228 4655<br>
 
-Tel: +1 503 228 4655
-
-JOEL PALMER HOUSE, 600 Ferry Street, Dayton.
-
+JOEL PALMER HOUSE, 600 Ferry Street, Dayton.<br>
 Tel: +1 503 864 2995 (call for directions). A must for fungi aficionados.
 
-**OREGON GUIDE BOOK: Accomodation**
+### Accomodation
 
-HOTEL LUCIA, 400 SW Broadway
+HOTEL LUCIA, 400 SW Broadway<br>
+Tel: +1 503 225 1717<br>
 
-Tel: +1 503 225 1717
-
-HEATHMAN HOTEL, 1001 SW Broadway
-
+HEATHMAN HOTEL, 1001 SW Broadway<br>
 Tel: +1 503 241 4100
 
-*More info: Portland Oregon Visitors Association, 1000 SW Broadway, Suite 2300, Portland, OR 97205. Tel: +1 503 275 9750.*
+_More info: Portland Oregon Visitors Association, 1000 SW Broadway, Suite 2300, Portland, OR 97205. Tel: +1 503 275 9750._
 
 Visitors who venture to the eastern side of the cascade Mountains should prepare for a visual shock. While the western slopes of the Pacific Northwest are defined by swathes of
 
@@ -108,63 +94,49 @@ Walla walla's remote location helps retain the low-key flavour of the area but, 
 
 'You can't go wrong with Whitehouse-Crawford,' says Darcey Fugman-Small, of Woodward Canyon Winery, 'it's the nicest place in town.' Other favourites include Creektown Café, perfect for alfresco dining, and the Grapefields wine bar with its 'cool atmosphere and good food'.
 
-**WALLA WALLA GUIDE BOOK: Wineries**
+## WALLA WALLA GUIDE BOOK
 
-L'ECOLE NO 41
+### Wineries
 
-**Tasting**: Daily (call during winter) in the old schoolhouse. 41 Lowden School Road.
+L'ECOLE NO 41<br>
+**Tasting**: Daily (call during winter) in the old schoolhouse. 41 Lowden School Road.<br>
+Tel: +1 503 525 0948<br>
 
-Tel: +1 503 525 0948
-
-CAYUSE VINEYARDS
-
-**Tasting**: Fri-Sun or by appointment. East Main Street, Walla Walla. Tel: +1 509 526 0686
-
+CAYUSE VINEYARDS<br>
+**Tasting**: Fri-Sun or by appointment. East Main Street, Walla Walla. Tel: +1 509 526 0686<br>
 **Don't Miss**: 1999 Syrah Walla Walla Valley
 
-WOODWARD CANYON
-
-**Tasting**:  Daily. Lowden. Tel:+ 1 509 525 4129
-
+WOODWARD CANYON<br>
+**Tasting**:  Daily. Lowden. Tel:+ 1 509 525 4129<br>
 **Don't Miss**: 2000 Walla Walla Valley and Columbia Yallay Marlots, all the Cabernet Sauvignons and Columbia Valley Chardonnay
 
-REININGER WINERY
-
-**Tasting**: 'If we're here, w're open.' Appointments useful. C Street. Walla Walla.
-
-Tel: +1 509 522 1994
-
+REININGER WINERY<br>
+**Tasting**: 'If we're here, w're open.' Appointments useful. C Street. Walla Walla.<br>
+Tel: +1 509 522 1994<br>
 **Don't Miss**: 1999 Cabernet Sauvignon Walla Walla Valley. 1999 Medal Walla Walla Valley
 
-CANOE RIDGE VINEYARD
-
-**Tasting**: Daily. Cherry Street, Walla Walla.
-
-Tel: +1 509 527 0885
-
+CANOE RIDGE VINEYARD<br>
+**Tasting**: Daily. Cherry Street, Walla Walla.<br>
+Tel: +1 509 527 0885<br>
 **Don't miss**: Vineyard Chardonnay
 
-**WALLA WALLA GUIDE BOOK: Dining**
+### Dining
 
-GRAPEFIELDS, 4E Main Street
+GRAPEFIELDS, 4E Main Street<br>
+Tel: +1 509 522 3993<br>
 
-Tel: +1 509 522 3993
-
-WHITEHOUSE-CRAWFORD RESTAURANT. 55 Cherry Street. Walla Walla.
-
+WHITEHOUSE-CRAWFORD RESTAURANT. 55 Cherry Street. Walla Walla.<br>
 Tel: + 1 509 525 2222
 
-**WALLA WALLA GUIDE BOOK: Accomodation**
+### Accomodation
 
-MILL CREEK INN. 2014 Mill Creek Road, Walla Walla.
-
+MILL CREEK INN. 2014 Mill Creek Road, Walla Walla.<br>
 Tel: + 1 589 522 1234. This old wheat ranch offers collage, barn and hayloft accomodation with fantastic views.
 
-MARCUS WHITMAN HOTEL, 6 West Rose Steet. Walla Walla.
-
+MARCUS WHITMAN HOTEL, 6 West Rose Steet. Walla Walla.<br>
 Tel: +1 509 525 2200. A historic building in the town centre.
 
-*More info: Walla Walla Chamber of Commerce, PO BOX 644, Walla Walla, WA 99362 Tel: +1 509 525 0850*
+_More info: Walla Walla Chamber of Commerce, PO BOX 644, Walla Walla, WA 99362 Tel: +1 509 525 0850_
 
 After the ochre and western tones of Central Washington, Seattle feels like an oasis of sophistication. Lakes, rivers and bays anchor the rolling hills. Mount Rainier looms in the background. Unlike Portland, Seattle bustles. Skyscrapers and sports stadiums dominate the downtown skyline, restaurants, pricey boutiques and Starbucks coffee stores fill in the gaps.
 
@@ -180,70 +152,50 @@ Seattle-ites are proud of their bounty. Local wines garner special attention and
 
 For dining, Cascadia and Campagne match terrific wines with stylish fare; Ray's Boathouse adds a bay-front setting.
 
-**SEATTLE GUIDE BOOK: Wineries**
+## SEATTLE GUIDE BOOK
 
-CHATEAU STE MICHELLE
+### Wineries
 
-**Tasting**: Daily. Woodinville
-
+CHATEAU STE MICHELLE<br>
+**Tasting**: Daily. Woodinville<br>
 Tel: +1 425 415 3632
 
-DELILLE CELLARS
-
-**Tasting**: By appointment only, Fri preferred. Woodinville
-
-Tel: +1 425 489 0544
-
+DELILLE CELLARS<br>
+**Tasting**: By appointment only, Fri preferred. Woodinville<br>
+Tel: +1 425 489 0544<br>
 **Don't Miss**: Velvety Syrahs, Chaleur Estat, Yaldma Valley Red, Chaleur Estate Blanc
 
-CADENCE WINERY
-
-**Tasting**: By appointment. Seattle
-
-Tel: +1 206 381 9507
-
+CADENCE WINERY<br>
+**Tasting**: By appointment. Seattle<br>
+Tel: +1 206 381 9507<br>
 **Don't Miss**: Reserve 2000, Tapteil 2000, Ciel du Cheval, Sprint Valley 2000
 
-HEDGES CELLARS
-
-**Tasting: Mon-Sat.** lssaquah.
-
-Tel: +1 425 391 6056
-
+HEDGES CELLARS<br>
+**Tasting: Mon-Sat.** lssaquah.<br>
+Tel: +1 425 391 6056<br>
 **Don't miss:** Red Mountain Reserve. Three Vinyards
 
-**SEATTLE GUIDE BOOK: Dining**
+### Dining
 
-CASCADIA. 2328 First Ave
+CASCADIA. 2328 First Ave<br>
+Tel: +1 206 448 8884<br>
 
-Tel: +1 206 448 8884
+CAMPAGNE, 86 Pine St<br>
+Tel: +1 206 728 2800<br>
 
-CAMPAGNE, 86 Pine St
-
-Tel: +1 206 728 2800
-
-RAYS BOATHOUSE. 6049 Seaview Ave. NW.
-
+RAYS BOATHOUSE. 6049 Seaview Ave. NW.<br>
 Tel: +1 206 789 3770
 
-**SEATTLE GUIDE BOOK: Accomodation**
+### Accomodation
 
-ALEXIS HOTEL. 1007 First Avanue, Seattle.
-
+ALEXIS HOTEL. 1007 First Avanue, Seattle.<br>
 Tel: +1 206 624 4844. Superlative service.
 
-THE WILLOWS LODGE. 14580 NE 145th St, Woodinville.
-
+THE WILLOWS LODGE. 14580 NE 145th St, Woodinville.<br>
 Tel: +1 425 424 3900. Lodge style accomodation.
 
-For free information and visitor guides call Washington State Tourism on +44 (O) 20 7978 5233 or visit www.experiencewashington.com
+_For free information and visitor guides call Washington State Tourism on +44 (O) 20 7978 5233 or visit [www.experiencewashington.com](www.experiencewashington.com)_
 
- 
+**Originally published in the June 2003 edition of [Decanter Magazine](the-wild-west-decanter-magazine.pdf).**
 
-**Originally published in the June 2003 edition of** [Decanter Magazine](the-wild-west-decanter-magazine.pdf)
-
-
-
-![decanter-june-2003.jpg](decanter-june-2003.jpg)
-
-
+{{< img-caption src="decanter-june-2003.jpg" href="the-wild-west-decanter-magazine.pdf" caption="Decanter Magazine, June 2003"  >}}

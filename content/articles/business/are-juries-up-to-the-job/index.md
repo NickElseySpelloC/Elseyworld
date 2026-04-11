@@ -223,6 +223,6 @@ Top reasons for being excused from NSW juries:
 
 {{< /callout >}}
 
-**Originally published in the November 2017 edition of the** [**NSW Law Society Journal**](https://lawsociety.cld.bz/e/November-2017/32)**.**
+**Originally published in the November 2017 edition of the NSW Law Society Journal.**
 
 {{< img-caption src="are-juries.jpg" caption="NSW Law Society Journal, November 2017" alt="" >}}

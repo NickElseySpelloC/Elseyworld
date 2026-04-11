@@ -1,6 +1,6 @@
 ---
 title: Rome
-description: "Whether your interests lie in art, architecture, history, food, fountains or shopping, Rome pretty much tops the scales as a place to..."
+description: "Whether your interests lie in art, architecture, history, food, fountains or shopping, Rome pretty much tops the scales as a place to visit."
 date: 2017-10-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -98,6 +98,6 @@ In its heyday, as the imperial residence of the Roman emperor Hadrian, **Hadrian
 - [www.villadestetivoli.info](www.villadestetivoli.info)
 - [villaadriana.beniculturali.it](villaadriana.beniculturali.it)
 
-**Originally published in the October 2017 edition of the [NSW Law Society Journal](https://lawsociety.cld.bz/e/LSJ-October-2017/58).**
+**Originally published in the October 2017 edition of the NSW Law Society Journal.**
 
 {{< img-caption src="rome-city-guide.jpg" caption="Law Society Journal, October 2017" alt="" >}}

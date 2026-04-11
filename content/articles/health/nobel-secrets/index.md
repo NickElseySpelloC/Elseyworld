@@ -1,6 +1,6 @@
 ---
 title: Nobel Secrets
-description: "Last year, Franz Messerli, the Swiss-born director of hypertension program at St Luke’s-Roosevelt Hospital and Columbia University in New..."
+description: "Last year, Franz Messerli, the Swiss-born director of hypertension program at St Luke’s-Roosevelt Hospital and Columbia University in New York, published a slightly tongue-in-cheek paper in the New England Journal of Medicine, linking chocolate consumption with winning Nobel prizes"
 date: 2013-07-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -28,16 +28,8 @@ The researchers noted (as Messerli did) that although they found an association 
 
 The authors said that the higher levels of dairy consumption could be a reflection of a strong educational system but also suggested that the flavonoid content in chocolate might increase brain function.
 
-“So to improve your chances of winning Nobel Prizes you should not only eat more chocolate but perhaps drink milk, too: or strive for synergy with hot chocolate,” the authors
+“So to improve your chances of winning Nobel Prizes you should not only eat more chocolate but perhaps drink milk, too: or strive for synergy with hot chocolate,” the authors concluded.
 
-concluded.
-
- 
-
-This article was originally published in Food Australia Magazine, the journal of the [Australian Institute of Food Science and Technology](https://www.aifst.asn.au/). Click below for the original copy.
-
-
+**This article was originally published in Food Australia Magazine, the journal of the [Australian Institute of Food Science and Technology](https://www.aifst.asn.au/).**
 
 {{< img-caption src="food-australia-landscape.jpg" caption="Food Australia Magazine" alt="" >}}
-
-

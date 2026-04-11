@@ -1,6 +1,6 @@
 ---
 title: W Hotel, Washington DC
-description: "LYNN ELSEY reports on a well-positioned hotel in Washington DC where service is king. In America’s capital, access is everything. The..."
+description: "LYNN ELSEY reports on a well-positioned hotel in Washington DC where service is king."
 date: 2018-09-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -10,7 +10,9 @@ categories:
   - Lynn
 ---
 
-*LYNN ELSEY reports on a well-positioned hotel in Washington DC where service is king.*
+{{< lead >}}
+LYNN ELSEY reports on a well-positioned hotel in Washington DC where service is king.
+{{< /lead >}}
 
 In America’s capital, access is everything. The closer you are to power, the better. Elvis Presley certainly thought so. In 1970 when he wanted President Nixon to get him a federal agent badge, Presley based his campaign from the Washington Hotel, housed in a stately Beaux Arts building a block from the White House.
 
@@ -36,12 +38,6 @@ After a long day walking around the monuments, a visit to the W’s spa, called 
 
 Even if you aren’t hankering after a presidential favour, staying in a suite a stone’s throw from the White House and just blocks from many of the city’s major drawcards, most assuredly has its benefits. Channelling the King has never been so easy.
 
- 
-
-**Originally published in the September 2018 edition of the** [**NSW Law Society Journal**](https://lawsociety.cld.bz/LSJ-September-2018/62/)**.**
-
-
+**Originally published in the September 2018 edition of the NSW Law Society Journal.**
 
 {{< img-caption src="w-hotel-landscape.jpg" caption="NSW Law Society Journal, September 2018" alt="" >}}
-
-

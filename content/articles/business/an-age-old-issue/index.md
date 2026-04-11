@@ -162,6 +162,6 @@ The ARC Centre of Excellence in Population Ageing Research and the Centre for Re
 
 ----
 
-**Originally published in the April 2018 edition of the** [**NSW Law Society Journal**](https://lawsociety.cld.bz/LSJ-April-2018/30/)**.**
+**Originally published in the April 2018 edition of the** NSW Law Society Journal.**
 
 {{< img-caption src="age-discrimination-cover.jpg" caption="NSW Law Society Journal, April 2018" alt="" >}}

@@ -1,6 +1,6 @@
 ---
 title: A weekend in Verona
-description: "Verona City Guide The home of medieval and Renaissance palaces, a Roman arena and Shakespeare’s star-crossed lovers, Verona is a compact..."
+description: "The home of medieval and Renaissance palaces, a Roman arena and Shakespeare’s star-crossed lovers, Verona is a compact jewel of Italian history, art and food."
 date: 2020-01-17T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false

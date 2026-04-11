@@ -82,7 +82,7 @@ But she’s still here – her passion and focus helping her build a successful 
 
 ----
 
-**Originally published in the July 2017 edition of the [NSW Law Society Journal](https://lawsociety.cld.bz/e/LSJ-July-2017/24).**
+**Originally published in the July 2017 edition of the NSW Law Society Journal.**
 
 {{< img-caption src="the-art-of-justice.jpg" caption="NSW Law Society Journal, July 2017" alt="" >}}
 

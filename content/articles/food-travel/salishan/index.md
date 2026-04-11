@@ -1,16 +1,18 @@
 ---
 title: Salishan - A Luxury Escape on the Oregon Coast
-description: "Enjoy Oregon’s wild coastline from the comfort of a beachside sanctuary, says LYNN ELSEY. Oregon’s stunning, dramatic coastline is a big..."
+description: "Enjoy Oregon’s wild coastline from the comfort of a beachside sanctuary."
 date: 2018-07-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
-thumbnail: salishan-cover.jpg
+thumbnail: salishan.jpg
 categories:
   - Food Travel
   - Lynn
 ---
 
-### *Enjoy Oregon’s wild coastline from the comfort of a beachside sanctuary, says LYNN ELSEY.*
+{{< lead >}}
+Enjoy Oregon’s wild coastline from the comfort of a beachside sanctuary, says LYNN ELSEY.
+{{< /lead >}}
 
 Oregon’s stunning, dramatic coastline is a big drawcard for most visitors to America’s Pacific Northwest. From windswept sand dunes to redwood-lined cliffs perched above pounding surf, the coast seems straight out of a dramatic novel – it’s the perfect setting for a brooding TV crime series.
 
@@ -36,12 +38,6 @@ During the day, the resort’s dining options include a casual restaurant and gr
 
 Salishan allows guests to experience the grandeur of the Oregon coast without any sacrifices. It’s no surprise Condé Nast Traveler rated it the third best resort in the Pacific Northwest, and Travel + Leisure magazine featured it on the list of “10 Best Resort Hotels in the West” for 2017.
 
- 
+**Originally published in the July 2018 edition of the NSW Law Society Journal.**
 
-Originally published in the July 2018 edition of the [NSW Law Society Journal](https://lawsociety.cld.bz/LSJ-July-2018/62/).
-
-
-
-{{< img-caption src="salishan.jpg" caption="NSW Law Society Journal, July 2018" alt="" >}}
-
-
+{{< img-caption src="salishan-landscape.jpg" caption="NSW Law Society Journal, July 2018" alt="" >}}

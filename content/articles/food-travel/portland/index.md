@@ -1,6 +1,6 @@
 ---
 title: Portland
-description: "Portland’s hipster reputation, award-winning food and drink venues – 70 draft breweries and counting – and outdoorsy attitude have helped..."
+description: "Portland’s hipster reputation, award-winning food and drink venues – 70 draft breweries and counting – and outdoorsy attitude have helped make this unassuming Pacific Northwest city a world-famous destination."
 date: 2018-07-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -65,6 +65,6 @@ Heading east from Portland, the **Columbia River Gorge** is America’s largest 
 
 **Mount Hood’s** year-round snowy peak provides a stunning reminder of the Pacific Northwest’s volcanic roots, and is a favourite spot for skiing, snowboarding and hiking. Perched partway up the mountain, **Timberline Lodge** is a National Historic Landmark and a majestic example of American mountain retreats that still thrives as a ski lodge, hotel and restaurant.
 
- **Originally published in the July 2018 edition of the [NSW Law Society Journal](https://lawsociety.cld.bz/LSJ-July-2018/58/).**
+ **Originally published in the July 2018 edition of the NSW Law Society Journal.**
 
 {{< img-caption src="portland-city-guide.jpg" caption="NSW Law Society Journal, July 2018" alt="" >}}

@@ -1,6 +1,6 @@
 ---
 title: Treating depression - Mediterranean style
-description: "A team of Australian researchers have doubled-down on upsides of going Med. In 2017 the team from Deakin University published results of..."
+description: "A team of Australian researchers have doubled-down on upsides of going Med."
 date: 2019-03-13T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -16,10 +16,4 @@ And in May 2018, economic analysis of their research (published in [BMC Public H
 
 Mediterranean-style diets - which focus on eating lots of vegetables, fruits, whole grains, legumes, fish and olive oil, and avoiding highly processed, sugary and fried foods - have a long association with good health.
 
-
-
-![050fa8aff581445598f0daace0913b90.jpg](050fa8aff581445598f0daace0913b90.jpg)
-
-
-
-<br>
+![veg](veg.jpg)

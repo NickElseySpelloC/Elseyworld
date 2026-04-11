@@ -10,7 +10,9 @@ categories:
   - Lynn
 ---
 
-*Providing nutrients to children has been named as the most cost effective method of improving lives around the world. Words by Lynn Elsey.*
+{{< lead >}}
+Providing nutrients to children has been named as the most cost effective method of improving lives around the world. Words by Lynn Elsey.
+{{< /lead >}}
 
 A Danish scientist recently asked a panel of five leading economists, including four Nobel laureates, to determine the most cost-efficient way of improving
 
@@ -20,9 +22,9 @@ Their response? Fighting malnutrition through micronutrients. Bjørn Lomborg, he
 
 To help answer the question the panel was provided with copious amount of detailed research, undertaken by more than 50 experienced economists. The information covered 40 detailed investment ideas and included solutions covering a wide range of options for tackling an array of global problems including armed conflict, chronic disease, education shortages, hunger, population growth and water shortages. The ideas also detailed relevant costs and benefits.
 
-> "These investments are simply good economics"
+> These investments are simply good economics.
 
-**Good economics**
+### Good economics
 
 Based on the research and analysis provided, the panel selected 16 cost effective investment options to best improve the human condition. Topping the list was increasing nutrient intake in preschoolers by providing micronutrients through fortification and supplements.
 
@@ -40,9 +42,8 @@ The authors estimate that around 163 million pre-school children are deficient i
 
 The Copenhagen Consensus Center is a nonprofit, Denmark-based think tank that that explores ways for governments and philanthropists to spend aid money.
 
- 
-
-**The 16 smartest ways to improve the global quality of life**
+{{< callout >}}
+### The 16 smartest ways to improve the global quality of life
 
 According to the Copenhagen Consensus 2012 Expert Panel, the following investments are the most cost effective ways of improving life around the world:
 
@@ -61,13 +62,8 @@ According to the Copenhagen Consensus 2012 Expert Panel, the following investmen
 - Accelerated HIV vaccine R&D
 - Extended field trial of schooling benefits information campaign
 - Borehole and public hand pump intervention
+{{< /callout >}}
 
- 
-
-This article was originally published in Food Australia Magazine, the journal of the [Australian Institute of Food Science and Technology](https://www.aifst.asn.au/). Click below for the original copy.
-
-
+**This article was originally published in Food Australia Magazine, the journal of the [Australian Institute of Food Science and Technology](https://www.aifst.asn.au/).**
 
 {{< img-caption src="a-very-smart-investment.jpg" caption="Food Australia Magazine" alt="" >}}
-
-

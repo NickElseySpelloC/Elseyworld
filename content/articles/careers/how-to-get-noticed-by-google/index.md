@@ -46,6 +46,6 @@ We want our workforce to reflect the diversity of our users, which includes wome
 
 ----
 
-**Originally published in the 2015 edition the [Australia's Top 100 Graduate Employers](https://gradaustralia.com.au/library/2015/top-100)**. Click below for the original content.
+**Originally published in the 2015 edition the [Australia's Top 100 Graduate Employers](https://gradaustralia.com.au/library/2015/top-100)**. 
 
 {{< img-caption src="how-to-get-noticed-by-google.jpg" caption="How to get noticed by Google." >}}

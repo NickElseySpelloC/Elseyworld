@@ -59,6 +59,6 @@ Consider setting up your own website or biog. This will demonstrate initiative a
 - Be consistent: Make your personal brand consistent across any platform that is accessible to a po tential employer
 - Be knowledgeable: Get to know what people in you­target field are interested in hearing about to ensure your messages hit the target.
 
-**Originally published in the 2015 edition the [Australia's Top 100 Graduate Employers](https://gradaustralia.com.au/library/2015/top-100)**. Click below for the original content.
+**Originally published in the 2015 edition the [Australia's Top 100 Graduate Employers](https://gradaustralia.com.au/library/2015/top-100)**. 
 
 {{< img-caption src="let-the-net.jpg" href="let-the-net.pdf" caption="Top 100 Graduate Employers. Click for original content." alt="" >}}

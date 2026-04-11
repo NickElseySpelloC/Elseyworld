@@ -1,6 +1,6 @@
 ---
 title: Position Magazine
-description: "As editor of Position magazine and spatialsource.com I provided an array of geo-spatial content including GPS, satellite, technology,..."
+description: "As editor of Position magazine and spatialsource.com I provided an array of geo-spatial content including GPS, satellite, technology, mapping and other spatial information."
 date: 2010-06-01T00:00:00.000+10:00
 author: Lynn Elsey
 draft: false
@@ -10,9 +10,11 @@ categories:
   - Lynn
 ---
 
-*As editor of Position magazine and spatialsource.com I provided an array of geo-spatial content including GPS, satellite, technology, mapping and other spatial information.*
+{{< lead >}}
+As editor of Position magazine and spatialsource.com I provided an array of geo-spatial content including GPS, satellite, technology, mapping and other spatial information.
+{{< /lead >}}
 
-**A Critical shortage**
+### A Critical shortage
 
 The demand for geospatial technology professionals is expanding at a much greater rate than the supply, says Chris Rizos. The head of the University of New South Wales School of Surveying and Spatial Information Systems raised the subject during the International Federation of Surveyors Congress in Sydney.
 
@@ -24,7 +26,7 @@ Rizos raised the much discussed scenario of aging demographics in the surveying 
 
 “Technology has revolutionised the world of surveying and spatial information in general, but we can no longer meet the needs of industry and government.”
 
-**Responding to Haiti**
+### Responding to Haiti
 
 Web 2.0 technologies will drive the future of geospatial technology for disaster mapping and emergency response. The observation was made by ESRI’s Brent Jones at the International Federation of Surveyors (FIG) Congress in Sydney in April.
 
@@ -44,7 +46,7 @@ The challenge for GIS professionals is how to extract accurate geospatial data f
 
 Mobilising citizen knowledge by making data freely available to all means that the collective pool of intelligence becomes increasingly sophisticated, and yet it is simpler to use, Jones said. Because the data has been modeled, with symbology already in place, undertaking rich analysis via the web can be done quickly.
 
-**Remote Sensing Keeps Expanding**
+### Remote Sensing Keeps Expanding
 
 The global civil and commercial remote sensing satellite market will be worth $16 billion by 2019, according to projections by US market intelligence firm Forecast International. Over the coming decade, it says, more than 100 individual remote sensing satellites will be launched.
 
@@ -58,13 +60,9 @@ in competition with public - private partnerships to develop and operate satelli
 
 It adds that many programs around the world –  such as the Indian Cartosat, Canadian Radarsat and Franco-Italian COSMO- SkyMed/Pleiades – blur the distinction between government and privately operated networks.
 
-**World’s Smallest 3D Map**
+### World’s Smallest 3D Map
 
-
-
-![position-1.jpg](position-1.jpg)
-
-
+{{< img-float src="position-1.jpg" side="right" >}}
 
 IBM scientists have created the smallest 3D map of the Earth. How small is it? So small that 1,000 such maps could fit on a grain of salt.
 
@@ -78,7 +76,7 @@ The IBM team created several 3D and 2D patterns to demonstrate the groundbreakin
 
 The new technique achieves resolutions as high as 15 nanometers, and has a potential of going even smaller. The nanotip tool, which can sit on a tabletop, promises improved and extended capabilities at very high resolutions, but at one fifth to one tenth of the cost.
 
-**Acid in the Arctic**
+### Acid in the Arctic
 
 An expedition has set out from northern Canada to investigate the potential effects of carbon dioxide on the Arctic Ocean.
 
@@ -88,17 +86,9 @@ Lead explorer Ann Daniels and two other scientists will investigate the rate of 
 
 Catlin Group Limited, an international specialist property and casualty insurer and re-insurer based in London,is sponsoring the expedition. MDA Information Systems in Vancouver is providing information on ice state from its Radarsat-2 satellite. MDA will correlate the data collected from the expedition with the imagery to determine the ability of the radar technology to measure the thickness of the ice.
 
-
-
 ![position-2.jpg](position-2.jpg)
 
-
-
-
-
 ![position-3.jpg](position-3.jpg)
-
-
 
 A new web-based program is providing an innovative tool to track the spread of infectious diseases across time, geography and humans. Supramap, a supercomputer powered system designed by scientists in biomedical informatics at The Ohio State University in the US uses GIS to calculate and project evolutionary information.
 
@@ -126,49 +116,37 @@ According to Janies, presenting data in Supramap’s visually attractive format 
 
 The team is currently completing the development of a web interface that will provide easy access to the application by other scientists and public health officials.
 
-**ArcGIS Explorer**
+### ArcGIS Explorer
 
-
-
-![position-4.jpg](position-4.jpg)
-
-
+{{< img-float src="position-4.jpg" side="right" >}}
 
 The new version ArcGIS Explorer improves the user interface and expands the maps available online. It features a new analysis gallery with advanced tools that allow a direct connection to geoprocessing services.
 
 The basemap gallery has also been updated. It offers new ArcGIS online imagery and topographic and street maps. It also includes the new Manage My Basemaps option, which allows users to add or remove maps from the gallery or change the image associated with each base map.
 
-The new release also supports enhanced layer package properties and the ability to fly along user defined paths. Bing Maps services have been built into ArcGIS Explorer to provide access to worldwide aerial and space-based imagery. Visit www.esri.com/arcgisexplorer for more information.
+The new release also supports enhanced layer package properties and the ability to fly along user defined paths. Bing Maps services have been built into ArcGIS Explorer to provide access to worldwide aerial and space-based imagery. Visit [www.esri.com/arcgisexplorer](www.esri.com/arcgisexplorer) for more information.
 
-**Exponare 4.0**
+### Exponare 4.0
 
-
-
-![position-5.jpg](position-5.jpg)
-
-
+{{< img-float src="position-5.jpg" side="left" >}}
 
 Pitney Bowes Business Insight has released the latest version of its web mapping product, Exponare. In version 4.0, users can edit attribute data within the program, enabling them to maintain their own data without the need for a desktop power tool.
 
 Other new features include the ability to open a layer and add it to any current work context. This allows users to access more data without administrator intervention, including opening additional layers when required.
 
-Version 4.0 also has redlining capabilities that allow objects to be drawn, moved, deleted, saved and recalled. Users can save the annotations into MapInfo Professional. Visit www.pbinsight.com.au/products/location-intelligence/applications/mapping-analytical/exponare/ for more information.
+Version 4.0 also has redlining capabilities that allow objects to be drawn, moved, deleted, saved and recalled. Users can save the annotations into MapInfo Professional. Visit [www.pbinsight.com.au/products/location-intelligence/applications/mapping-analytical/exponare/](www.pbinsight.com.au/products/location-intelligence/applications/mapping-analytical/exponare/) for more information.
 
-**Leica Freebird**
+### Leica Freebird
 
 Leica has released the new IPAS Freebird. The inertial positioning and attitude system is designed to be integrated into sensor systems to enable geo-referencing.
 
 The new version no longer requires a continuous lock on navigation satellites. It frees up mission planning by allowing much tighter turns between flight lines, with up to 25 per cent improvement in flight economy for aerial survey missions, according to the company. It also delivers a time saving of several minutes per turn.
 
-Previously, GNSS-IMU processing required separate steps for GNSS trajectory and IMU processing. The new product enables those steps to be combined using GNSS raw measurements and tightly coupled GNSS-IMU processing. Visit www.leica-geosystems.com/en/News_360.htm?id=2372 for more information.
+Previously, GNSS-IMU processing required separate steps for GNSS trajectory and IMU processing. The new product enables those steps to be combined using GNSS raw measurements and tightly coupled GNSS-IMU processing. Visit [www.leica-geosystems.com/en/News_360.htm?id=2372](www.leica-geosystems.com/en/News_360.htm?id=2372) for more information.
 
-**Earthworks**
+### Earthworks
 
-
-
-![position-8.jpg](position-8.jpg)
-
-
+{{< img-float src="position-8.jpg" side="left" >}}
 
 Hemisphere GPS has released the Earthworks x200 excavator machine guidance system.
 
@@ -176,48 +154,30 @@ It is designed to improve operator accuracy and also simplify machine operations
 
 The system is part of the company’s earthworks business unit that focuses on the design and manufacture of products for the construction market, including machine guidance and control of earth-moving machinery.
 
-It can be used by operators of all skill levels, according to the manufacturer. Visit www.hemispheregps.com for more information.
+It can be used by operators of all skill levels, according to the manufacturer. Visit [www.hemispheregps.com](www.hemispheregps.com) for more information.
 
-**Mocal Now**
+### Mocal Now
 
+{{< img-float src="position-6.jpg" side="right" >}}
 
+Yapp Mobile in Sydney has launched the Mocal application for the Apple iPhone. It duplicates the functions of a personal navigation device on Apple’s iPhone handset. The new product announces street names, supports 2D and 3D maps, offers a choice of day or night view, and works in both portrait and landscape display modes. The system will eventually go beyond street mapping functions, says yapp Mobile. The company says content providers such as TrueLocal, Eatability and Motormouth are already online. Visit [www.mocal.com.au](www.mocal.com.au) for more information.
 
-![position-6.jpg](position-6.jpg)
+### SPOT 2
 
-
-
-Yapp Mobile in Sydney has launched the Mocal application for the Apple iPhone. It duplicates the functions of a personal navigation device on Apple’s iPhone handset. The new product announces street names, supports 2D and 3D maps, offers a choice of day or night view, and works in both portrait and landscape display modes. The system will eventually go beyond street mapping functions, says yapp Mobile. The company says content providers such as TrueLocal, Eatability and Motormouth are already online. Visit www.mocal.com.au for more information.
-
-**SPOT 2**
-
-
-
-![position-7.jpg](position-7.jpg)
-
-
+{{< img-float src="position-7.jpg" side="left" >}}
 
 Johnny Appleseed has relaunched the Spot V2 Satellite Messenger which uses GPS and independent satellite communication to provide location information. According to the company the personal trackers have been used hundreds of rescue situations in numerous countries since their launch.
 
 Features include an SOS button that broadcasts the user’s GPS location every five minutes. Another button sends a message to specified contacts – via phone and email – every five minutes for an hour.
 
-Contacts can also be sent messages detailing the user’s condition and their location. Another function lets the user know that the unit is fully operational. Visit www.ja-gps.com.au for more information.
+Contacts can also be sent messages detailing the user’s condition and their location. Another function lets the user know that the unit is fully operational. Visit [www.ja-gps.com.au](www.ja-gps.com.au) for more information.
 
-**Transport Software**
+### Transport Software
 
 Navteq has released Navteq Transport, a digital map that includes truck-specific features to support truck and fleet management and navigation.
 
 More than 20 attributes have been designed to encourage transport efficiencies. They include bridge heights and weight information, traffic signs, truck speed limits and preferred routes. These are available for most major Australian highways.
 
-The mapping product also contains coverage of the Sydney, Brisbane, Melbourne, Canberra, Perth, and Adelaide metro areas with arterial and secondary roads. It can be used with other company products, such as 3D visual content and imagery. See www.navteq.com for more information.
+The mapping product also contains coverage of the Sydney, Brisbane, Melbourne, Canberra, Perth, and Adelaide metro areas with arterial and secondary roads. It can be used with other company products, such as 3D visual content and imagery. See [www.navteq.com](www.navteq.com) for more information.
 
- 
-
-**Click the image below for the original copy**.
-
-
-
-![postion-magazine.jpg](postion-magazine.jpg)
-
-
-
-<br>
+{{< img-caption src="postion-magazine.jpg" href="position-magazine-excerpts.pdf" caption="Postion Magazine. Click for the original copy." >}}
