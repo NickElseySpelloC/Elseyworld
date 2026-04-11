@@ -9,7 +9,6 @@ categories:
   - Moving to DC
   - Nick
 ---
-
 We’d given some thought to other places in the states that we might like to live in, but due to our craving need for a hot climate and an acceptably cosmopolitan atmosphere, Florida was the only place we could up with as a potentially acceptable backup destination, should the plans for Australia fall foul of the immigration bureaucrats.
 
 Having spent, between us, perhaps 3 or 4 weeks in the state to date, we figured that we should really go over and take a look to see if this was an acceptable second choice after all.
@@ -70,11 +69,7 @@ Still, I’m not here to tour the facilities, I’m here to watch a few million 
 
 Unfortunately, it’s not to be. Twenty minutes before the designated time, the launch is scratched (there, I’ve picked up the lingo and everything) due to weather. At this point our decision to skip trip out to the viewing area turns out to be highly enlightened. While those poor saps are getting bused back to the visitor center, only to spend countless more hours stuck in traffic, I’m long gone and heading back to my hotel.
 
-
-
 {{< img-caption src="shuttle.jpg" caption="What I didn't get to see" alt="" >}}
-
-
 
 And what a drive back it turns out to be – right through the thunderstorm that the wise gentleman from NASA decided was rough enough to cancel the launch. It’s a doozy – black skies, waterfall style rain and almost continuous lightening strikes, some no more than 200 yards away from my car. It’s at this point that you really realize how flat Florida really is and you hope that the roadside power pylons don’t run out, because if they do, *you* are suddenly going to be highest point around!
 
@@ -106,11 +101,7 @@ Yes, I’m not kidding. Sixty miles from the ocean, in the middle of nowhere, su
 
 ### 5 Jun 2002
 
-
-
 ![ftlauderdale.jpg](ftlauderdale.jpg)
-
-
 
 It’s Wednesday, so this must be Ft. Lauderdale. I feel like we’re on some kind of nightmarish package bus tour where you get to see 7 cities in 6 days. To add to the disorientation, I wake up every morning thinking we’re back in Australia, since that’s the only other hot and sunny place we’ve been to in the past year. I think my body is trying to tell me that we need to move down under, rather than go east.
 
@@ -139,5 +130,3 @@ We stayed with my brother, who had recently moved over with work from the UK, in
 Since the Australia visa thing is taking longer than expected, and now having sold our house in less than a week, we find ourselves in need of a home for a two or three months. Rather than loiter in Oregon in some apartment, we’ve now decided to spend the time in DC instead. That way, if the Australia thing falls through, we’re right where we want to be. To this end, we’ve spent the last couple of days investigating all the exhausting complexities of shipping, storage, and all the complexities of moving from here to Washington, and then on to Australia.
 
 For example, did you know that the United States is the only country in the world that measures transportation costs by weight, rather than by volume. Therefore, if we move all our worldly goods to DC, the heavy stuff makes it expensive (and believe me, it’s expensive). But, if we move to Australia, the bulky stuff adds to the costs. So, we’re now in the process of wandering through our home, trying to decide what’s bulky, heavy or has generally outlived its welcome.
-
-<br>

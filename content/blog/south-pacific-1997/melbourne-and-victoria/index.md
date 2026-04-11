@@ -9,7 +9,6 @@ categories:
   - South Pacific 1997
   - Nick
 ---
-
 Well, here we are again, slowly making our way across the bottom right hand corner of Australia. This chapter is brought to you from the picturesque state of Victoria (go straight north from the island of Tasmania and you can't miss it).
 
 ### 11 Mar 1997 - Enroute to Melbourne
@@ -35,11 +34,7 @@ On the other side of the hills we descended into the town of Halls Gap. I don't 
 
 Quite impressive as you drive into town.
 
-
-
 {{< img-caption src="pioneercottages.jpg" caption="Pioneer Cottage" alt="" >}}
-
-
 
 We're staying in the Pioneer cottages, a few miles the other side of town and quite out in the back of beyond. Our log cabin can easily sleep 10, but is still nice enough. The view out the front door is quite spectacular - fields, hills (s'cuse me, mountains), majestic sweeping mobs of kangaroos, etc.
 

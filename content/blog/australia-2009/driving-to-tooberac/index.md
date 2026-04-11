@@ -9,16 +9,11 @@ categories:
   - Australia 2009
   - Nick
 ---
-
 ## 20 Mar 2009
 
 After a probably unjustified amount of random pottering and futzing about, we finally get on the road midmorning. We’re hearing west-ish towards the tiny town of Tooberac, just 10 km south of the slightly less tiny town of Heathcote. Even through its less than a quarter of the distance we did yesterday, we manage to squander most of the day getting there.
 
-
-
 {{< img-caption src="thumb-1300.jpg" caption="Merindoc Cottage" alt="" >}}
-
-
 
 It’s a pretty drive over – lots of rolling hills and intermittent eucalyptus forests, but my goodness it’s brown. We’ve heard about the drought in these parts, but you can really begin to appreciate the hardship the farms and wineries must be going through. Even the gum trees seem to be wilting.
 

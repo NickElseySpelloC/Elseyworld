@@ -9,14 +9,9 @@ categories:
   - South Pacific 1997
   - Nick
 ---
-
 ## 7 Feb 1997 -Arriving at Jean-Michel Cousteau Resort
 
-
-
 ![fiji-02.jpg](fiji-02.jpg)
-
-
 
 Ten hours, forty two minutes, two crap movies, 7 hours of highly interrupted sleep and two plastic meals, courtesy of Air Pacific we’re there. We all stick our noses to the windows for our first, non-photographic view of this south pacific paradise. Will it be all it’s alleged to be, or will turn or to be another society given over to greed, poverty, blatant tourism and abandonment of their cultural identity?
 
@@ -26,8 +21,6 @@ Through passport control, grab the bags, and out onto the concourse. This is alw
 
 Genuinely friendly, she helps with the bags and takes us over to the Sunflower airlines counter where we check in for our puddle-jumper flight to Sauvsauv. They’ve got a special on today – buy the return flights in cash and it’s half price! Our suspicious minds go into over-time. What’s the catch? We still can’t believe that the people are really this friendly, that there’s got to be a sting to all of this. But it’s true; the counter agent weights our bags....and then weighs us! Thankfully, the scale’s display isn't working on our side of the counter . Nonetheless, I breath out before stepping on. And the look of horror on Lynn’s face is a sight to see!
 
-
-
 The plane was a twin otter – about 24 seats. The flight was fun, but the landing was a little hairy – the landing strip was *so* narrow!
 
 Off the plane, into the van and off we go along the un-metaled road to the resort, Jean-Michel Cousteau. This is our first real glimpse of the island and we like what we see. Beautiful, green luscious country side and well kept up at that. No sign of the trash and litter that’s all too common on many Caribbean islands. There seems to be a real pride in the environment.
@@ -36,11 +29,7 @@ And finally, we’re there. We are met by Mike, the temporary manager of the res
 
 8 Feb 1997 - Jean-Michel Cousteau ResortFirst full day here. We’re both up early, woken at first light by the birds singing right outside our ‘window’. A quick bite to eat and I’m off diving, which is everything it’s been cracked up to be. Beautiful corals, huge variety of fish, warm water and good visibility. There was a good swell once we got outside the reef surrounding the resort and I’m sorry to say that I was actually sea sick for the first time in my life! I can now sympathise with Lynn and her terror of anything to do with boats.
 
-
-
 ![fiji-12.jpg](fiji-12.jpg)
-
-
 
 The afternoon is given over to just hanging out, swimming, walking and reading. There no more than 8 couples staying here currently, and we meet all of them. Most of the people here are older professionals, doctors, etc. Everyone is very friendly and keen to hear about each other’s lives and plans.
 
@@ -72,11 +61,7 @@ We’re met at Nadi airport again by Sauvni. Helpful and friendly as ever, so he
 
 We hang out, drink beer and eat lunch before catching the charter Sunflower Airlines flight to Yasawa lodge. This is a 30 minute flight in a 6 seat Britian Islander. Yasawa island is the northern most island in the Yasawa chain, which defines the eastern most edge of the Fiji islands. The flight is uneventful, but the landing is an ‘interesting’ decent onto a short sloping grass strip.
 
-
-
 ![fiji-01.jpg](fiji-01.jpg)
-
-
 
 We are met by the Yasawa Lodge welcoming committee, including the Manger (Simone), the resident band and a turnout from the local Fijian village. We are transported to the resort on a genuine WWII vintage truck, complete with thatched roof, serenaded by the band all the way.
 

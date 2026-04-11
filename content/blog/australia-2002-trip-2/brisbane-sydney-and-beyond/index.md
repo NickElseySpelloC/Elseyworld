@@ -1,7 +1,7 @@
 ---
 title: Brisbane, Sydney and Beyond
 description: "20 Apr 2002 - Balmy Brisbane Another pleasant and uneventful Virgin Blue flight and here we are in Brisbane, in the far south east..."
-date: 2002-04-07T00:00:00.000+10:00
+date: 2002-04-20T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: brisbane-004.jpg
@@ -9,14 +9,9 @@ categories:
   - Australia 2002 Trip 2
   - Nick
 ---
-
 ### 20 Apr 2002 - Balmy Brisbane
 
-
-
 {{< img-caption src="brisbane-004.jpg" caption="Brisbane by day..." alt="" >}}
-
-
 
 Another pleasant and uneventful Virgin Blue flight and here we are in Brisbane, in the far south east corner, and capital of, Queensland, Australia's sunshine state. This state is the home of the Great Barrier Reef, tropical rain forests, surfer dudes, gold mines and the Steve Irwin (the Crocodile Hunter).
 
@@ -32,16 +27,8 @@ We leave this place more confused and conflicted than when we arrived. We had ho
 
 ### Salacious Sydney
 
-
-
 {{< img-caption src="brisbane-005.jpg" caption="Interesting outdoor dining here" alt="" >}}
-
-
 
 We spend our last 24 hours back in Sydney, and decide to splurge a bit and stay at the Inter-Continental near the waterfront. Our patronage is rewarded with a double upgrade to a very nice room with gorgeous views and wonderfully obsequious service. It's a a beautiful in the city and we have a great time strolling through the botanical gardens, taking a lazy meal out at the local wine bar and generally making the most of the hotel facilities (including the club lounge with free bar!). It's been a wonderful 3 weeks down here and we know we'll be back for more. We just need to work out where exactly..
 
-
-
 {{< img-caption src="sydney-again-042.jpg" caption="Bye, bye Sydney" alt="" >}}
-
-

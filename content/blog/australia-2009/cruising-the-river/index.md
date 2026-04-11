@@ -9,14 +9,9 @@ categories:
   - Australia 2009
   - Nick
 ---
-
 ## 30 Mar 2009
 
-
-
 {{< img-caption src="cruiser.jpg" caption="The Cruiser" alt="" >}}
-
-
 
 Today was a day of pampering. A friend of a friend (the actual connection is far too complex to relate here) has invited us for a day’s cruising on the Swan river – a hard offer to refuse. We’re picked up at 11, ferried to the Royal Flying Squadron yacht club and board a very fancy motor cruiser, complete with a skipper, acres of walnut veneer and more drink than four boat’s worth could consume in a day.
 

@@ -1,7 +1,7 @@
 ---
 title: Sydney, and getting there
 description: "9 Apr 2002 - Qantas or bust For a little bit of exotic excitement, Lynn and I start off this vacation approximately 2,000 miles apart. No..."
-date: 2002-04-10T00:00:00.000+10:00
+date: 2002-04-09T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: sydney-again-010.jpg
@@ -9,7 +9,6 @@ categories:
   - Australia 2002 Trip 2
   - Nick
 ---
-
 ### 9 Apr 2002 - Qantas or bust
 
 For a little bit of exotic excitement, Lynn and I start off this vacation approximately 2,000 miles apart. No really - Lynn decided to use our flight from Portland to Los Angeles as an excuse to go a day early and detour via San Diego to visit her parents. I stay home and pack instead.
@@ -22,11 +21,7 @@ We depart at midnight for a 14 hour haul to Sydney, usually a fairly arduous ord
 
 ## Hello Sydney
 
-
-
 {{< img-caption src="sydney80.jpg" caption="What a way to come to work" alt="" >}}
-
-
 
 We land at 7 AM local time, swan through customs and manage to escape the quarantine inspectors with minor aggravation (Lynn was accused of concealing undisclosed food products, namely one tube of extra strong mints). We pick up our rental car (after Lynn helpfully points out that the next counter down is renting out at ½ the rate we're paying) and head into town.
 
@@ -34,25 +29,15 @@ Tonight we plan on driving directly out to the Blue Mountains and spending a cou
 
 ### The Blue Mountains
 
-
-
 {{< img-caption src="weeroona-cottage-016.jpg" caption="Weeroona Cottage" alt="" >}}
-
-
 
 Lynn calls the cottage that we've booked for the first couple of nights and we're told that it's unoccupied, so we can come on up when ever we want. We hit the road - by this point I'm *really* craving a nice hot shower.
 
-Our place to stay is [**Weeroona Cottage**](http://bluemts.com.au/weeroona) in the town of Wentworth Falls. It's marvelous (the Lynn Elsey accommodation expertise strikes again). In addition to a charming, well illuminated little cottage you get 3 acres of gardens into the bargain. For those of you that like to travel in packs of 8 or more, the larger Weeroona House can also be had for just $250 / night (weekdays), which comes with 4 bedrooms and 2 baths and it's beautiful into the bargain. Anyway, enough of the advertising already.
-
-
+Our place to stay is [Weeroona Cottage](http://bluemts.com.au/weeroona) in the town of Wentworth Falls. It's marvelous (the Lynn Elsey accommodation expertise strikes again). In addition to a charming, well illuminated little cottage you get 3 acres of gardens into the bargain. For those of you that like to travel in packs of 8 or more, the larger Weeroona House can also be had for just $250 / night (weekdays), which comes with 4 bedrooms and 2 baths and it's beautiful into the bargain. Anyway, enough of the advertising already.
 
 ![sydney-again-003.jpg](sydney-again-003.jpg)
 
-
-
 Lynn and I have a spot of lunch at the **Conservation Hut** out near **Wentworth Falls**, launching point for my favourite walk last time we were here (the food is excellent too). Later in the afternoon Lynn blows away the cobwebs by taking a quick jog back out here, and I make my usual contribution to the fitness regime by driving out to pick her up. It's at this point I'm horrified to discover that one of the best tracks in the Blue Mountains has just been closed for the next 6 to 12 months, apparently because it's unsafe. Blast - there go my hiking plans for tomorrow!
-
- 
 
 ***Lynn writes...'Blue Mountains Redux'***
 *As soon as we hit the mountains, Nick morphs into Fitness Guy. Those who know never walk if you can drive Nick, would be shocked at the transformation.* 
@@ -64,42 +49,28 @@ Lynn and I have a spot of lunch at the **Conservation Hut** out near **Wentworth
    *I nod again.*
    *“What time, then?”*
 
-
-
 ![sydney-again-006.jpg](sydney-again-006.jpg)
-
-
 
 *I manage to buy an hour of time.* 
    *Then we’re off. It is a fine walk. My favorite part is the corn-on-the-cob trees (see photo), closely followed by squishing through muddy streams in my newest pair of running shoes. Nick’s is probably scrambling over rocks and managing to avoid the muddy streams.*
    *Scarily---even though we are now in the heart of Sydney---the gung-ho exercise campaign still rages on. This morning Nick headed a walking tour of Darling Harbour, with a short break allowed at Starbucks.  He led the way on a lovely rainforest-y stroll north of Mosman Bay this afternoon. There have even been reports that someone looking just like Nick was seen running in nearby Hyde Park.* 
    *It must be the Shiraz.*
 
- 
-
 So here we are, back in the Blue Mountains again. The jetlag caught us early last night, but miraculously we were able to get a full night's sleep and woke this morning feeling remarkably good, all things considered. The folks that confidently state that you need a day to recovery from every crossed time zone need to get out a little more often. We're blessed with a beautiful sunny morning and decide to go for a bit of a hike. Our route is forcibly curtailed by the National Pass closure, but it's enjoyable nonetheless, including a section allegedly trail-blazed by none other than Charles Darwin.
 
 ### Back to Sydney
 
-
-
 {{< img-caption src="sydney-again-029.jpg" caption="Our room with a view" alt="" >}}
 
+After a picturesque picnic out at [Sublime Point](http://www.elseyworld.com/travel2002/chapter7#SublimePoint) we drive back down into the big city to take up residence for a few days before we part company and head for points afar. It's a beautiful day and also a Saturday, so it seems like every other Sydneysider has decided to head for the hills - our hills. The traffic is a bitch. After two hours and some tense navigational exchanges, we make it to our destination (the [Medina Grand Apartments](http://www.medinaapartments.com.au/)), including a detour via one of favourite wine stores (First Estate) to stock up on some essential supplies. Even though we check in after the appointment time, we're told that our room has yet to be cleaned, but "it's OK, because I've paged housekeeping". We give the lady behind the desk a couple of icy stares and that, combined with the terse conversation she has with Ms. Housekeeping, gets us an upgrade to a spectacular room. A room with a view, no less.
 
-
-After a picturesque picnic out at [**Sublime Point**](http://www.elseyworld.com/travel2002/chapter7#SublimePoint) we drive back down into the big city to take up residence for a few days before we part company and head for points afar. It's a beautiful day and also a Saturday, so it seems like every other Sydneysider has decided to head for the hills - our hills. The traffic is a bitch. After two hours and some tense navigational exchanges, we make it to our destination (the [Medina Grand Apartments](http://www.medinaapartments.com.au/)), including a detour via one of favourite wine stores (First Estate) to stock up on some essential supplies. Even though we check in after the appointment time, we're told that our room has yet to be cleaned, but "it's OK, because I've paged housekeeping". We give the lady behind the desk a couple of icy stares and that, combined with the terse conversation she has with Ms. Housekeeping, gets us an upgrade to a spectacular room. A room with a view, no less.
-
-On our first evening back in Sydney we decide to make a pilgrimage back out to [**Rose Bay Afloat**](http://www.elseyworld.com/travel2002/chapter8#RoseBayAfloat), one of our favorite restaurants the last time we were here. However, I'm sorry to report that in single months since we were here, the place has changed hands and gone decidedly down hill. Now it's chips (fries) with every entree and a pitiful wine list to accompany them. We bale out and spend a the rest of the evening unsuccessfully chasing down a decent meal. Change isn't always good!
+On our first evening back in Sydney we decide to make a pilgrimage back out to [Rose Bay Afloat](http://www.elseyworld.com/travel2002/chapter8#RoseBayAfloat), one of our favorite restaurants the last time we were here. However, I'm sorry to report that in single months since we were here, the place has changed hands and gone decidedly down hill. Now it's chips (fries) with every entree and a pitiful wine list to accompany them. We bale out and spend a the rest of the evening unsuccessfully chasing down a decent meal. Change isn't always good!
 
 The sun takes a vacation on our second day here and we take the opportunity of some cooler weather to do a bit of a walk about. We start by taking a walking tour of **Darling Harbour**, which is as silly as it sounds. For anyone who's been to a Disney resort, this will bring on a flash of deja vous - lots of themed restaurants, shiny clean boardwalks and lots of attractions for the camera toting tourists.
 
 Later in the afternoon we drive north of the city for some more rustic entertainment and take a stroll around **Manly Harbour** (all sorts of clever word plays spring to mind at this point, but none that can encompass Lynn's presence, so we'll skip it). As with a lot of the areas around Sydney, much of the prime real estate is given over to public parks and beaches, including the wonderful **Manly Scenic Walk**, which (time permitting) will take you all the way round the harbour to Manly Beach (but you'd need several hours to do it). If you were adventurous you could take a ferry to Mossman, walk to Manly Beach and take the ferry home from there.
 
-
-
 {{< img-caption src="sydney-again-036.jpg" caption="Mind the gap" alt="" >}}
-
-
 
 Driving back into the City over the famous Harbour Bridge, I come to the shocking realisation that the beautiful stone towers at either end of the bridge serve *absolutely no purpose whatsoever.* Why? Because there's a bloody great big gap between the steel arch and the towers themselves. A bit of background research reveals the truth that the stone towers were included for atheistic purposes only. Given when this bridge was built and the effort required to do it, that's quite impressive. Or really stupid - I'm not sure which.
 

@@ -1,7 +1,7 @@
 ---
 title: Auckland and North, New Zealand
 description: "14 Jan 1997 - Auckland & Whangarei Wow, Valentines day. And what a way to spend it. We woke up in the Kiwi International Motel in..."
-date: 1997-01-28T00:00:00.000+10:00
+date: 1997-01-14T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: auckland.jpg
@@ -9,14 +9,9 @@ categories:
   - South Pacific 1997
   - Nick
 ---
-
 ## 14 Jan 1997 - Auckland & Whangarei
 
-
-
 ![auckland.jpg](auckland.jpg)
-
-
 
 Wow, Valentines day. And what a way to spend it. We woke up in the Kiwi International Motel in Auckland. A nice enough place, if a little sparse. Still, the Air New Zealand pilots stay here, so it can’t be all bad.
 

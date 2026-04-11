@@ -9,12 +9,7 @@ categories:
   - South Pacific 1997
   - Nick
 ---
-
-
-
 ![lax.jpg](lax.jpg)
-
-
 
 At the last minute, we cancelled our shuttle ride to the air and took up Colleen (our neighbour) on her offer of a ride to the airport. Three and a half hours later, we were in LAX, all bags collected from the Alaska carousel and hiking over to the International terminal. Looking good so far.
 
@@ -23,5 +18,3 @@ Even flown internationally? Why is it that the international terminal at just ab
 So, we waste an hour or so in the bar, idling watching the huge departure boards *slowly* whittle their way down to our flight. We play the little mind games, like "what’s the most exciting destination on the board"? After years of mundane trips to Newark, Spokane and Denver, we’re pleasantly surprised to discover that we *are* going to the most idyllic location listed – Nadi, the main hub for the Fijian islands.
 
 Finally, we all crowd onto the plane, a 747-400. Big. Very big.
-
-<br>

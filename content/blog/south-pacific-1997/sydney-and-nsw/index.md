@@ -9,7 +9,6 @@ categories:
   - South Pacific 1997
   - Nick
 ---
-
 Welcome to the penultimate chapter in this rambling journal. We're slowly heading towards Sydney and the final stop for one of us at least.
 
 ### 16 Mar 1997 - Berrima
@@ -18,11 +17,7 @@ Another long day's driving brings eventually to the 'historic' town of Berrima, 
 
 ### 17 Mar 1997 - Blue Mountains
 
-
-
 {{< img-caption src="bluemountains.jpg" caption="The Blue Mountains" alt="" >}}
-
-
 
 We plan to spend a couple more days in the country before heading into the big city. The big dilemma through was - sea or sky? More specifically, do we head South East to the coast and drive up the coastline into Sydney, or North East towards to the Blue Mountains? For no particular reason we choose the latter.
 
@@ -30,11 +25,7 @@ The drive took a little longer, not helped by the windy roads, and the fact that
 
 Lunch was a quick stop to chow on some chook in Picton and then onwards to the Blue Mountains. God knows why they call them that though, since they aren't really mountains and they're certainly not blue. In fact, the Blue Mountains are really a plateau, perhaps 1,500 feet above the surrounding countryside, with very step cliffs virtually all the way around. Most of the towns are perched on the edge of a cliff, and if you were a town planner in this part of the world, you'd do the same thing, because the views out over the valleys and the cliffs that surround are quite beyond words. I'm still working on the words, so I'll get back to this later.
 
-
-
 ![bluemountains-nick.jpg](bluemountains-nick.jpg)
-
-
 
 Our first stop in the mountains is Wentworth falls, which is the name of the town and the river as it plunges over the edge of the world. The falls are over 900 feet high and that's about average around here. By the time they reach the bottom, the river (admittedly very low at this time of year) is nothing more than mist. There are several trails around here that join up the multitudinous lookout points, like god's dot-to-dot puzzle. Some of them actually run along the cliff face halfway down, where the rock has been eroded away. The views are still there and the words are still defying me.
 
@@ -48,11 +39,7 @@ Anyway, I'm rambling. Dinner was supposed to be at a restaurant called "The Fern
 
 ### 18 Mar 1997 - Blue Mountains
 
-
-
 ![bluemountains-lynn.jpg](bluemountains-lynn.jpg)
-
-
 
 Drove out to Katoomba, another town 10 minutes away and paid a visit to a key tourist spot - "Echo Point" and the "Three Sisters". Echo Point was a lookout that again quite spectacular, with views over to the nearby Three Sisters. Unfortunately, it had the misfortune to be 50 feet from the car park and heavily marked on all the maps, so the place was full of tour busses disgorging their hordes. We didn't stay long.
 
@@ -76,21 +63,13 @@ Lynn picks me up at 12 and we drive back to Sublime Point and picnic again at ou
 
 We make an early start this morning, and a beautiful one it is too. By 8 am it's blue sky and already 25 0C. The drive down to Sydney was uneventful, if a little slow. They have this great motorway (a.k.a. Freeway) most of the way, but it appears they've just discovered traffic cones, and we loose half of the lanes to them. Sydney, as the guide books warned us, is a regular old 'big city' and holds no surprises to anyone harking from USA or the UK.
 
-
-
 {{< img-caption src="operahouse.jpg" caption="Sydney Opera House" alt="" >}}
-
-
 
 Still, we drive through town to the area called The Rocks which is where the Sydney Opera House and Sydney Harbour Bridge hang out. Its quite impressive. We have a spot of lunch at this little café right next to the Opera House - great views.
 
 After lunch we drive east a couple of miles to our hotel. This is supposed to be a super-swanky place where all the rock stars hang out. It turns out to be in a slightly seedy area of town called Kings Cross. For those from the UK - it's similar in character to the British version! We were right about the stars though, there are memorabilia in the foyer from many of the all time greats (you be the judge), including Phil Collins, Dire Straits, Cliff Richard, Elton John and a few others we'd never heard of. The room we had wasn't bad, but I guess the high rollers go for something a little more expensive.
 
-
-
 {{< img-caption src="operahousewater.jpg" caption="Sydney Opera House" alt="" >}}
-
-
 
 We while away an hour or so taking a dip in the roof-top pool and then we drive back to the Circular Quay, which is the hub for Sydney's extensive ferry system. To travel a little further a field in Sydney Harbour, it's the only way to travel (a lot of commuters certainly think so anyway). We jump on the JetCat to Manly beach, which is just north of the Harbour entrance. Surfer's paradise and *warm* water too!
 

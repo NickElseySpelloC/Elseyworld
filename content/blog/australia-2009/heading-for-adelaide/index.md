@@ -9,14 +9,9 @@ categories:
   - Australia 2009
   - Nick
 ---
-
 ## 26 Mar 2009
 
-
-
 ![adelaide.jpg](adelaide.jpg)
-
-
 
 After another late and lazy start to the morning, we swing by one of our favourite wineries (Hugo) to stock up and then head back to towards Adelaide. First stop – Stirling, just down the road from Hahndorf and home to a recently discovered bakery / foodie store that is simply marvellous. Highlights include real baguettes, brownies to die for and lots of other digestibles for the discerning consumer who are not so concerned about their waistline. We stock up.
 

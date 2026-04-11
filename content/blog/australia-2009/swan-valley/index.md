@@ -9,7 +9,6 @@ categories:
   - Australia 2009
   - Nick
 ---
-
 ## 29 Mar 2009
 
 This one is a painful, oh-my-God early start. We have a 7:15 am flight to catch, so we pack, prep and book a taxi the night before so that we can make a clean start this morning. After 30 minutes of waiting, the taxi is still a no show – grrrrr!. I call to cancel it (so he doesn’t wake up the property owner if he ever did show up) and we now start throwing our gear in the car to drive to the airport, at which point the taxi cruises by, slows down and then drives off. GRRRRR!!
@@ -20,11 +19,7 @@ The flight to Perth is reasonably painless, with entertainment provided by a cou
 
 Thankfully, it doesn’t come to that and we make it to Perth safe, sound, and thanks to a couple of time zones and the vagaries of Australian daylight saving rules, bloody early in the morning.
 
-
-
 {{< img-caption src="guildford.jpg" caption="Guildford Park" alt="" >}}
-
-
 
 Since it we happen to be on the right side of Perth for it, we begin by heading northeast to the Swan river valley, just a brief drive from the airport. This is one of main wine regions for West Australia, heralded by Guildford (no less) – the ‘Gateway to the Swan River’. Guildford is one of the towns created during the early days of settlement of Western Australia, conveniently placed a day’s ride (about 20 km) from Perth itself. It can therefore carry the ‘historic’ prefix more justifiably than most.
 

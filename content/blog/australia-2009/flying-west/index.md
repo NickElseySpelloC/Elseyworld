@@ -9,7 +9,6 @@ categories:
   - Australia 2009
   - Nick
 ---
-
 ## 28 Mar 2009
 
 For the last three days we taken a break from the country cottages for a slice of suburbia. Its proven hard to find anything in town, so we’re staying in this granny-flat kinda of place in the Adelaide suburb of St Georges. The place is a lot better than I make it sound.
@@ -18,19 +17,11 @@ Adelaide seems to have gone for the micro-suburb approach to town planning, so m
 
 We squander our time here with some shopping expeditions (stocking up on hiking gear for the next trip – a guy can spend a lot of cash here), hiking in the hills and regular visits to Ying Chow. If you’re a fan of Asian food and ever happen to find yourself in Adelaide, make this place your first priority. The décor is basic, the place is always packed, but the food is simply outstanding.
 
-
-
 {{< img-caption src="waterfallgulley.jpg" caption="Waterfall Gulley" alt="" >}}
-
-
 
 Another highlight are the strolls in the hills. I get into the habit of heading out late in the afternoon and I’m treated to some wonderful, crowd free hikes with superb views of the city, ocean and sun setting over the lot of it. So, if you’re taking notes on things-to-do-in-Adelaide, add Waterfall Gulley and Morialta Conservation Park to your list.
 
-
-
 {{< img-caption src="morialtaconservationreserve.jpg" caption="Morialta Conservation Reserve" alt="" >}}
-
-
 
 I round off the day with a frustrating battle with technology – I’m trying to figure out the best approach for putting our copious pics up on the web. The two main contenders are Flickr (brought to you by Yahoo) and Picasa (courtesy of Google).
 

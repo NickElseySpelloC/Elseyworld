@@ -9,14 +9,9 @@ categories:
   - Moving to DC
   - Nick
 ---
-
 About a month has gone by since the last instalment and much has changed in our plans.
 
-
-
 {{< img-caption src="thumb-1945.jpg" caption="Rock Creek Park" alt="" >}}
-
-
 
 Those of you that have been following along will know that we are in the process of applying for an Australian immigration visa - no easy task believe me. Some progress has been made. I’ve finally managed to convince the Australian Computer Society that I’m an adequately capable software guy, and we have been allowed to proceed to second base (so to speak) and actually apply to the Australian Government for a visa, now that we can demonstrate potential for contribution, rather than freeloading.
 
@@ -34,11 +29,7 @@ I thoroughly recommend any visitor uses this system, rather than trying to drive
 
 ## Parks, Rails and Trails
 
-
-
 {{< img-caption src="thumb-1976.jpg" caption="Great Falls Park" alt="" >}}
-
-
 
 If you’re an outdoors type, this is definitely the place for you. There are hundreds of miles of trails and thousands of acres of parks, much of them in DC itself. In particular there are a number of rails to trails conversions here. I’d never heard of this before, but apparently this is a nationwide program to convert old, disused railway tracks into cycling, running and jogging trails. There are at least a 100 miles of these to be had in the immediate vicinity of DC, including the outstanding (and very popular) W&OD trail.
 
@@ -46,11 +37,7 @@ Right in the middle of DC is Rock Creek Park, with over 1,700 acres of woodland 
 
 ## Big attractions, little city
 
-
-
 {{< img-caption src="thumb-194e.jpg" caption="Party Animals" alt="" >}}
-
-
 
 Compared to any of the other major US cities, DC is just tiny. It covers just 68 square miles and holds about 600,000 residents. And yet, there is just so much to see and do here that it’s almost overwhelming at times. You can’t heave a brick without hitting a museum, historical site, theatre or fun place to eat. To do justice to the tourist sights alone would take many months.
 

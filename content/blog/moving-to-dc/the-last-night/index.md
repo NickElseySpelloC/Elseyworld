@@ -9,16 +9,11 @@ categories:
   - Moving to DC
   - Nick
 ---
-
 ## 21 Jul 2002
 
 After six weeks of moving madness, we’ve finally reached our final night in Oregon and tomorrow we depart for Washington, DC. At some points along the way it seems like everything was conspiring to thwart us - it would’ve been simpler and easier to stay put and rent in Oregon.
 
-
-
 {{< img-caption src="moving01.jpg" caption="The other shipping container" alt="" >}}
-
-
 
 The moving company (who’ll remain nameless) turned out to have lost the useful attribute of competence since we last used them 5 years ago. Granted, our move was a little more complicated than most (a two part affair – first into storage, and then on to a destination and continent to be named later). Our contact seemed to believe it was much simpler to guess the answers to our questions, and then state them as fact, rather than go to the extra effort of finding out. This caused massive confusion and frustration all round, and by the time the moving guys turned up, we just looking to find that last straw. Still, the guys doing the heavy lifting redeemed themselves (and the company) nicely, and Lynn and I spent the day lounging out in the back yard, enjoying our last sunny Oregonian day, while they did all the hard work.
 
@@ -26,11 +21,7 @@ Our last month in Oregon has been punctuated by numerous lists-of-things-to-do, 
 
 Take for example shipping cars. Where I come from (England) this is a very simple affair – you simply drove them to the nearest large train station and put them on the back of a train. A few hours later, they’re at their destination. You can even take the same train yourself to get there. Granted, this country is a little larger, but I assumed that the process would be similar, if somewhat longer, over here. Simply drop them off at the nearest Amtrak station and pick them up at the other end two or three days later, right?
 
-
-
 {{< img-caption src="apolloroad04.jpg" caption="Bye, bye house" alt="" >}}
-
-
 
 Wrong. Amazingly, Amtrak don’t transport cars and the only way of getting them there is to drive them yourself or pay an auto-hauler the sum of $1,000 plus per car to drive them there on the back of a car transporter. Considering the dozens of auto-transport companies out there, all of whom are charging basically the same rate, this appears to be a massive missed opportunity for our friends in the choo-choo department. And you wonder why Amtrak is always on the verge of bankruptcy.
 

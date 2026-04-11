@@ -9,16 +9,11 @@ categories:
   - Australia 2009
   - Nick
 ---
-
 ## 21 Mar 2009
 
 After a good fry up to start the morning with a creeping coronary, we head off to Bendigo – a fairly sizable town in these parts (greater Bendigo population 100,000). Heck, let’s stick our neck out and call it a city.
 
-
-
 {{< img-caption src="thumb-12fe.jpg" caption="Queen Victoria in Bendigo" alt="" >}}
-
-
 
 Bendigo is famous (probably world famous) for being the home of both the Myer department store, and Bendigo Bank (I’m assuming they named the bank after the town, not the other way round). It also has a reputation of being ‘one of the best inland places to live in Australia’. We make it our mission to uncover the truth behind this bold allegation. 
 

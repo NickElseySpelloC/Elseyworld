@@ -1,7 +1,7 @@
 ---
 title: Christchurch, New Zealand
 description: "23 Feb 1997 - Christchurch We wake to clouds and a major temperature drop. Had to happen sometime. Our planned picture shoot of the..."
-date: 1997-01-25T00:00:00.000+10:00
+date: 1997-02-23T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: christchurch.png
@@ -9,16 +9,11 @@ categories:
   - South Pacific 1997
   - Nick
 ---
-
 ## 23 Feb 1997 - Christchurch
 
 We wake to clouds and a major temperature drop. Had to happen sometime. Our planned picture shoot of the mountains (which come right down to the sea here) are curtailed and we head off for Christchurch, our last stop in NZ (sob, sniff).
 
-
-
 {{< img-caption src="christchurch.png" caption="Christchurch" alt="" >}}
-
-
 
 Like every other town in NZ (other than Auckland), this city is small. Blink while driving though and you’ll miss it. The town is portrayed as being very much like Cambridge (in the UK) and it does live up it’s image. Very picturesque, complete with a river Avon running thorough the middle and punts floating by.
 

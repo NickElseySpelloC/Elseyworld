@@ -1,7 +1,7 @@
 ---
 title: Adelaide Again
 description: "24 Apr 2002 - Housing hysteria Something has happened in Adelaide in the past 4 years. When we were first here, back in '98, we were..."
-date: 2002-04-08T00:00:00.000+10:00
+date: 2002-04-24T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: adelaide-048.jpg
@@ -9,14 +9,9 @@ categories:
   - Australia 2002 Trip 2
   - Nick
 ---
-
 ### 24 Apr 2002 - Housing hysteria
 
-
-
 {{< img-caption src="adelaide-048.jpg" caption="No longer to be had for a song..." alt="" >}}
-
-
 
 Something has happened in Adelaide in the past 4 years. When we were first here, back in '98, we were shocked to see how cheap the housing was. For approximately $AU250,000 ($US130,000) you could get a large 4 bedroom house, with a few acres of land within easy commuting distance of the city.
 
@@ -28,15 +23,11 @@ However, if you're willing to commute a bit, there are still some real steals to
 
 ### Welcome dear strangers!
 
- 
-
-***Nick on trading laws...***
+### Nick on trading laws...
    *In our last journal I did a side bar on Sunday trading laws over here. It gets even more ridiculous.* 
    *While shopping at one of the large grocery stores we notice a banner - "Now open from midnight!". Cool we say, but surely you mean 'open until midnight', right?*
    *Wrong! The store opens at midnight 6 days a week, but closes at 5 PM for 4 of these days and 7 PM for the other two! God help anyone who works late here and wants to pick up a little dinner on the way home.*
    *Oh, and it's still closed all day Sunday. Of course.*
-
- 
 
 Sticker shock aside, we're still very much enamoured with this town. The weather continues to be delightful, even though we're now coming into autumn. Everyone here is wonderfully friendly and laid back. A case in point - after an hour or two spent exploring the botanical gardens we decide that we've earned a glass of wine, and toddle off to a little wine bar that Lynn has read about. We encounter one of the local art dealers / gossip columnist who appears to be a regular here. Within a few minutes we're friends, he's bought us a bottle of wine, the owner has come over to join us and we amicably spend the rest of the afternoon chatting.
 
@@ -50,11 +41,7 @@ Licensed restaurants always have a great selection of wines by the bottle or gla
 
 ### Interlude at Miner's Cottage
 
-
-
 {{< img-caption src="adelaide-032.jpg" caption="Miner's Cottage" alt="" >}}
-
-
 
 Feeling quite frazzled by all the running around, house hunting and general research we've been doing over the past week or two, we take a couple of days vacation from the vacation out at Miner's Cottage. This is one of our favourite places to stay out in the Barossa Valley, north of Adelaide. We spend a relaxing couple of days doing nothing more than a spot of wine tasting and giving the BBQ a bit of a work out.
 

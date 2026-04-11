@@ -1,7 +1,7 @@
 ---
 title: Lakes, Volcanos and Wellington, New Zealand
 description: "16 Jan 1997 - Rotorua & Lake Taupo So here we are, in the land of stinks and eruptions! We are staying on the shores of Lake Taupo, in..."
-date: 1997-01-27T00:00:00.000+10:00
+date: 1997-01-16T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: img069.jpg
@@ -9,7 +9,6 @@ categories:
   - South Pacific 1997
   - Nick
 ---
-
 ## 16 Jan 1997 - Rotorua & Lake Taupo
 
 So here we are, in the land of stinks and eruptions! We are staying on the shores of Lake Taupo, in the center of the North Island and the volcanic heartland of this country. We learnt that NZ actually straddles the gap between two tectonic plates and Lake Taupo (which is quite large) is actually an old caldera.
@@ -18,22 +17,14 @@ The drive down here was fun and very scenic. An enforced delay at one point due 
 
 Made a brief stop in Rotorua for a McDonalds. This place had the most amazing Maori carvings all along the walls inside. Next stop….the **Waiotapu Thermal Wonderland**!
 
-
-
 {{< img-caption src="rotorua.jpg" caption="Volcanic Land" alt="" >}}
-
-
 
 This place was a geothermal amusement park. You spend a couple of hours wandering along the paths and at every corner there are the most amazing sights. The names give you some clue - Devil’s Ink Pots, Artists’ Palette, Opal Pool and Champagne Pool. Incredible. The smells were quite appalling through.
 
 And then on to Lake Taupo. Stopped for a nice cold one by the lake before checking into the **Le Chalet Suisse Motel**. Dinner was at the **Ploughmans** pub. Their byline – "You’ve heard that the best thing about England was the pubs, well now you can find out what they were talking about". Quite authentic, apart from the fact that it wasn’t raining!
 
- 
-
 ***Interlude****:*
 *I’ve just finished reviewing this journal for the first time, and I have to say it has a rather negative tone to it. Well, just wanted you all to know that we’re having a wonderful time. Fiji and NZ have both exceeded our expectation, and we have high hopes that our vacation will continue in the same vein. We now return you to the regular programming....*
-
- 
 
 ## 17 Feb 1997 - Lake Taupo & Napier
 
@@ -60,11 +51,7 @@ Martinborough town consists of one large square with a couple of shops and a hot
 
 ### 19 Feb 1997 - Martinborough & Wellington
 
-
-
 {{< img-caption src="img068.jpg" caption="Backbencher Pub" alt="" >}}
-
-
 
 Well it’s the talk of the town – a lot of lost sleep for everyone last night because someone forgot to turn off the gas gun. We slept like the dead I’m glad to report.
 
@@ -74,11 +61,7 @@ And so off to our last stop on the North Island – Wellington, the capital of t
 
 We drive around a corner and there it is – Wellington, sitting on the bay. Our first impression is – wow, it’s small! You can see just about every suburb of the city sitting on the hill side. We later find out from a native Wellingtonite that the population is only 450,000.
 
-
-
 {{< img-caption src="img069.jpg" caption="Beehive Building" alt="" >}}
-
-
 
 We rapidly fall in love with this place. It’s really just like San Francisco, but with about 1/5th the population and complete with cable cars, steep hills, great food and questionable weather. Anyone who *doesn’t* live here calls this city "Wonderful Windy Wellington". It was blowing a good one down on the waterfront, but we were reliably informed that this was average. They have 40 days a year when they get 60+ mph winds!
 
@@ -86,11 +69,7 @@ Lunch is a visit to the Back Bencher’s pub, opposite the parliament building (
 
 The beehive is a quite hideous building, even worse for the fact that stands right next to the old parliament building. This looks like a beautiful stone block building, but is in fact the second largest wooden building in the world. Wow!
 
-
-
 {{< img-caption src="img073.jpg" caption="Te Papa" alt="" >}}
-
-
 
 While Lynn goes on a search for coffee and snacks, I spend a couple of hours in Te Papa – the "Museum of NZ" that just opened to much fanfare a few days ago. Now, this building is *very* large and has some fantastic exhibits. If this had opened in any major city in the USA or UK, there would be lines around the block for week to come. But here in the land of the sheep and few people, I just walked straight in – now lines, no crowds and free entry!
 

@@ -1,7 +1,7 @@
 ---
 title: Wine Country, New Zealand
 description: "20 Feb 1997 - Wellington, Ferry to Picton & Marlborough Region Lynn’s is overdosing on the Dramamine in preparation for our 3 hour ferry..."
-date: 1997-01-26T00:00:00.000+10:00
+date: 1997-02-20T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: img056.jpg
@@ -9,7 +9,6 @@ categories:
   - South Pacific 1997
   - Nick
 ---
-
 ### 20 Feb 1997 - Wellington, Ferry to Picton & Marlborough Region
 
 Lynn’s is overdosing on the Dramamine in preparation for our 3 hour ferry ride to Picton on the South Island, and I hedge my bets and down a couple too. We dump the car at the port and climb aboard the ship. We’re off, and I’m up to date again!
@@ -18,11 +17,7 @@ A lovely sail though the channels and waterways to Picton. The ferry terminal is
 
 Out into the sunshine and half a dozen strides across the car park to the Avis counter. Our car is even smaller than the last one (if that’s possible) but we eventually manage to persuade all our luggage to join us in the car.
 
-
-
 {{< img-caption src="img056.jpg" caption="Cloud Bay Winery" alt="" >}}
-
-
 
 More windy roads over the hills and down into the valley of the Marlborough region. We head directly for the **Cloudy Bay** winery. For those of you who aren’t in-the-know, this is ***the*** Sauvignon Blanc of NZ and the visit is something of a pilgrimage for us. This stuff was very hard to come by in the UK and even harder in the USA. Available for only a couple of months in the year, it had a loyal following that would snap up all the bottles quicker than you could say saluté. Most wine stores in the UK had an allocation of just one case, and the entire state or Oregon apparently only got two!
 

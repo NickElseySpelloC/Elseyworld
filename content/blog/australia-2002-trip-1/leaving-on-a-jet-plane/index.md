@@ -9,24 +9,17 @@ categories:
   - Australia 2002 Trip 1
   - Nick
 ---
-
 ### 27 Jan 2002 - Portland
 
 A couple of months into my year long sabbatical from work, and the day has finally come for us to take leave of this dreary state. Lynn has been solidly web-surfing for weeks now and has *lots* of ideas and plans for this month long trip to Aus. The day has finally come to execute!
 
-
-
 {{< img-caption src="west-linn-in-snow-1.jpg" caption="Nick and Lynn snowed in" alt="" >}}
-
-
 
 The past few weeks here in Oregon have been mightily depressing – cold, wet, gray weather, enough to put the happiest of soles into a S.A.D. funk. Lynn and I have always been the sun worshiping type, so winters in Oregon always get us down.
 
 Perversely, we’re given a winter-wonderland send off. After days and days of gray and drizzle, we wake up on Sunday morning to 6 inches of crisp snow. Beautiful! The world (or at least our back yard) seems so much quieter and serene for this white blanket.
 
 However, we’ve booked a shuttle to take us to the airport, and the only way to get to our house is either a) go up some steep hills; b) go down some steep hills; c) do both. Knowing that Oregonians take to driving in snow like my cat takes to quantum physics, we begin to worry that we may be serene *and* stranded. We need to reconnoiter and check our the road conditions….a *man’s* job!
-
- 
 
 ***Nick On airport security...****:*
 *What the hell is up with airport security these days? I’m for safer airline travel as much as the next guy, but the airport and airlines sure have a strange interpretation of the word ‘secure’. Some of the more blatantly stupid aspects of airline travel, post Sept 11:*
@@ -36,8 +29,6 @@ However, we’ve booked a shuttle to take us to the airport, and the only way to
 - *The obsession with photo ID! You are asked to show this at least three times before your can make it on the plan. What, terrorists don’t have driving licenses?*
 - *Metal detectors with their sensitivity turned up so high you’d have to be a naked anemic to get through it without setting it off. And even though they have 6 metal detector lines, anyone who sets one off (i.e. everyone) gets funneled into another line for some real personal attention, so holding up everyone else.*
 - *The bloody chaos of the whole thing. It’s bad enough that most of the security measures are pointless and poorly implemented. The worst part of it is that every time you travel, it looks like all these new measures were implemented just a few hours ago and came as a complete shock to everyone who had to implement them. The people working the X-rays machines and metal detectors are clueless, poorly trained, dumb, or all of the above.*
-
- 
 
 I take Lynn’s car. The nominal excuse is that it’s an Audi (all wheel drive), but in reality, in the *highly* unlikely event that I do have an anticipated connection with an immovable object, better that it doesn’t happen in my car! Disappointingly however, they’ve already ploughed most of the roads, so I have little opportunity to exercise my extreme-conditions driving prowess.
 

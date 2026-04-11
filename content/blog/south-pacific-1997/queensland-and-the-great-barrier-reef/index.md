@@ -9,10 +9,7 @@ categories:
   - South Pacific 1997
   - Nick
 ---
-
 Finally! You've reached the final chapter of this journal. Just a couple more page-downs and you won't need to read my constant ramblings any longer (or at least until the next vacation).
-
-### 
 
 ### 22 Mar 1997 - Cairns
 
@@ -34,11 +31,7 @@ What should have been a great view of reefs is somewhat marred by heavy rain. Un
 
 We're taken out to SuperSport in two inflatables and get a good view of the ship on the way. She's a big (87 foot) catamaran, custom built for diving. This turns out to be the best dive boat I've been on far - the attention to detail is incredible. Every aspect of diving has been considered and catered to. I've got my own cabin on the top deck (she can take 26 guests, but there only 16 on board for this trip, so there's plenty of space). This is good for the view, but bad when the ship is rolling as you're further from the centre of gravity.
 
-
-
 {{< img-caption src="nickdiving.jpg" caption="Nick Diving" alt="" >}}
-
-
 
 Our first stop is to be the Cod Hole, 3 hours cruising north of Lizard Island. As soon as we leave harbour, the cyclone's effect are really felt and the boat start to rock and roll with a vengeance. It's almost impossible to stand upright and half the guests are seasick. Dramamine is consumed in copious quantities. I'm feeling a little queasy myself, but manage to keep my breakfast on the inside.
 
@@ -52,11 +45,7 @@ The conditions were much better this morning and continued improve through out t
 
 We returned to the Cod Hole for the first dive, this time to feed them. A couple of pounds of pilchards were handed out by one of the dive masters, while everyone else sat in a circle and watched. The cod and bass were obviously expecting the visit, and it turned into quite a feeding frenzy. We were barged into by the cod in their eagerness to get to the food. This turned out to be a great dive, other highlights included a turtle, a shoal of huge barracuda (6 foot long) and a sleeping Grey Whaler shark. I hired an underwater still camera for this dive, so I'm looking forward to seeing how they come out.
 
-
-
 {{< img-caption src="ericgingold.jpg" caption="Eric Gingold" alt="" >}}
-
-
 
 We then started sailing south again, Nathan having finally left us alone. Couple more relatively uneventful dives in the afternoon, and then on south for our final dive of the day - a night dive! Night diving is an exhilarating experience and quite freaky. The whole nature of the reef changes at night, with many animals, such as crayfish and the hard coral, coming out to feed, while others go to sleep. We came across several large reef sharks dozing on the sea floor during the dive, but perhaps the strangest animal to be seen is the other divers. I enjoyed turning off my dive light and watching another group approach me. With all the beams from their dive lights scanning back and forth, it looked a lot like something from Close Encounters!
 
@@ -74,11 +63,7 @@ The last night onboard gives us a clear sky and so we are treated to a mind bogg
 
 ### 26 Mar 1997 - Cairns
 
-
-
 {{< img-caption src="mikeballguests.jpg" caption="The Guests" alt="" >}}
-
-
 
 We wake up in a marina just north of Cairns and are treated to a farewell breakfast. We've got to be good friends with each other and the staff over the past 4 days and we're all sorry to see the trip end. I'm almost tempted to stay on board for another 4 days, but restrain myself.
 

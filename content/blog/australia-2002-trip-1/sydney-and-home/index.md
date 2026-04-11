@@ -1,7 +1,7 @@
 ---
 title: Sydney and Home
 description: "24 Feb 2002 - Back to Sydney We drive back down from the mountains and head back into Sydney, admiring the view for the last time along..."
-date: 2002-01-21T00:00:00.000+10:00
+date: 2002-02-24T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: sydney-073.jpg
@@ -9,7 +9,6 @@ categories:
   - Australia 2002 Trip 1
   - Nick
 ---
-
 ### 24 Feb 2002 - Back to Sydney
 
 We drive back down from the mountains and head back into Sydney, admiring the view for the last time along the way. Once we get there our first stop is a bit of lunch in the district of **Balmain**, just west of the city centre and overlooking Darling Harbour.
@@ -24,11 +23,7 @@ As the names suggest, these area are a series of very picturesque suburbs sittin
 
 At Rose Bay we stop off at the **Bluefin** restaurant in the **Rose Bay Afloat** floating thingy (see photo) and enjoy the view so much that we make a reservation for dinner. We have a great time sitting here, watching the sea planes come and go and also the locals making a pigs ear of things on the boat ramp.
 
-
-
 {{< img-caption src="sydney-073.jpg" caption="Home to the Bluefin Restaurant" alt="" >}}
-
-
 
 On to Watson Bay and we hop out again for a stroll round one of the numerous public parks that dot the bays. Today is Sunday, and a sunny one at that. Since the Sidney-siders (as the locals are known) have basically been deluged with rain for the past few weeks, *everyone* is out today making the most of the weather and having a bit of a picnic or BBQ (the art of BBQ is almost a region over here).
 
@@ -40,11 +35,7 @@ I'm happy to report that the effort to get out to Bluefin was well rewarded. The
 
 ### 25 Feb 2002 - Sydney day 2
 
-
-
 {{< img-caption src="sydney-075.jpg" caption="What a spot for a picnic!" alt="" >}}
-
-
 
 We spend most of the day shopping for essential supplies and stuff that we'll be taking back home to the states. Lunch is a picnic on the rocks out near Rose Bay, overlooking the Sydney skyline and the harbour. It's a cloudy day, but at this point we're grateful as we'd have been fried to a crisp in full sunlight. All in all, a very salubrious spot for a picnic.
 
@@ -52,15 +43,9 @@ After lunch we finally track down a reasonably priced bottle of **Grant Burge Me
 
 Tonight we rendezvous with Eric, Lynn's friend from Portland, and hang out at the **Wine Banc** eating and spending outrageous sums on the well marked up wine list.
 
-### 
-
 ### 26 Feb 2002 - Sydney day 3
 
-
-
 {{< img-caption src="sydney-080.jpg" caption="Bye bye Sydney" alt="" >}}
-
-
 
 A fairly uneventful last full day in Sydney. Unable to miss the opportunity, we head back out to Bluefin for lunch and again we are not disappointed. We're even recognised and welcomed back like regulars, which was nice.
 
