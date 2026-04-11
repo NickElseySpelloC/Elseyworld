@@ -1,7 +1,7 @@
 ---
 title: Lynn Arrives
-description: "22 Apr 2009 This morning Lynn flies in from Kuala Lumpur, so after a lazy start I ride out with the car and driver to meet her at the..."
-date: 2009-04-27T00:00:00.000+10:00
+description: "This morning Lynn flies in from Kuala Lumpur, so after a lazy start I ride out with the car and driver to meet her at the airport and fill her in on all the news and hard won Vietnamese local knowledge."
+date: 2009-04-22T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: img-0396.jpg
@@ -10,13 +10,7 @@ categories:
   - Nick
 ---
 
-## 22 Apr 2009
-
-
-
-![eating-in-hoi-an.jpg](eating-in-hoi-an.jpg)
-
-
+{{< img-caption-float src="eating-in-hoi-an.jpg" side="left"  >}}
 
 This morning Lynn flies in from Kuala Lumpur, so after a lazy start I ride out with the car and driver to meet her at the airport and fill her in on all the news and hard won Vietnamese local knowledge. 
 

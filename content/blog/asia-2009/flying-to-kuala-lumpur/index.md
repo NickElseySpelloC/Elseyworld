@@ -1,7 +1,7 @@
 ---
 title: Flying to Kuala Lumpur
-description: "15 Apr 2009 Today I depart for Kuala Lumpur and after a couple of nights there, on to Hanoi. Lynn is staying on in Sydney for a few more..."
-date: 2009-05-04T00:00:00.000+10:00
+description: "Today I depart for Kuala Lumpur and after a couple of nights there, on to Hanoi. Lynn is staying on in Sydney for a few more days of Mosman R&R and to sort out our move to Adelaide."
+date: 2009-04-15T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: img-0254.jpg
@@ -10,13 +10,7 @@ categories:
   - Nick
 ---
 
-## 15 Apr 2009
-
-
-
 {{< img-caption src="img-0254.jpg" caption="Petronas Towers" alt="" >}}
-
-
 
 Today I depart for Kuala Lumpur and after a couple of nights there, on to Hanoi. Lynn is staying on in Sydney for a few more days of Mosman R&R and to sort out our move to Adelaide (bless her!).
 
