@@ -2,11 +2,13 @@
 date: '2026-04-12T09:58:14+10:00'
 draft: false
 title: 'Nick Elsey'
-type: simple
+layout: simple
 showDate: false
 showReadingTime: false
+articleClass: ew-prose-full
 ---
 
+{{< img-float src="/img/people/nick-elsey-casual.jpg" side="right" >}}
 I've spent 30 years helping organisations leverage technology to solve business problems, scale and diversify. My experience covers digital strategy, architecture, information management, program management, corporate and technology operations, scaled software delivery and infrastructure as a service. 
 
 - Demonstrated ability to build and lead goal oriented teams in a constantly changing world. 

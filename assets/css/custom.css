@@ -285,6 +285,12 @@ article.mt-6 .prose {
   max-width: 100%;
 }
 
+/* Per-page full-width override for simple layout pages.
+   Set `articleClass: ew-prose-full` in front matter to enable. */
+article.ew-prose-full > section.prose {
+  max-width: 100% !important;
+}
+
 /*
  * ─────────────────────────────────────────────────────────
  * TERM SORT TOGGLE
