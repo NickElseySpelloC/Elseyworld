@@ -4,6 +4,8 @@ description: "The sojourn continues - a week after returning from Western Austra
 layout: term
 groupByYear: false
 defaultSortOrder: asc
+aliases:
+  - /blog-asia-2009
 ---
 
 The sojourn continues - a week after returning from Western Australia, we're getting ready for a trip to Vietnam and Cambodia...just because it's there.

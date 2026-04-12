@@ -5,6 +5,8 @@ layout: simple
 showDate: false
 showReadingTime: false
 articleClass: ew-prose-full
+aliases:
+  - /lynn
 ---
 
 {{< img-float src="/img/people/lynn-elsey-casual.jpg" side="right" height="300" >}}

@@ -3,6 +3,8 @@ title: "Health & Nutrition"
 description: "Separating fact from fiction in the health and nutrition arena is not a job for the fainthearted. But uncovering the truth has a lot of upsides."
 layout: term
 groupByYear: false
+aliases:
+  - /lynn-health
 ---
 Separating fact from fiction in the health and nutrition arena is not a job for the fainthearted. But uncovering the truth has a lot of upsides.
 

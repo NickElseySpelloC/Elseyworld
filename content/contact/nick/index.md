@@ -6,6 +6,8 @@ layout: simple
 showDate: false
 showReadingTime: false
 articleClass: ew-prose-full
+aliases:
+  - /nick
 ---
 
 {{< img-float src="/img/people/nick-elsey-casual.jpg" side="right" >}}
