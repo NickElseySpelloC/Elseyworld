@@ -1,8 +1,10 @@
 ---
 date: '2026-04-12T09:58:23+10:00'
-draft: true
-title: 'Lynn'
+title: 'Lynn Elsey'
 type: simple
+showDate: false
+showReadingTime: false
+
 ---
 
 Contact Lynn
