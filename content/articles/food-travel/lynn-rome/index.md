@@ -8,6 +8,8 @@ thumbnail: rome-city-guide-landscape.jpg
 categories:
   - Food Travel
   - Lynn
+aliases:
+  - /post/lynn-rome
 ---
 
 {{< lead >}}

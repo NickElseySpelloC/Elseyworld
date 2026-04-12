@@ -8,6 +8,8 @@ thumbnail: img-1404.jpg
 categories:
   - Asia 2009
   - Nick
+aliases:
+  - /post/flying-home
 ---
 
 {{< img-caption src="img-1404.jpg" caption="Angkor Wat" alt="" >}}

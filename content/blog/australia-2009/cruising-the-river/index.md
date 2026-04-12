@@ -8,6 +8,8 @@ thumbnail: cruiser.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/cruising-the-river
 ---
 ## 30 Mar 2009
 

@@ -8,6 +8,8 @@ thumbnail: the-art-of-justice-landscape.jpg
 categories:
   - business
   - Lynn
+aliases:
+  - /post/terri-janke
 ---
 
 {{< lead >}}

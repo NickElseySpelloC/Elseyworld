@@ -8,6 +8,8 @@ thumbnail: food-australia-landscape.jpg
 categories:
   - health
   - Lynn
+aliases:
+  - /post/nobel-secrets
 ---
 
 Last year, Franz Messerli, the Swiss-born director of hypertension program at St Luke’s-Roosevelt Hospital and Columbia University in New York, published a slightly tongue-in-cheek paper in the New England Journal of Medicine, linking chocolate consumption with winning Nobel prizes.

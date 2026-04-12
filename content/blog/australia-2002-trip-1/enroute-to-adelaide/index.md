@@ -8,6 +8,8 @@ thumbnail: south-coast-006.jpg
 categories:
   - Australia 2002 Trip 1
   - Nick
+aliases:
+  - /post/enroute-to-adelaide
 ---
 
 ### 8 Feb 2002 - Driving to Port Fairy

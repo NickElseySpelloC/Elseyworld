@@ -8,6 +8,8 @@ thumbnail: age-discrimination-landscape.jpg
 categories:
   - business
   - Lynn
+aliases:
+  - /post/an-age-old-issue
 ---
 
 {{< lead >}}

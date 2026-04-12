@@ -8,6 +8,8 @@ thumbnail: sydney-073.jpg
 categories:
   - Australia 2002 Trip 1
   - Nick
+aliases:
+  - /post/sydney-and-home
 ---
 ### 24 Feb 2002 - Back to Sydney
 

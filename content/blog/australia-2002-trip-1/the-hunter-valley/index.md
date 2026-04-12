@@ -8,6 +8,8 @@ thumbnail: hunter-valley-007.jpg
 categories:
   - Australia 2002 Trip 1
   - Nick
+aliases:
+  - /post/the-hunter-valley
 ---
 ### 1 Feb 2002 - Driving to the Hunter Valley
 

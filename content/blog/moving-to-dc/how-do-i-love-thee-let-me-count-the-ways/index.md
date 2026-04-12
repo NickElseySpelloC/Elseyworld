@@ -8,6 +8,8 @@ thumbnail: thumb-1945.jpg
 categories:
   - Moving to DC
   - Nick
+aliases:
+  - /post/how-do-i-love-thee-let-me-count-the-ways
 ---
 About a month has gone by since the last instalment and much has changed in our plans.
 

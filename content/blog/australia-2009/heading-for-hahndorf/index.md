@@ -8,6 +8,8 @@ thumbnail: wte.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/heading-for-hahndorf
 ---
 ## 22 Mar 2009
 

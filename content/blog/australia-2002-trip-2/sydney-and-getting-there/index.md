@@ -8,6 +8,8 @@ thumbnail: sydney-again-010.jpg
 categories:
   - Australia 2002 Trip 2
   - Nick
+aliases:
+  - /post/sydney-and-getting-there
 ---
 ### 9 Apr 2002 - Qantas or bust
 

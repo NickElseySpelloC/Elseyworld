@@ -8,6 +8,8 @@ thumbnail: cottesloebeach.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/subiaco
 ---
 ## 31 Mar 2009
 

@@ -8,6 +8,8 @@ thumbnail: adelaide.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/heading-for-adelaide
 ---
 ## 26 Mar 2009
 

@@ -8,6 +8,8 @@ thumbnail: w-hotel-landscape.jpg
 categories:
   - Food Travel
   - Lynn
+aliases:
+  - /post/w-hotel-washington-dc
 ---
 
 {{< lead >}}

@@ -8,6 +8,8 @@ thumbnail: is-your-smart-phone.jpg
 categories:
   - careers
   - Lynn
+aliases:
+  - /post/is-your-smartphone-making-you-stupid
 ---
 
 {{< lead >}}

@@ -8,6 +8,8 @@ thumbnail: img-1401.jpg
 categories:
   - Asia 2009
   - Nick
+aliases:
+  - /post/temples-a-plenty
 ---
 
 {{< img-caption-float side="left" src="img-1387.jpg" caption="Mr Seuen, The Tuk-Tuk driver" alt="" >}}

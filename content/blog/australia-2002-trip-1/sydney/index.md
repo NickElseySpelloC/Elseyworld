@@ -8,6 +8,8 @@ thumbnail: sydney-027.jpg
 categories:
   - Australia 2002 Trip 1
   - Nick
+aliases:
+  - /post/sydney
 ---
 ### 29 Jan 2002 - Sydney Day 1
 

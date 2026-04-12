@@ -8,6 +8,8 @@ thumbnail: img-0364.jpg
 categories:
   - Asia 2009
   - Nick
+aliases:
+  - /post/hello-hanoi
 ---
 
 Over the next weeks these journal entries will attempt to give a slice of Vietnam and our experience of it. If you’re looking for a comprehensive and unbiased guidebook to Vietnam, you’ve come to the wrong place. I suggest you buy a Frommer’s Guide (or hit their [web site](http://www.frommers.com/)), or take a look at [Robert Reid’s excellent online guide](http://www.reidontravel.com/). 

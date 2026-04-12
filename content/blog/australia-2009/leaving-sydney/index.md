@@ -8,6 +8,8 @@ thumbnail: 86332-c579f38c54-b.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/leaving-sydney
 ---
 ## 19 Mar 2009
 

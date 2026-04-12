@@ -8,6 +8,8 @@ thumbnail: decanter-magazine-landscape.jpg
 categories:
   - Food Travel
   - Lynn
+aliases:
+  - /post/the-wild-west
 ---
 
 {{< lead >}}

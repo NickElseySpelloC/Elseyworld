@@ -8,6 +8,8 @@ thumbnail: tracking-disease.jpg
 categories:
   - health
   - Lynn
+aliases:
+  - /post/tracking-disease-with-supramap
 ---
 
 ![position-3.jpg](position-3.jpg)

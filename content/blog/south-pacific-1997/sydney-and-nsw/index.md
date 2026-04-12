@@ -8,6 +8,8 @@ thumbnail: bluemountains-lynn.jpg
 categories:
   - South Pacific 1997
   - Nick
+aliases:
+  - /post/sydney-and-nsw
 ---
 Welcome to the penultimate chapter in this rambling journal. We're slowly heading towards Sydney and the final stop for one of us at least.
 

@@ -8,6 +8,8 @@ thumbnail: mrcoast.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/south-to-margaret-river
 ---
 ## 2 Apr 2009
 

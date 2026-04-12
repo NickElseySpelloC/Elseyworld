@@ -8,6 +8,8 @@ thumbnail: thumb-12cf.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/black-wabbit
 ---
 ## 25 Mar 2009
 

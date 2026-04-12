@@ -8,6 +8,8 @@ thumbnail: let-the-net-landscape.jpg
 categories:
   - careers
   - Lynn
+aliases:
+  - /post/let-the-net-work-for-you
 ---
 
 {{< lead >}}

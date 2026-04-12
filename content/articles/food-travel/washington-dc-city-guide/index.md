@@ -8,6 +8,8 @@ thumbnail: washing-dc-guide-landscape.jpg
 categories:
   - Food Travel
   - Lynn
+aliases:
+  - /post/washington-dc-city-guide
 ---
 
 {{< lead >}}

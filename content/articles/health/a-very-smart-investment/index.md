@@ -8,6 +8,8 @@ thumbnail: a-very-smart-investment-landscape.jpg
 categories:
   - health
   - Lynn
+aliases:
+  - /post/a-very-smart-investment
 ---
 
 {{< lead >}}

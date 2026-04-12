@@ -8,6 +8,8 @@ thumbnail: ab-197-015.jpg
 categories:
   - Australia 2002 Trip 2
   - Nick
+aliases:
+  - /post/look-out-below
 ---
 ### 16 Apr 2002 - Virgin on the ridiculous
 

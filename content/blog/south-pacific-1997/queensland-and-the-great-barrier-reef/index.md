@@ -8,6 +8,8 @@ thumbnail: nickdiving.jpg
 categories:
   - South Pacific 1997
   - Nick
+aliases:
+  - /post/queensland-and-the-great-barrier-reef
 ---
 Finally! You've reached the final chapter of this journal. Just a couple more page-downs and you won't need to read my constant ramblings any longer (or at least until the next vacation).
 

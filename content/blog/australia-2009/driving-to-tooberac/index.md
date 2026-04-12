@@ -8,6 +8,8 @@ thumbnail: thumb-1300.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/driving-to-tooberac
 ---
 ## 20 Mar 2009
 

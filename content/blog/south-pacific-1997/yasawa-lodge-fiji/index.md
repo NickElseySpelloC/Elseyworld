@@ -8,6 +8,8 @@ thumbnail: yasawa.jpg
 categories:
   - South Pacific 1997
   - Nick
+aliases:
+  - /post/yasawa-lodge-fiji
 ---
 ### 12 Feb 1997 - Yasawa Lodge
 

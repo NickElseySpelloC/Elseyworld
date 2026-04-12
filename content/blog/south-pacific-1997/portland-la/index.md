@@ -8,6 +8,8 @@ thumbnail: lax.jpg
 categories:
   - South Pacific 1997
   - Nick
+aliases:
+  - /post/portland-la
 ---
 ![lax.jpg](lax.jpg)
 

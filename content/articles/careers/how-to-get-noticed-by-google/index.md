@@ -8,6 +8,8 @@ thumbnail: how-to-get-noticed-by-google-landscape.jpg
 categories:
   - careers
   - Lynn
+aliases:
+  - /post/how-to-get-noticed-by-google
 ---
 
 {{< lead >}}

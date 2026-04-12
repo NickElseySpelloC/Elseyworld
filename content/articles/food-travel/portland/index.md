@@ -8,6 +8,8 @@ thumbnail: portland-city-guide-landscape.jpg
 categories:
   - Food Travel
   - Lynn
+aliases:
+  - /post/portland
 ---
 
 {{< lead >}}

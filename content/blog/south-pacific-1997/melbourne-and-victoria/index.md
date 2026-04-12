@@ -8,6 +8,8 @@ thumbnail: pioneercottages.jpg
 categories:
   - South Pacific 1997
   - Nick
+aliases:
+  - /post/melbourne-and-victoria
 ---
 Well, here we are again, slowly making our way across the bottom right hand corner of Australia. This chapter is brought to you from the picturesque state of Victoria (go straight north from the island of Tasmania and you can't miss it).
 

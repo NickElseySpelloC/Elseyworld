@@ -8,6 +8,8 @@ thumbnail: 050fa8aff581445598f0daace0913b90.jpg
 categories:
   - health
   - Lynn
+aliases:
+  - /post/treating-depression-mediterranean-style
 ---
 
 A team of Australian researchers have doubled-down on upsides of going Med. In 2017 the team from Deakin University [published results](https://www.deakin.edu.au/about-deakin/media-releases/articles/world-first-trial-shows-improving-diet-can-treat-major-depression) of a study which showed that following a Mediterranean style diet was an effective way to treat depression.

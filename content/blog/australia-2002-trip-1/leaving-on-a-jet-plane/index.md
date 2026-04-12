@@ -8,6 +8,8 @@ thumbnail: west-linn-in-snow-1.jpg
 categories:
   - Australia 2002 Trip 1
   - Nick
+aliases:
+  - /post/leaving-on-a-jet-plane
 ---
 ### 27 Jan 2002 - Portland
 

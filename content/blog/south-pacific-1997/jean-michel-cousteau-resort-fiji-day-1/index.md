@@ -8,6 +8,8 @@ thumbnail: fiji-02.jpg
 categories:
   - South Pacific 1997
   - Nick
+aliases:
+  - /post/jean-michel-cousteau-resort-fiji-day-1
 ---
 ## 7 Feb 1997 -Arriving at Jean-Michel Cousteau Resort
 

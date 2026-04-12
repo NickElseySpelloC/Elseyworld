@@ -8,6 +8,8 @@ thumbnail: christchurch.png
 categories:
   - South Pacific 1997
   - Nick
+aliases:
+  - /post/christchurch-new-zealand
 ---
 ## 23 Feb 1997 - Christchurch
 

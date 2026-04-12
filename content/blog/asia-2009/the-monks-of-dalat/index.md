@@ -8,6 +8,8 @@ thumbnail: img-1319.jpg
 categories:
   - Asia 2009
   - Nick
+aliases:
+  - /post/the-monks-of-dalat
 ---
 
 In the morning we jump on our moped and headed out to the Trac Lam Zen Monastery. Being up in the hills, Dalat is not only cooler but wetter than the coast, so we’re dodging the thunderclouds on the way out, hoping to stay dry.

@@ -8,6 +8,8 @@ thumbnail: img-0423.jpg
 categories:
   - Asia 2009
   - Nick
+aliases:
+  - /post/saigon
 ---
 
 {{< img-caption src="img-1348.jpg" caption="Saigon Opera House" alt="" >}}

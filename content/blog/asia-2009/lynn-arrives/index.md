@@ -8,6 +8,8 @@ thumbnail: img-0396.jpg
 categories:
   - Asia 2009
   - Nick
+aliases:
+  - /post/lynn-arrives
 ---
 
 {{< img-caption-float src="eating-in-hoi-an.jpg" side="left"  >}}

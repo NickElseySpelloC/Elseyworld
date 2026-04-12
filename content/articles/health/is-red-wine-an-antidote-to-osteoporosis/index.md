@@ -8,6 +8,8 @@ thumbnail: red-wine-landscape.jpg
 categories:
   - health
   - Lynn
+aliases:
+  - /post/is-red-wine-an-antidote-to-osteoporosis
 ---
 
 {{< lead >}}

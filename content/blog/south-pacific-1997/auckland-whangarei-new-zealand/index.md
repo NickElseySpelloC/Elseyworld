@@ -8,6 +8,8 @@ thumbnail: auckland.jpg
 categories:
   - South Pacific 1997
   - Nick
+aliases:
+  - /post/auckland-whangarei-new-zealand
 ---
 ## 14 Jan 1997 - Auckland & Whangarei
 

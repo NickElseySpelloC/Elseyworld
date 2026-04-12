@@ -8,6 +8,8 @@ thumbnail: perth.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/western-sunsets-are-the-best
 ---
 ## 4 Apr 2009
 

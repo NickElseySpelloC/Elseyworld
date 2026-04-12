@@ -8,6 +8,8 @@ thumbnail: melbourne-004.jpg
 categories:
   - Australia 2002 Trip 1
   - Nick
+aliases:
+  - /post/melbourne
 ---
 ### 5 Feb 2002 - Melbourne Day 1
 

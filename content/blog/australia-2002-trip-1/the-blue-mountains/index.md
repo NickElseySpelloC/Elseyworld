@@ -8,6 +8,8 @@ thumbnail: blue-mountains-003.jpg
 categories:
   - Australia 2002 Trip 1
   - Nick
+aliases:
+  - /post/the-blue-mountains
 ---
 ### 19 Feb 2002 - Flying to Sydney
 

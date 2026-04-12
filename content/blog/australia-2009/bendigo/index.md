@@ -8,6 +8,8 @@ thumbnail: thumb-12fe.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/bendigo
 ---
 ## 21 Mar 2009
 

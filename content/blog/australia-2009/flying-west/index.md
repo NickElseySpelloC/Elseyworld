@@ -8,6 +8,8 @@ thumbnail: waterfallgulley.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/flying-west
 ---
 ## 28 Mar 2009
 

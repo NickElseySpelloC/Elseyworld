@@ -8,6 +8,8 @@ thumbnail: img-1311.jpg
 categories:
   - Asia 2009
   - Nick
+aliases:
+  - /post/delightful-dalat
 ---
 
 Next stop on the grand tour is Dalat, about 100km inland and up in the hills. It was originally settled by the French in the 1890’s as a resort from the maddening heat and humidity of the coast.

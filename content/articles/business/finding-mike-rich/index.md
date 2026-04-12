@@ -8,6 +8,8 @@ thumbnail: mike-rich-landscape.jpg
 categories:
   - business
   - Lynn
+aliases:
+  - /post/finding-mike-rich
 ---
 
 {{< lead >}}

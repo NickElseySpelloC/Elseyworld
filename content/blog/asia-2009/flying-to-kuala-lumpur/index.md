@@ -8,6 +8,8 @@ thumbnail: img-0254.jpg
 categories:
   - Asia 2009
   - Nick
+aliases:
+  - /post/flying-to-kuala-lumpur
 ---
 
 {{< img-caption src="img-0254.jpg" caption="Petronas Towers" alt="" >}}

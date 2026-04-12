@@ -8,6 +8,8 @@ thumbnail: 5-things-cover.jpg
 categories:
   - careers
   - Lynn
+aliases:
+  - /post/5-things-you-shouldn-t-say-at-work
 ---
 
 Don’t get tripped up by using phrases that might create negative impressions.

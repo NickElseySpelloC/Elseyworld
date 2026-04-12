@@ -8,6 +8,8 @@ thumbnail: img056.jpg
 categories:
   - South Pacific 1997
   - Nick
+aliases:
+  - /post/wine-country-new-zealand
 ---
 ### 20 Feb 1997 - Wellington, Ferry to Picton & Marlborough Region
 

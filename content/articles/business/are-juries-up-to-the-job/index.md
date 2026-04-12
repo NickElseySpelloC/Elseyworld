@@ -8,6 +8,8 @@ thumbnail: are-juries-landscape.jpg
 categories:
   - business
   - Lynn
+aliases:
+  - /post/are-juries-up-to-the-job
 ---
 
 {{< lead >}}

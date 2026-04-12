@@ -8,6 +8,8 @@ thumbnail: south-coast-020.jpg
 categories:
   - Australia 2002 Trip 1
   - Nick
+aliases:
+  - /post/adelaide-and-the-barossa-valley
 ---
 ### 10 Feb 2002 - Driving to Adelaide
 

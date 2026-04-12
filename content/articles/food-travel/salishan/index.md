@@ -8,6 +8,8 @@ thumbnail: salishan.jpg
 categories:
   - Food Travel
   - Lynn
+aliases:
+  - /post/salishan
 ---
 
 {{< lead >}}

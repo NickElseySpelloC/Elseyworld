@@ -8,6 +8,8 @@ thumbnail: gluten-free-landscape.jpg
 categories:
   - health
   - Lynn
+aliases:
+  - /post/gluten-free-foods-magic-or-myth
 ---
 
 {{< lead >}}

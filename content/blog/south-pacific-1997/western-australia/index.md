@@ -8,6 +8,8 @@ thumbnail: perth-skyline.jpg
 categories:
   - South Pacific 1997
   - Nick
+aliases:
+  - /post/western-australia
 ---
 ### 26 Feb 1997 - Fremantle
 

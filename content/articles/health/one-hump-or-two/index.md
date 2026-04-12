@@ -8,6 +8,8 @@ thumbnail: one-hump-landscape.jpg
 categories:
   - health
   - Lynn
+aliases:
+  - /post/one-hump-or-two
 ---
 
 Camel milk has played an important role in the diet of nomadic and pastoral cultures for centuries. Because it is highly transportable, convenient and a low-energy source of sustenance – nomads can live for up to a month on nothing but camel milk – it is an ideal alternative to cow’s milk in the arid regions of the world.

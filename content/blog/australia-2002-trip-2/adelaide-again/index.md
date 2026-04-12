@@ -8,6 +8,8 @@ thumbnail: adelaide-048.jpg
 categories:
   - Australia 2002 Trip 2
   - Nick
+aliases:
+  - /post/adelaide-again
 ---
 ### 24 Apr 2002 - Housing hysteria
 

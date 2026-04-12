@@ -8,6 +8,8 @@ thumbnail: apolloroad04.jpg
 categories:
   - Moving to DC
   - Nick
+aliases:
+  - /post/the-last-night
 ---
 ## 21 Jul 2002
 

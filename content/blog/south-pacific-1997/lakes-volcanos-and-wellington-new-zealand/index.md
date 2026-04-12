@@ -8,6 +8,8 @@ thumbnail: img069.jpg
 categories:
   - South Pacific 1997
   - Nick
+aliases:
+  - /post/lakes-volcanos-and-wellington-new-zealand
 ---
 ## 16 Jan 1997 - Rotorua & Lake Taupo
 

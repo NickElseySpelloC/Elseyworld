@@ -8,6 +8,8 @@ thumbnail: how-to-get-meaningful-work-landscape.jpg
 categories:
   - careers
   - Lynn
+aliases:
+  - /post/how-to-get-meaningful-work-in-an-ideas-economy
 ---
 
 {{< lead >}}

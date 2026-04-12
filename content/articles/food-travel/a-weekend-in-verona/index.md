@@ -8,6 +8,8 @@ thumbnail: verona1.jpg
 categories:
   - Food Travel
   - Lynn
+aliases:
+  - /post/a-weekend-in-verona
 ---
 
 {{< lead >}}

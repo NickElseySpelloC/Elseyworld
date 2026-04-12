@@ -8,6 +8,8 @@ thumbnail: postion-magazine-landscape.jpg
 categories:
   - magazines
   - Lynn
+aliases:
+  - /post/position-magazine
 ---
 
 {{< lead >}}

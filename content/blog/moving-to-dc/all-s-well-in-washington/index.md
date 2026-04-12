@@ -8,6 +8,8 @@ thumbnail: dc02.jpg
 categories:
   - Moving to DC
   - Nick
+aliases:
+  - /post/all-s-well-in-washington
 ---
 ## 28 Jul 2002
 

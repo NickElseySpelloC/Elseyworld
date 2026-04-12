@@ -8,6 +8,8 @@ thumbnail: img-1331.jpg
 categories:
   - Asia 2009
   - Nick
+aliases:
+  - /post/victorious-dalat
 ---
 
 {{< img-caption-float side="left" src="img-1331.jpg" caption="Lynn and Kitch, Prenn Falls" alt="" >}}

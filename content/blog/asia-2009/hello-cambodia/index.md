@@ -8,6 +8,8 @@ thumbnail: img-1492.jpg
 categories:
   - Asia 2009
   - Nick
+aliases:
+  - /post/hello-cambodia
 ---
 
 {{< img-caption src="img-1386.jpg" caption="Victoria Hotel" alt="" >}}

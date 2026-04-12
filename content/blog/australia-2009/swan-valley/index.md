@@ -8,6 +8,8 @@ thumbnail: guildford.jpg
 categories:
   - Australia 2009
   - Nick
+aliases:
+  - /post/swan-valley
 ---
 ## 29 Mar 2009
 

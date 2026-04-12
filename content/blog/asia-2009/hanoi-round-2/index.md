@@ -8,6 +8,8 @@ thumbnail: img-0289.jpg
 categories:
   - Asia 2009
   - Nick
+aliases:
+  - /post/hanoi-round-2
 ---
 
 {{< img-caption-float side="left" src="img-0289.jpg" caption="Lantern Street" alt="" >}}

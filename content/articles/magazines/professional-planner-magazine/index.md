@@ -8,6 +8,8 @@ thumbnail: professional-planner-landscape.jpg
 categories:
   - magazines
   - Lynn
+aliases:
+  - /post/professional-planner-magazine
 ---
 
 {{< lead >}}

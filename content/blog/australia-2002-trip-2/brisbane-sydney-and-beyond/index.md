@@ -8,6 +8,8 @@ thumbnail: brisbane-004.jpg
 categories:
   - Australia 2002 Trip 2
   - Nick
+aliases:
+  - /post/brisbane-sydney-and-beyond
 ---
 ### 20 Apr 2002 - Balmy Brisbane
 
