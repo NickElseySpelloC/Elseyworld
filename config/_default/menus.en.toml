@@ -7,16 +7,12 @@
   pageRef = "articles"
   weight = 20
 [[main]]
-  name = "Gallery"
-  pageRef = "gallery"
-  weight = 30
-[[main]]
   name = "Resources"
   pageRef = "resources"
   weight = 40
 [[main]]
-  name = "About"
-  pageRef = "about"
+  name = "Contact"
+  pageRef = "contact"
   weight = 50
 [[main]]
   identifier = "appearance"
