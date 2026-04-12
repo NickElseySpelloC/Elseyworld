@@ -22,8 +22,8 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  logo = "img/logo/elsey-world-logo.gif"
-  logoDark = "img/logo/elsey-world-logo-dark.gif"
+  logo = "img/logo/elseyworld-light.svg"
+  logoDark = "img/logo/elseyworld-dark.svg"
   showTitle = false
 
 [footer]
