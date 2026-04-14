@@ -1,10 +1,11 @@
 ---
 title: Privacy Policy
-description: "Elseyworld privacy policy"
+description: Elseyworld values and respects the privacy of the people we deal with. Elseyworld is committed to protecting your privacy and complying with the Privacy Act 1988 (Cth) (Privacy Act) and other applicable privacy laws and regulations.
 date: 2024-08-13T00:00:00.000+10:00
 author: Nick Elsey
 layout: simple
 draft: false
+thumbnail: elseyworld-light.png
 ---
 
 _This Policy was last reviewed and updated on: 13th August 2024._

@@ -1,3 +1,4 @@
 <div class="ew-callout">
-  {{ .Inner | markdownify }}
+  {{- $opts := dict "display" "block" -}}
+  {{- .Inner | .Page.RenderString $opts -}}
 </div>

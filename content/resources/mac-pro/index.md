@@ -3,10 +3,11 @@ date: '2018-02-01T18:19:34+10:00'
 draft: false
 layout: term
 title: 'Upgrading a Mac Pro Workstation'
-description: "Upgrading a 2012 MacPro RAM, CPU, GPU and Boot Disk"
+description: "A detailed guide to upgrading the CPU, GPU, RAM and boot disk on a 2012 MacPro."
 showTableOfContents: true
 showDate: false
 showReadingTime: false
+thumbnail: mac-pro-icon.png
 aliases:
     - /mac-pro
 ---
@@ -21,6 +22,7 @@ Furtheremore, the latest version of macOS that these MacPros can support is 10.1
 All that being said, I've kept this article here in case anyone's intereste. 
 {{< /callout >}}
 
+{{< img-float src="mac-pro.jpg" side="left" >}}
 I'm the happy owner of one of these guys - an Apple Mac Pro workstation, the "Mid-2012" edition to be exact. This was the last iteration of this design before Apple released their current (and much maligned) "trash can" Mac Pro in 2013. The Mid-2012 Mac Pro is the last real (aka upgradable) computer Apple ever released - its fully modular, supporting CPU, memory, disk and graphics card upgrades.
 
 It's now late 2018 and the technology in this "cheese grater" (as this version was known) is getting a bit dated. Apple still haven't yet released a new workstation that I (or anyone) would want to buy, so I've been toying with the idea for a while now of upgrading this workstation to something a little more up to date.

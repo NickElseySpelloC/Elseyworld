@@ -1,6 +1,8 @@
 ---
-title: "CMS Guide"
+title: "Elseyworld CMS Guide"
 description: "Guide to posting a blog on ElseyWorld"
+date: '2026-04-14T17:00:39+10:00'
+thumbnail: cms-screen-shot.png
 ---
 Using Decap CMS at elseyworks.com.
 
