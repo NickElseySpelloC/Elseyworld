@@ -1,7 +1,7 @@
 ---
 title: Cape to Cape
-description: "3 Apr 2009 Passing the time while Lynn takes a turn at the wheel, I browse our trusty Australia road atlas (don’t you just love a good..."
-date: 2009-03-09T00:00:00.000+10:00
+description: "Passing the time while Lynn takes a turn at the wheel, I browse our trusty Australia road atlas (don’t you just love a good map?). It’s shocking to see how little territory we’ve covered in our travels so far. Even though we’ve clocked about 3,000 km so far, we’ve barely scratched the surface."
+date: 2009-04-03T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: capetocape.jpg

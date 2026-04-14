@@ -1,7 +1,7 @@
 ---
 title: Driving to Tooberac
-description: "20 Mar 2009 After a probably unjustified amount of random pottering and futzing about, we finally get on the road midmorning. We’re..."
-date: 2009-03-19T00:00:00.000+10:00
+description: "After a probably unjustified amount of random pottering and futzing about, we finally get on the road midmorning. We’re hearing west-ish towards the tiny town of Tooberac, just 10 km south of the slightly less tiny town of Heathcote."
+date: 2009-03-20T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: thumb-1300.jpg

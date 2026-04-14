@@ -1,7 +1,7 @@
 ---
 title: Bendigo
-description: "21 Mar 2009 After a good fry up to start the morning with a creeping coronary, we head off to Bendigo – a fairly sizable town in these..."
-date: 2009-03-18T00:00:00.000+10:00
+description: "After a good fry up to start the morning with a creeping coronary, we head off to Bendigo – a fairly sizable town in these parts (greater Bendigo population 100,000). Heck, let’s stick our neck out and call it a city."
+date: 2009-03-21T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: thumb-12fe.jpg

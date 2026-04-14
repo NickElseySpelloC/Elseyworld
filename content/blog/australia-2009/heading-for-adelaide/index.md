@@ -1,7 +1,7 @@
 ---
 title: Heading for Adelaide
-description: "26 Mar 2009 After another late and lazy start to the morning, we swing by one of our favourite wineries (Hugo) to stock up and then head..."
-date: 2009-03-15T00:00:00.000+10:00
+description: "After another late and lazy start to the morning, we swing by one of our favourite wineries (Hugo) to stock up and then head back to towards Adelaide. First stop – Stirling, just down the road from Hahndorf and home to a recently discovered bakery / foodie store that is simply marvellous."
+date: 2009-03-26T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: adelaide.jpg

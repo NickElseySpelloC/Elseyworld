@@ -1,7 +1,7 @@
 ---
 title: Cruising the River
 description: "30 Mar 2009 Today was a day of pampering. A friend of a friend (the actual connection is far too complex to relate here) has invited us..."
-date: 2009-03-12T00:00:00.000+10:00
+date: 2009-03-30T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: cruiser.jpg

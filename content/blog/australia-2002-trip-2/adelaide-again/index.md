@@ -1,6 +1,6 @@
 ---
 title: Adelaide Again
-description: "24 Apr 2002 - Housing hysteria Something has happened in Adelaide in the past 4 years. When we were first here, back in '98, we were..."
+description: "Something has happened in Adelaide in the past 4 years. When we were first here, back in '98, we were shocked to see how cheap the housing was. For approximately $AU250,000 ($US130,000) you could get a large 4 bedroom house, with a few acres of land within easy commuting distance of the city."
 date: 2002-04-24T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
@@ -23,13 +23,16 @@ Still, on a global scale, this place is still a lot cheaper than many other citi
 
 However, if you're willing to commute a bit, there are still some real steals to be had further out in the bush - and with lots of land included (it's hard to find anything under 20 acres). The idea of owning some land, growing a few grapes perhaps, does have some appeal.
 
-### Welcome dear strangers!
-
+{{< callout-float side="right" width="50%" >}}
 ### Nick on trading laws...
-   *In our last journal I did a side bar on Sunday trading laws over here. It gets even more ridiculous.* 
-   *While shopping at one of the large grocery stores we notice a banner - "Now open from midnight!". Cool we say, but surely you mean 'open until midnight', right?*
-   *Wrong! The store opens at midnight 6 days a week, but closes at 5 PM for 4 of these days and 7 PM for the other two! God help anyone who works late here and wants to pick up a little dinner on the way home.*
-   *Oh, and it's still closed all day Sunday. Of course.*
+In our last journal I did a side bar on Sunday trading laws over here. It gets even more ridiculous.
+
+While shopping at one of the large grocery stores we notice a banner - "Now open from midnight!". Cool we say, but surely you mean 'open until midnight', right?
+
+Wrong! The store opens at midnight 6 days a week, but closes at 5 PM for 4 of these days and 7 PM for the other two! God help anyone who works late here and wants to pick up a little dinner on the way home. Oh, and it's still closed all day Sunday. Of course.
+{{< /callout-float  >}}
+
+### Welcome dear strangers!
 
 Sticker shock aside, we're still very much enamoured with this town. The weather continues to be delightful, even though we're now coming into autumn. Everyone here is wonderfully friendly and laid back. A case in point - after an hour or two spent exploring the botanical gardens we decide that we've earned a glass of wine, and toddle off to a little wine bar that Lynn has read about. We encounter one of the local art dealers / gossip columnist who appears to be a regular here. Within a few minutes we're friends, he's bought us a bottle of wine, the owner has come over to join us and we amicably spend the rest of the afternoon chatting.
 

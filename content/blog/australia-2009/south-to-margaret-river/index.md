@@ -1,7 +1,7 @@
 ---
 title: South to Margaret River
-description: "2 Apr 2009 We’re taking a break from Perth for a couple of day to head south down the coast to the Margaret River area. We enjoyed the..."
-date: 2009-03-10T00:00:00.000+10:00
+description: "We’re taking a break from Perth for a couple of day to head south down the coast to the Margaret River area. We enjoyed the area last time we were here – pretty, relaxed, loads of great wineries and not too built up. We hear that progress has come to the area in the intervening dozen years, but we’re going to go found out for ourselves."
+date: 2009-04-02T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: mrcoast.jpg

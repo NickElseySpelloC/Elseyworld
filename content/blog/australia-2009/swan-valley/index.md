@@ -1,7 +1,7 @@
 ---
 title: Swan Valley
-description: "29 Mar 2009 This one is a painful, oh-my-God early start. We have a 7:15 am flight to catch, so we pack, prep and book a taxi the night..."
-date: 2009-03-13T00:00:00.000+10:00
+description: "This one is a painful, oh-my-God early start. We have a 7:15 am flight to catch, so we pack, prep and book a taxi the night before so that we can make a clean start this morning. After 30 minutes of waiting, the taxi is still a no show – grrrrr!."
+date: 2009-03-29T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: guildford.jpg

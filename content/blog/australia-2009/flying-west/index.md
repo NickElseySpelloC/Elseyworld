@@ -1,7 +1,7 @@
 ---
 title: Flying West
-description: "28 Mar 2009 For the last three days we taken a break from the country cottages for a slice of suburbia. Its proven hard to find anything..."
-date: 2009-03-14T00:00:00.000+10:00
+description: "For the last three days we taken a break from the country cottages for a slice of suburbia. Its proven hard to find anything in town, so we’re staying in this granny-flat kinda of place in the Adelaide suburb of St Georges. The place is a lot better than I make it sound."
+date: 2009-03-28T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: waterfallgulley.jpg
