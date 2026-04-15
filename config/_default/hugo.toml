@@ -4,7 +4,7 @@ theme = "congo"
 # https://jpanther.github.io/congo/docs/getting-started/
 
 # Production domain (update when DNS is pointed)
-baseURL = "https://elseyworks.com/"
+baseURL = "https://elseyworld.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
