@@ -8,7 +8,7 @@ Using Decap CMS at elseyworks.com.
 
 ## Step 1: Log In
 
-1. Go to **[elseyworks.com/admin](https://elseyworks.com/admin>)**
+1. Go to **[elseyworld.com/admin](https://elseyworld.com/admin)**
 2. Click **"Login with GitHub"**
 3. If prompted, authorise the app on GitHub
 4. You'll land on the Decap CMS dashboard
