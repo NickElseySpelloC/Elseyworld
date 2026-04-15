@@ -1,7 +1,7 @@
 ---
 title: Portland & LA
 description: "At the last minute, we cancelled our shuttle ride to the air and took up Colleen (our neighbour) on her offer of a ride to the airport...."
-date: 1997-02-01T00:00:00.000+10:00
+date: 1997-02-05T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: lax.jpg

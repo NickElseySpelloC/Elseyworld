@@ -1,7 +1,7 @@
 ---
 title: Finding Florida
-description: "We’d given some thought to other places in the states that we might like to live in, but due to our craving need for a hot climate and an..."
-date: 2002-05-27T00:00:00.000+10:00
+description: "We’d given some thought to other places in the states that we might like to live in, but due to our craving need for a hot climate and an acceptably cosmopolitan atmosphere, Florida was the only place we could up with as a potentially acceptable backup destination, should the plans for Australia fall foul of the immigration bureaucrats."
+date: 2002-05-26T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: shuttle.jpg

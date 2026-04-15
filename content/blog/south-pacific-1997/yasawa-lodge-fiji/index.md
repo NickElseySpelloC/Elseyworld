@@ -1,6 +1,6 @@
 ---
 title: Yasawa Lodge, Fiji
-description: "12 Feb 1997 - Yasawa Lodge Our first full day at Yasawa. Breakfast is interrupted by Vili – the activities director, who tells abut all..."
+description: "Our first full day at Yasawa. Breakfast is interrupted by Vili – the activities director, who tells abut all the fun activities talking place today in Paradise. This guy is more camp than Mr Inman ('Are you being served'?)."
 date: 1997-02-12T00:00:00.000+10:00
 author: Nick Elsey
 draft: false

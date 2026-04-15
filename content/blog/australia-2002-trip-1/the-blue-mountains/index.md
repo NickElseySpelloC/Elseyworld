@@ -42,7 +42,7 @@ Our first stop is the tourist information centre near **Greenbrook**. We had alr
 
 ### 20 Feb 2002 - Blue Mountains day 1
 
-Lynn, being the wonderful accommodation whizz that she is, has managed to score us a great place to stay for the next few nights. She called up to inquire about a place with wonderful views over the valley, but it was booked up. However, the lady tells Lynn that she has another wonderful cottage in town, called **Scribbly Gum Cottage** no less! We were obviously fated to stay here, so we take her up on the offer and are not disappointed - it's a lovely place, lots of space and well appointed. By the time we leave we will be favourably comparing this place to [Miners Cottage](http://www.elseyworld.com/travel1997/chapter6#MinersCottage)in the Barossa (our very favourite place to stay).
+Lynn, being the wonderful accommodation whizz that she is, has managed to score us a great place to stay for the next few nights. She called up to inquire about a place with wonderful views over the valley, but it was booked up. However, the lady tells Lynn that she has another wonderful cottage in town, called **Scribbly Gum Cottage** no less! We were obviously fated to stay here, so we take her up on the offer and are not disappointed - it's a lovely place, lots of space and well appointed. By the time we leave we will be favourably comparing this place to [Miners Cottage](/blog/south-pacific-1997/adelaide-and-south-australia/) in the Barossa (our very favourite place to stay).
 
 {{< img-caption-float side="right" src="blue-mountains-050.jpg" caption="Lynn's latest bag in the cottage hunt - Scribbly Gum Cottage" alt="" >}}
 

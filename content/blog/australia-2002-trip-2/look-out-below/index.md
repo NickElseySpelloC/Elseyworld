@@ -24,7 +24,7 @@ Lynn takes off on her flight for Adelaide, but I have a couple of hours to kill 
 
 {{< img-caption-float side="right" src="diving-015.jpg" caption="Spoil Sport" alt="" >}}
 
-After hanging out at the local marina bar for a bit in Townsville, we all pile on board the good ship *Spoil Sport*, our home for the next week. This is a magnificent dive boat - huge and very well equipped, run by [Mike Ball Dive Expeditions](http://www.mikeball.com/). The boat was custom built for the company and it shows - everything has been thought of. Those of you that've been following along will know that I went out with Mike Ball four years ago on the [Super Sport](http://www.elseyworld.com/travel1997/chapter8#SuperSport), but this ship is definitely a notch above that boat.
+After hanging out at the local marina bar for a bit in Townsville, we all pile on board the good ship *Spoil Sport*, our home for the next week. This is a magnificent dive boat - huge and very well equipped, run by [Mike Ball Dive Expeditions](http://www.mikeball.com/). The boat was custom built for the company and it shows - everything has been thought of. Those of you that've been following along will know that I went out with Mike Ball four years ago on the [Super Sport](/blog/south-pacific-1997/queensland-and-the-great-barrier-reef/), but this ship is definitely a notch above that boat.
 
 Anyway, enough of the gushing already - you had to be there to appreciate it. We cruise through the night out to the Yongala Wreck, which is quite interesting if you've never tried this before. It's not too rough, but it's still a bit like being on a roller coaster while lying in bed. Definitely Dramamine time.
 

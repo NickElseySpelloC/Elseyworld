@@ -37,7 +37,7 @@ Sydney, like all modern, progressive cities, has a population of architects and 
 
 Refreshed and replenished, we return to the hotel, check in and finally get to shower off the travel grime. Much better!
 
-We head out again for some serious strolling. First stop is of course the Sydney Opera House. This is just round Sydney Cove from our hotel, and easy 10 minute walk. The Opera House is probably the best known sight in Australia, at least for a foreigner and it certainly deserves a moment of your time (see the [Sydney photo gallery](http://www.elseyworld.com/system/errors/NodeNotFound?suri=wuid:gx:180e572ca37ab92f)). The Opera House is built on a piece of land that protrudes out into the harbour, so if you walk round the front of the building you get to see some great sights.
+We head out again for some serious strolling. First stop is of course the Sydney Opera House. This is just round Sydney Cove from our hotel, and easy 10 minute walk. The Opera House is probably the best known sight in Australia, at least for a foreigner and it certainly deserves a moment of your time. The Opera House is built on a piece of land that protrudes out into the harbour, so if you walk round the front of the building you get to see some great sights.
 
 {{< callout >}}
 ### Nick On place names...
@@ -48,7 +48,7 @@ This really sums up one of the cornerstones of Sydney society - the racial and c
 
 As we walk on up past the [Royal Botanic Gardens](http://www.rbgsyd.gov.au/), we pass copious coach-loads of very fancily clad folks. Turns out they arriving for a night at the opera, but there are loads of them. It's still only 2 or 3 in the afternoon and really hot, so we we're not at all envious of them.
 
-We take in some of the sights of Sydney. Considering that virtually nothing here is more than a hundred years old, they've really done a great job of blending the old(-ish) with the new. There's a remarkable lack of sixties era concrete monstrosities here. We finish off the walk about with a visit to the local wine store. For those of you that have read our [previous Australia diary](http://www.elseyworld.com/travel1997/chapter4), you'll know that Lynn and I are bit fanatical about the wines from this part of the world. Needless to say we have a great time browsing and come away with a nice bottle of bubbly.
+We take in some of the sights of Sydney. Considering that virtually nothing here is more than a hundred years old, they've really done a great job of blending the old(-ish) with the new. There's a remarkable lack of sixties era concrete monstrosities here. We finish off the walk about with a visit to the local wine store. For those of you that have read our [previous Australia diary](/categories/south-pacific-1997/) , you'll know that Lynn and I are bit fanatical about the wines from this part of the world. Needless to say we have a great time browsing and come away with a nice bottle of bubbly.
 
 Dinner tonight is at the [bel mondo](http://www.belmondo.com.au/), a nearby restaurant that it currently the talk of the town. Fortunately for us, those talking have all good things to say!
 

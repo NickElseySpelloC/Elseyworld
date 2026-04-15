@@ -1,4 +1,5 @@
 ---
+date: '2026-04-14T18:19:34+10:00'
 title: "GitHub Projects"
 description: "A selection of Nick's GitHub projects."
 layout: simple

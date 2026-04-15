@@ -1,7 +1,7 @@
 ---
 title: Queensland and the Great Barrier Reef
-description: "Finally! You've reached the final chapter of this journal. Just a couple more page-downs and you won't need to read my constant ramblings..."
-date: 1997-01-20T00:00:00.000+10:00
+description: "Finally! You've reached the final chapter of this journal. Just a couple more page-downs and you won't need to read my constant ramblings any longer (or at least until the next vacation)."
+date: 1997-03-22T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: nickdiving.jpg
@@ -33,7 +33,7 @@ What should have been a great view of reefs is somewhat marred by heavy rain. Un
 
 We're taken out to SuperSport in two inflatables and get a good view of the ship on the way. She's a big (87 foot) catamaran, custom built for diving. This turns out to be the best dive boat I've been on far - the attention to detail is incredible. Every aspect of diving has been considered and catered to. I've got my own cabin on the top deck (she can take 26 guests, but there only 16 on board for this trip, so there's plenty of space). This is good for the view, but bad when the ship is rolling as you're further from the centre of gravity.
 
-{{< img-caption src="nickdiving.jpg" caption="Nick Diving" alt="" >}}
+{{< img-caption-float side="left" src="nickdiving.jpg" caption="Nick Diving" alt="" >}}
 
 Our first stop is to be the Cod Hole, 3 hours cruising north of Lizard Island. As soon as we leave harbour, the cyclone's effect are really felt and the boat start to rock and roll with a vengeance. It's almost impossible to stand upright and half the guests are seasick. Dramamine is consumed in copious quantities. I'm feeling a little queasy myself, but manage to keep my breakfast on the inside.
 
@@ -47,7 +47,7 @@ The conditions were much better this morning and continued improve through out t
 
 We returned to the Cod Hole for the first dive, this time to feed them. A couple of pounds of pilchards were handed out by one of the dive masters, while everyone else sat in a circle and watched. The cod and bass were obviously expecting the visit, and it turned into quite a feeding frenzy. We were barged into by the cod in their eagerness to get to the food. This turned out to be a great dive, other highlights included a turtle, a shoal of huge barracuda (6 foot long) and a sleeping Grey Whaler shark. I hired an underwater still camera for this dive, so I'm looking forward to seeing how they come out.
 
-{{< img-caption src="ericgingold.jpg" caption="Eric Gingold" alt="" >}}
+{{< img-caption-float side="right" src="ericgingold.jpg" caption="Eric Gingold" alt="" >}}
 
 We then started sailing south again, Nathan having finally left us alone. Couple more relatively uneventful dives in the afternoon, and then on south for our final dive of the day - a night dive! Night diving is an exhilarating experience and quite freaky. The whole nature of the reef changes at night, with many animals, such as crayfish and the hard coral, coming out to feed, while others go to sleep. We came across several large reef sharks dozing on the sea floor during the dive, but perhaps the strangest animal to be seen is the other divers. I enjoyed turning off my dive light and watching another group approach me. With all the beams from their dive lights scanning back and forth, it looked a lot like something from Close Encounters!
 

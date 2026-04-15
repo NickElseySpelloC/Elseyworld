@@ -1,7 +1,7 @@
 ---
 title: Melbourne and Victoria
-description: "Well, here we are again, slowly making our way across the bottom right hand corner of Australia. This chapter is brought to you from the..."
-date: 1997-01-21T00:00:00.000+10:00
+description: "Well, here we are again, slowly making our way across the bottom right hand corner of Australia. This chapter is brought to you from the picturesque state of Victoria (go straight north from the island of Tasmania and you can't miss it)."
+date: 1997-03-11T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: pioneercottages.jpg
@@ -17,9 +17,11 @@ Well, here we are again, slowly making our way across the bottom right hand corn
 
 A long drive today, out from Miner's Cottage and east through the "Big Desert" towards Victoria. That’s what I love about this country - they're so elemental and unsubtle. There's the "Big Desert" and just south of that the "Little Desert", and no prizes for guessing which one covers the most territory. To give you another example, we had great fun on our drive reading some of the road signs. Classics included:
 
-"***If you drink, then drive, you're a bloody idiot***"
-       Or how about-
-       "***Dozing drivers die***".
+> If you drink, then drive, you're a bloody idiot
+
+Or how about:
+       
+> Dozing drivers die.
 
 Yup, no doubt about the hidden message there.
 
@@ -36,7 +38,7 @@ On the other side of the hills we descended into the town of Halls Gap. I don't 
 
 Quite impressive as you drive into town.
 
-{{< img-caption src="pioneercottages.jpg" caption="Pioneer Cottage" alt="" >}}
+{{< img-caption-float side="left" src="pioneercottages.jpg" caption="Pioneer Cottage" alt="" >}}
 
 We're staying in the Pioneer cottages, a few miles the other side of town and quite out in the back of beyond. Our log cabin can easily sleep 10, but is still nice enough. The view out the front door is quite spectacular - fields, hills (s'cuse me, mountains), majestic sweeping mobs of kangaroos, etc.
 

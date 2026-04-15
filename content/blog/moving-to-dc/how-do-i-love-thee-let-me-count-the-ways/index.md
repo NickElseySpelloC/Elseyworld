@@ -1,6 +1,6 @@
 ---
 title: How do I love thee?... Let me count the ways
-description: "About a month has gone by since the last instalment and much has changed in our plans. Those of you that have been following along will..."
+description: "About a month has gone by since the last instalment and much has changed in our plans. Those of you that have been following along will know that we are in the process of applying for an Australian immigration visa - no easy task believe me."
 date: 2002-05-24T00:00:00.000+10:00
 author: Nick Elsey
 draft: false

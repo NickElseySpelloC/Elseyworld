@@ -1,6 +1,6 @@
 ---
 title: Christchurch, New Zealand
-description: "23 Feb 1997 - Christchurch We wake to clouds and a major temperature drop. Had to happen sometime. Our planned picture shoot of the..."
+description: "We wake to clouds and a major temperature drop. Had to happen sometime. Our planned picture shoot of the mountains (which come right down to the sea here) are curtailed and we head off for Christchurch, our last stop in NZ (sob, sniff)."
 date: 1997-02-23T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
@@ -11,7 +11,7 @@ categories:
 aliases:
   - /post/christchurch-new-zealand
 ---
-## 23 Feb 1997 - Christchurch
+### 23 Feb 1997 - Christchurch
 
 We wake to clouds and a major temperature drop. Had to happen sometime. Our planned picture shoot of the mountains (which come right down to the sea here) are curtailed and we head off for Christchurch, our last stop in NZ (sob, sniff).
 

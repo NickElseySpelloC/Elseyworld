@@ -1,6 +1,6 @@
 ---
 title: Western Australia
-description: "26 Feb 1997 - Fremantle Welcome to the next chapter of the great vacation diary. As I'm sure you've noticed, this journal has grown too..."
+description: "Welcome to the next chapter of the great vacation diary. As I'm sure you've noticed, this journal has grown too large for one page and I've broken it down into separate chapters. It's amazing how much time you can spend doing this kind of thing."
 date: 1997-02-26T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
@@ -17,17 +17,20 @@ Welcome to the next chapter of the great vacation diary. As I'm sure you've noti
 
 Here we are in Australia. Our first stop is in Western Australia.
 
-***Some WA facts****:*
-*This is an amazing country and an even more amazing state. For example:*
+{{< callout >}}
+#### Some WA facts:
 
-- *Australia is about the same size as the United States of America, but only has a population of 18 million, compared to the USA's 260 million.*
-- *Western Australia has a population of only 1.7 million, but it occupies 1/3 of the entire country - 1 million square miles.*
-- *Of that, 70% of western Australians live in the state capitol, Perth. That works out to around 1 person to every 2 square miles outside Perth.*
-- *The two main industries in this state are mining and sheep. With the latter, they don't mess around, sheep farms (or stations as they call them here) can be as large as the state of Kentucky.*
-- *Perth is remote. It's 2,000 miles from the next major city. In fact, it's closer to cities in Indonesia that it's nearest Australia neighbor, Adelaide (2,600 miles away).*
-- *There are places in this state where you can be almost 1,000 miles from any road, and that's just a dirt track suitable for 4wd vehicles only.*
+This is an amazing country and an even more amazing state. For example:
 
-![perth-skyline.jpg](perth-skyline.jpg)
+- Australia is about the same size as the United States of America, but only has a population of 18 million, compared to the USA's 260 million.
+- Western Australia has a population of only 1.7 million, but it occupies 1/3 of the entire country - 1 million square miles.
+- Of that, 70% of western Australians live in the state capitol, Perth. That works out to around 1 person to every 2 square miles outside Perth.
+- The two main industries in this state are mining and sheep. With the latter, they don't mess around, sheep farms (or stations as they call them here) can be as large as the state of Kentucky.
+- Perth is remote. It's 2,000 miles from the next major city. In fact, it's closer to cities in Indonesia that it's nearest Australia neighbor, Adelaide (2,600 miles away).
+- There are places in this state where you can be almost 1,000 miles from any road, and that's just a dirt track suitable for 4wd vehicles only.
+{{< /callout >}}
+
+{{< img-caption-float side="left" src="perth-skyline.jpg" caption="Perth skyline" alt="" >}}
 
 So, last night (and tonight) we stay in the **South Beach Apartments** in **Fremantle**. This is a town about 15 km SW of Perth, where the Swan River reaches the Indian Ocean. Once again, the apartment was great - two bedrooms, separate kitchen & lounge and all the appliances! Our apartment (and several dozen more) are located in an old biscuit factory on the south side of town. This area is rapidly being 'yuppiefied' with all the old buildings being converted into swanky apartments, bars, restaurants, etc.
 

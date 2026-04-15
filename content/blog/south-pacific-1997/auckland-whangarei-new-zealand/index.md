@@ -1,7 +1,7 @@
 ---
 title: Auckland and North, New Zealand
-description: "14 Jan 1997 - Auckland & Whangarei Wow, Valentines day. And what a way to spend it. We woke up in the Kiwi International Motel in..."
-date: 1997-01-14T00:00:00.000+10:00
+description: "Wow, Valentines day. And what a way to spend it. We woke up in the Kiwi International Motel in Auckland. A nice enough place, if a little sparse. Still, the Air New Zealand pilots stay here, so it can’t be all bad."
+date: 1997-02-14T00:00:00.000+10:00
 author: Nick Elsey
 draft: false
 thumbnail: auckland.jpg
@@ -11,7 +11,7 @@ categories:
 aliases:
   - /post/auckland-whangarei-new-zealand
 ---
-## 14 Jan 1997 - Auckland & Whangarei
+### 14 Feb 1997 - Auckland & Whangarei
 
 ![auckland.jpg](auckland.jpg)
 
@@ -31,7 +31,7 @@ In the afternoon we make it to the Settlers Hotel in Whangarei (and that’s one
 
 OK, up to date again. I’m quaffing my wine (a cheeky little Sauvignon Blanc from Montana) as Lynn’s getting really hungry. We’re off to the local marina from a spot of dinner. Later.
 
-## 15 Jan 1997 - Whangarei and Bay Islands
+### 15 Jan 1997 - Whangarei and Bay Islands
 
 We wake after a another surprisingly good night’s sleep, considering this is only a double bed. After the king size at home it seems way too cramped. Lynn makes me tea and I lounge around and read while she goes jogging. I’ll start exercising any day now.
 
