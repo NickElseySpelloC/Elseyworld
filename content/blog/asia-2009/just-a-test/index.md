@@ -3,7 +3,7 @@ title: Just a test
 description: This is a test post
 date: 2026-04-16T17:12:00.000+10:00
 author: Nick Elsey
-draft: true
+draft: false
 thumbnail: img-0256.jpg
 categories:
   - Nick
