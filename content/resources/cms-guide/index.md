@@ -1,10 +1,10 @@
 ---
 title: "Elseyworld CMS Guide"
-description: "Guide to posting a blog on ElseyWorld"
+description: "Guide to posting a blog or article on ElseyWorld using Content Management Systems (CMS)"
 date: '2026-04-14T17:00:39+10:00'
 thumbnail: cms-screen-shot.png
 ---
-Using Decap CMS at elseyworks.com.
+Using the Elseyworld Content Management System.
 
 ## Step 1: Log In
 
@@ -15,9 +15,12 @@ Using Decap CMS at elseyworks.com.
 
 ## Step 2: Create a New Post
 
-1. In the left sidebar, click **"Travel Blog"** (or **"Lynn's Articles"** for Lynn's content)
-2. Click the **"New Travel Blog"** button (top right)
-3. A blank post editor will open
+1. In the left sidebar, click on the collection you want to add a page to
+    - The **"Travel Blog"** collections are for Nick
+    - The **"Articles"** collections are for Lynn's content.
+    - See Nick if you need a new collection to be created.
+2. Click the **"New..."** button (top right) to create a new page, or click on one of the existing pages to edit. 
+3. The page editor will open
 
 ## Step 3: Fill In the Post Details
 
@@ -25,20 +28,20 @@ At the top of the editor you'll see several fields:
 
 | Field | What to enter |
 | --- | --- |
-| **Title** | The title of your post, e.g. "A Weekend in Verona" |
-| **Date** | The date of the post — click to get a date picker |
-| **Author** | Your name (pre-filled) |
-| **Thumbnail Image** | Select a thumbnail image to be used on the blog listing page. This can be one of the images used in the body. |
-| **Draft** | Leave ON (true) while writing, turn OFF when ready to publish |
-| **Categories** | Type a category and press Enter, e.g. "South Pacific 1997" |
+| **Title** | The title of your page, e.g. "A Weekend in Verona" |
+| **Description** | A short description of the aerticle or post. This text will be used on the category listing page (e.g. [categories/food-travel/](/categories/food-travel/) ) |
+| **Date** | The date of the post — click to get a date picker. Defaults to the current date and time. |
+| **Thumbnail Image** | Select a thumbnail image to be used on the listing page. This can be one of the images used in the body. |
+| **Draft** | Leave ON (true) while writing, turn OFF when ready to publish to the live site. |
+| **Aliases** | Alternate URLs to this page. You can generally leave this blank for new pages. |
 
 ## Step 4: Write Your Content
 
-The large area below the fields is the **body editor**. It works like a basic word processor:
+The large area below the fields is the **body editor**. It works like a basic word processor when the toggle is in Rich Text mode:
 
 - **Bold** — highlight text and click B
 - **Italic** — highlight text and click I
-- **Headings** — click the H1/H2 dropdown
+- **Headings** — click the H1/H2/H3 dropdown
 - **Links** — highlight text and click the chain icon, paste the URL
 - **Images** — click the image icon, then "Choose an image" to upload from your computer (see below)
 
@@ -46,13 +49,12 @@ The large area below the fields is the **body editor**. It works like a basic wo
 
 ## Step 5: Images
 
-Use these special file names when uploading images:
+You can insert either a regular image or a floating (text wrapped) image using the **+** button on the editor tool bar. This brings up the Images pop-up window. In this window you can:
 
-- **thumbnail.jpg** The image will appear as a thumbnail on the listing page.
-- **cover.jpg**: The will appear as the cover (hero) image at the top of the content page.
-- **feature.jpg**: The image will be used for both the thumbnail and cover image.
+- Upload images from your computer (one at a time)
+- Select an iamge to be inserted at the current location in your content.
 
-See [Feature cover and thumbnail images](https://jpanther.github.io/congo/docs/getting-started/#feature-cover-and-thumbnail-images) for more information.
+Once an image has been selected, you will see a "Image" or "Float Image" panel inserted into your text in the editor, and the image previewed on the right.
 
 ## Step 6: Save a Draft
 
@@ -70,25 +72,16 @@ When you're happy with the post:
 
 1. Find the **"Draft"** toggle in the post fields at the top
 2. Switch it to **OFF** (false)
-3. Click **"Publish"** (or **"Save"**)
+3. Click **"Publish"**
 
-This commits the post to GitHub. Within about **60 seconds**, GitHub Actions will automatically rebuild the site and your post will appear live at **<https://elseyworks.com>**.
-
-## Editing an Existing Post
-
-1. Go to **<https://elseyworks.com/admin>**
-2. Click **"Travel Blog"** or **"Lynn's Articles"** in the sidebar
-3. Find your post in the list and click it
-4. Make your changes
-5. Click **"Save"** — the site rebuilds automatically
+This commits the post to GitHub. Within about **2 minutes**, GitHub Actions will automatically rebuild the site and your post will appear live at **<https://elseyworld.com>**.
 
 ## Things to Remember
 
 - ✅ **Draft = ON** means the post is hidden from the public
 - ✅ **Draft = OFF** means the post is live
-- ✅ Images you upload go into the site's image library automatically
-- ⚠️ **Floated images** (text wrapping around a photo) need to be added by Nick — just let him know where you want them
-- ⚠️ After publishing, allow **up to 60 seconds** for the site to rebuild before the post appears live
+- ✅ Images you upload go into the page's "bundle folder" automatically
+- ⚠️ After publishing, allow **up to 2 minutes** for the site to rebuild before the post appears live
 
 ---
 
