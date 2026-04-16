@@ -8,5 +8,62 @@
   </head>
   <body>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+      const collectionNames = [
+        "blog_asia_2009",
+        "blog_australia_2002_trip_1",
+        "blog_australia_2002_trip_2",
+        "blog_australia_2009",
+        "blog_moving_to_dc",
+        "blog_south_pacific_1997",
+        "articles_business",
+        "articles_careers",
+        "articles_food_travel",
+        "articles_health",
+        "articles_magazines",
+      ];
+
+      const EntryPreview = createClass({
+        render: function () {
+          const entry = this.props.entry;
+          const title = entry.getIn(["data", "title"]);
+          const description = entry.getIn(["data", "description"]);
+          const body = this.props.widgetFor("body");
+
+          return h(
+            "article",
+            {
+              style: {
+                fontFamily: "Georgia, serif",
+                lineHeight: "1.7",
+                padding: "2rem",
+              },
+            },
+            [
+              title ? h("h1", { key: "title" }, title) : null,
+              description
+                ? h(
+                    "p",
+                    {
+                      key: "description",
+                      style: {
+                        color: "#555",
+                        fontStyle: "italic",
+                        marginBottom: "1.5rem",
+                      },
+                    },
+                    description,
+                  )
+                : null,
+              h("div", { key: "body" }, body),
+            ],
+          );
+        },
+      });
+
+      collectionNames.forEach(function (name) {
+        CMS.registerPreviewTemplate(name, EntryPreview);
+      });
+    </script>
   </body>
 </html>
