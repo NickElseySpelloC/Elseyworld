@@ -1,8 +1,0 @@
-{{- $color := .Get "color" | default "yellow" -}}
-{{- $float := .Get "float" -}}
-{{- $class := printf "ew-callout ew-callout-%s" $color -}}
-{{- if $float -}}
-  {{- $class = printf "%s ew-callout-float-%s" $class $float -}}
-{{- end -}}
-<div class="{{ $class }}">{{ .Inner | markdownify }}</div>
-{{- if $float -}}<div class="ew-callout-clear"></div>{{- end -}}

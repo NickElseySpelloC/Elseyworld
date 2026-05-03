@@ -542,3 +542,9 @@ html.dark .ew-callout {
   }
 }
 
+/* Remove Tailwind Typography's decorative backtick pseudo-elements on inline code */
+.prose code::before,
+.prose code::after {
+  content: none !important;
+}
+

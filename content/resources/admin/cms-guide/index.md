@@ -1,5 +1,5 @@
 ---
-title: "Elseyworld CMS Guide"
+title: "CMS Guide"
 description: "Guide to posting a blog or article on ElseyWorld using Content Management Systems (CMS)"
 date: '2026-04-14T17:00:39+10:00'
 thumbnail: cms-screen-shot.png
