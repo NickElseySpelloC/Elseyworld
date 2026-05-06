@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/cruising-the-river
+  - /blog/cruising-the-river
 ---
 ## 30 Mar 2009
 

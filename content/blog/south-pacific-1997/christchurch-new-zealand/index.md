@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/christchurch-new-zealand
+  - /blog/christchurch-new-zealand
 ---
 ### 23 Feb 1997 - Christchurch
 

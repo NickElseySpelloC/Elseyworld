@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/melbourne
+  - /blog/melbourne
 ---
 ### 5 Feb 2002 - Melbourne Day 1
 

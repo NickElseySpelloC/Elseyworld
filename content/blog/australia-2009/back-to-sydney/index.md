@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/04-07-back-to-sydney
+  - /blog/04-07-back-to-sydney
 ---
 ## 7 Apr 2009
 

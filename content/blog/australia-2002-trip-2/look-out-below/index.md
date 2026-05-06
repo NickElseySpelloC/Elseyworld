@@ -11,6 +11,7 @@ categories:
   - Nick
 aliases:
   - /post/look-out-below
+  - /blog/look-out-below
 ---
 ### 16 Apr 2002 - Virgin on the ridiculous
 

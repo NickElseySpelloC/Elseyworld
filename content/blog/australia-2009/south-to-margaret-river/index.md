@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/south-to-margaret-river
+  - /blog/south-to-margaret-river
 ---
 ## 2 Apr 2009
 

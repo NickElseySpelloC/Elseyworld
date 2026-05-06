@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/sydney-and-nsw
+  - /blog/sydney-and-nsw
 ---
 Welcome to the penultimate chapter in this rambling journal. We're slowly heading towards Sydney and the final stop for one of us at least.
 

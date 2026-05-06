@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/brisbane-sydney-and-beyond
+  - /blog/brisbane-sydney-and-beyond
 ---
 ### 20 Apr 2002 - Balmy Brisbane
 

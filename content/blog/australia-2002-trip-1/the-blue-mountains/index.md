@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/the-blue-mountains
+  - /blog/the-blue-mountains
 ---
 ### 19 Feb 2002 - Flying to Sydney
 

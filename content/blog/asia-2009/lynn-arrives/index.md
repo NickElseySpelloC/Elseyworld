@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/lynn-arrives
+  - /blog/lynn-arrives
 ---
 
 {{< img-caption-float src="eating-in-hoi-an.jpg" side="left"  >}}

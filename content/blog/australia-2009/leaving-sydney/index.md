@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/leaving-sydney
+  - /blog/leaving-sydney
 ---
 ## 19 Mar 2009
 

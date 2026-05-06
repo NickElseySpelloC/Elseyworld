@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/flying-to-kuala-lumpur
+  - /blog/flying-to-kuala-lumpur
 ---
 
 {{< img-caption src="img-0254.jpg" caption="Petronas Towers" alt="" >}}

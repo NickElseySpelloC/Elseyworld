@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/bendigo
+  - /blog/bendigo
 ---
 ## 21 Mar 2009
 

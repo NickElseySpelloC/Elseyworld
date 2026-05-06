@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/heading-for-adelaide
+  - /blog/heading-for-adelaide
 ---
 ## 26 Mar 2009
 

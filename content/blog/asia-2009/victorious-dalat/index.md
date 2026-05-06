@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/victorious-dalat
+  - /blog/victorious-dalat
 ---
 
 {{< img-caption-float side="left" src="img-1331.jpg" caption="Lynn and Kitch, Prenn Falls" alt="" >}}

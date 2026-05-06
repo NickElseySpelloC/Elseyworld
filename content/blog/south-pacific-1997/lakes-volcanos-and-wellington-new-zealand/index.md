@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/lakes-volcanos-and-wellington-new-zealand
+  - /blog/lakes-volcanos-and-wellington-new-zealand
 ---
 ### 16 Feb 1997 - Rotorua & Lake Taupo
 

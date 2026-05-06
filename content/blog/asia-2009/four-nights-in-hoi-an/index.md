@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/four-nights-in-hoi-an
+  - /blog/four-nights-in-hoi-an
 ---
 
 New day, new city. Lynn has us booked on flights to Danang this morning, which is the closest airport to Hoi An, our next port of call. The little I know if Danang has been gleaned from various war movies and Robin Williams’ one liners from "Good Morning Vietnam". Needless to say I was going in with an open mind.

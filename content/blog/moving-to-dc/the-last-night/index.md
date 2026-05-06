@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/the-last-night
+  - /blog/the-last-night
 ---
 ## 21 Jul 2002
 

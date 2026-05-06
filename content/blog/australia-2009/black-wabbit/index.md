@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/black-wabbit
+  - /blog/black-wabbit
 ---
 ## 25 Mar 2009
 

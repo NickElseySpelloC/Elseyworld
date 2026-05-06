@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/wine-country-new-zealand
+  - /blog/wine-country-new-zealand
 ---
 ### 20 Feb 1997 - Wellington, Ferry to Picton & Marlborough Region
 

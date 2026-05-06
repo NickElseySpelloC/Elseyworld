@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/portland-la
+  - /blog/portland-la
 ---
 ![lax.jpg](lax.jpg)
 

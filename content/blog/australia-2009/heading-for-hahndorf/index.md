@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/heading-for-hahndorf
+  - /blog/heading-for-hahndorf
 ---
 ## 22 Mar 2009
 

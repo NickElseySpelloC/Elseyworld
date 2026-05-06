@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/flying-west
+  - /blog/flying-west
 ---
 ## 28 Mar 2009
 

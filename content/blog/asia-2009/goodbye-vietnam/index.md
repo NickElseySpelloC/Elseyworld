@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/goodbye-vietnam
+  - /blog/goodbye-vietnam
 ---
 
 In the morning we take a stroll down the street to check out the river (not overly picturesque, but sporting a surprising large amount of debris floating down river) and the hotel Majestic (for no other reason than the name, which it lived up to with some aplomb).

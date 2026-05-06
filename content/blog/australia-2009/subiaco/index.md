@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/subiaco
+  - /blog/subiaco
 ---
 ## 31 Mar 2009
 

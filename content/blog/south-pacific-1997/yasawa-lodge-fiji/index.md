@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/yasawa-lodge-fiji
+  - /blog/yasawa-lodge-fiji
 ---
 ### 12 Feb 1997 - Yasawa Lodge
 

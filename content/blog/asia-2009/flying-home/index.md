@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/flying-home
+  - /blog/flying-home
 ---
 
 {{< img-caption src="img-1404.jpg" caption="Angkor Wat" alt="" >}}

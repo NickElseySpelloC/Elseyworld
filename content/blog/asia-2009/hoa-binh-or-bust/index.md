@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/hoa-binh-or-bust
+  - /blog/hoa-binh-or-bust
 ---
 
 With my last full day in Hanoi before Lynn arrives, I toyed with the idea of a day tour out into the country to take in some pagodas and other attractions.

@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/driving-to-tooberac
+  - /blog/driving-to-tooberac
 ---
 ## 20 Mar 2009
 

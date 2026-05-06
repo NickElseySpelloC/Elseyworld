@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/enroute-to-adelaide
+  - /blog/enroute-to-adelaide
 ---
 
 ### 8 Feb 2002 - Driving to Port Fairy

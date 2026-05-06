@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/western-australia
+  - /blog/western-australia
 ---
 ### 26 Feb 1997 - Fremantle
 

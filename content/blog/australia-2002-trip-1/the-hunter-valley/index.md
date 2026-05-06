@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/the-hunter-valley
+  - /blog/the-hunter-valley
 ---
 ### 1 Feb 2002 - Driving to the Hunter Valley
 

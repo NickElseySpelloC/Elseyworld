@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/saigon
+  - /blog/saigon
 ---
 
 {{< img-caption src="img-1348.jpg" caption="Saigon Opera House" alt="" >}}

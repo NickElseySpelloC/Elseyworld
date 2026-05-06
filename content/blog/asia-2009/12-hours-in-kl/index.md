@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/12-hours-in-kl
+  - /blog/12-hours-in-kl
 ---
 
 On the way out I came across a piece in the in-flight magazine called “KL city tour”.  Having utterly failed to do any background research on the city, I decide to let this be my guide. The itinerary has me starting at 8am, but I fluff that and don’t get out of the hotel until after nine.

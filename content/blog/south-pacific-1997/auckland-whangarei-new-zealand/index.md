@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/auckland-whangarei-new-zealand
+  - /blog/auckland-whangarei-new-zealand
 ---
 ### 14 Feb 1997 - Auckland & Whangarei
 

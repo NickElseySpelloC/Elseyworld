@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/leaving-on-a-jet-plane
+  - /blog/leaving-on-a-jet-plane
 ---
 ### 27 Jan 2002 - Portland
 

@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/cape-to-cape
+  - /blog/cape-to-cape
 ---
 ## 3 Apr 2009
 

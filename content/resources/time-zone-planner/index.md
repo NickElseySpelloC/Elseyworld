@@ -5,6 +5,8 @@ title: 'Time Zone Planner'
 layout: simple
 thumbnail: time-chart-page.png
 description: An Excel template that helps you plan an event or meeting across multiple time zones. You can add up to 6 cities in addition to your home timezone. The tool will automatically calculate the current time in each, taking into account timezones and daylight savings.
+aliases:
+    /time-zone-planner
 ---
 
 This is an Excel template I developed that helps you plan an event or meeting across multiple time zones. You can add up to 6 cities in addition to your home timezone. The tool will automatically calculate the current time in each, taking into account timezones and daylight savings. You can then save this document and reopen later for quick reference to your 'favourite' locations.

@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/adelaide-again
+  - /blog/adelaide-again
 ---
 ### 24 Apr 2002 - Housing hysteria
 

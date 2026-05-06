@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/nha-trang-briefly
+  - /blog/nha-trang-briefly
 ---
 
 Early this morning we say a fond farewell to Hoi An and drive back up to Danang to catch a flight down to Nha Trang. Since we’ve been diligent focusing on the sights and culture for these past few days (well kinda), we figure that we’re long over due for some R&R on the beach (those pagodas can be exhausting you know). Nha Trang is apparently one of the best beach destinations, so the plan is to spend a couple of nights here being lazy and recharging the batteries.

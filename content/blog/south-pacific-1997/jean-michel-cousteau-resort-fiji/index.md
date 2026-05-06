@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/jean-michel-cousteau-resort-fiji-day-1
+  - /blog/jean-michel-cousteau-resort-fiji-day-1
 ---
 ### 7 Feb 1997 -Arriving at Jean-Michel Cousteau Resort
 

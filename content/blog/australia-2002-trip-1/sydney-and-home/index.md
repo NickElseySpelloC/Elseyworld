@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/sydney-and-home
+  - /blog/sydney-and-home
 ---
 ### 24 Feb 2002 - Back to Sydney
 

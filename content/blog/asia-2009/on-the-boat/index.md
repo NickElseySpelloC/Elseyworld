@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/on-the-boat
+  - /blog/on-the-boat
 ---
 
 I’m spending the next night and two days aboard the **Emeraude** on Halong Bay. Halong Bay is about 150 km, or 3 hours east of Hanoi and should be included on even the most perfunctory of Vietnamese itineraries. What makes it so attractive, and indeed deserving of its UNESCO World Heritage status, are the thousands of limestone karsts pinnacles that the emerge dramatically from the water. 

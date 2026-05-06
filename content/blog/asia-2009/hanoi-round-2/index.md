@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/hanoi-round-2
+  - /blog/hanoi-round-2
 ---
 
 {{< img-caption-float side="left" src="img-0289.jpg" caption="Lantern Street" alt="" >}}

@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/sydney
+  - /blog/sydney
 ---
 ### 29 Jan 2002 - Sydney Day 1
 

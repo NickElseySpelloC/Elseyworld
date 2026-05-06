@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/western-sunsets-are-the-best
+  - /blog/western-sunsets-are-the-best
 ---
 ## 4 Apr 2009
 

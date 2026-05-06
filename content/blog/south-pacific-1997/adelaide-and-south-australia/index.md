@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/adelaide-and-south-australia
+  - /blog/adelaide-and-south-australia
 ---
 Greetings, and welcome to chapter 5 of the journal, which brings us to beautiful Adelaide and the Barossa valley in the state of South Australia. This chapter is a little brief, mainly since all the boring repetitive bits have been left out (boring to you anyway).
 

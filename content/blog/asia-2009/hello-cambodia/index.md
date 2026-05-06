@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/hello-cambodia
+  - /blog/hello-cambodia
 ---
 
 {{< img-caption src="img-1386.jpg" caption="Victoria Hotel" alt="" >}}

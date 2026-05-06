@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/back-to-hanoi
+  - /blog/back-to-hanoi
 ---
 
 In the morning we way slowly made our way back to shore after a hearty, tasty and undoubtedly cholesterol laden breakfast. Along the way we visited one of the floating villages. They are literally that – a couple of dozen small wooden houses floating on a platform of planks and old barrels. They apparently live almost exclusively off the sea – either fishing or tending nearby fish farms. Even through they’re only a few yards from the rocky shoreline, they have no connection with it. It’s obvious that their other main source of hard cash is yours truly and my fellow floating tourists. As we pull into the bay, we’re met by a small flotilla of row boats, each laden with food or trinkets and usually rowed by a very young kid (to further soften you up into handing over some dollars).  It’s also interesting to note that they have an unusual [forward rowing technique](http://www.youtube.com/watch?v=Lx6nBp-oOtA). It has the obvious advantage that you can see where you’re going (all the better to track your tourist target), but apparently it’s much harder than it looks.

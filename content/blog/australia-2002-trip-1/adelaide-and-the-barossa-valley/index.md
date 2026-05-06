@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/adelaide-and-the-barossa-valley
+  - /blog/adelaide-and-the-barossa-valley
 ---
 ### 10 Feb 2002 - Driving to Adelaide
 

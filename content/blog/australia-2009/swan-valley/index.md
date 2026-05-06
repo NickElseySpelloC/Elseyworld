@@ -10,6 +10,7 @@ categories:
   - Nick
 aliases:
   - /post/swan-valley
+  - /blog/swan-valley
 ---
 ## 29 Mar 2009
 
