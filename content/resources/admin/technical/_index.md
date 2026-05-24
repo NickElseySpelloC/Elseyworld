@@ -7,6 +7,16 @@ showTableOfContents: true
 showBreadcrumbs: true
 ---
 
+## Installing the site on a new machine
+
+```bash
+cd ~/dev
+
+git clone https://github.com/NickElseySpelloC/Elseyworld
+
+git submodule update --init --recursive
+```
+
 ## Documentation Available
 
 - Using the Site (see below)

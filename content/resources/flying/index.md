@@ -26,7 +26,7 @@ The basic layout of the navigation log is similar to the Jeppesen form, but take
 
 Of course nowadays everyone's using Foreflight, but for those of you that prefer the traditional approach, this tool is for you!
 
-### [Download the VFR Flight Planner v3.53](VFR-Flight-Planner.xltm)
+### [Download the VFR Flight Planner v3.53](https://raw.githubusercontent.com/NickElseySpelloC/VFRFlightPlanner/main/VFR-Flight-Planner.xltm)
 
 {{< img-float src="/img/icons/icon-excel.jpg" href="VFR-Flight-Planner.xltm" side="left" width=50 >}}
 Follow the installation instructions to install the flight planner before using. Requires Excel 365 and macros to be enabled.
